@@ -298,61 +298,65 @@ export default function Home() {
             <Card className="p-8 border-l-4 border-primary">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-12 h-12 rounded-full bg-primary/20 flex items-center justify-center text-lg font-bold text-primary">
-                  AK
+                  RJ
                 </div>
                 <div>
-                  <p className="font-bold text-foreground">Ahmed Khan</p>
-                  <p className="text-sm text-foreground/60">Adult Learner</p>
+                  <p className="font-bold text-foreground">Rose Jurtsuk</p>
+                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
-                "I was terrified of computers, but Shoaib's patient teaching made everything click. I can now confidently use email, spreadsheets, and even started learning about AI!"
+                "Mr. Shoaib Hayat was my first instructor. I had a fantastic experience with him as a teacher. He was always helpful and timely with responses as well as having conducted the course material in a very clear and concise way."
               </p>
+              <div className="mt-3 text-primary text-sm">★★★★★</div>
             </Card>
 
             <Card className="p-8 border-l-4 border-accent">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-lg font-bold text-accent">
-                  SJ
+                  EY
                 </div>
                 <div>
-                  <p className="font-bold text-foreground">Sarah Johnson</p>
-                  <p className="text-sm text-foreground/60">High School Student</p>
+                  <p className="font-bold text-foreground">Emma Y</p>
+                  <p className="text-sm text-foreground/60">Mature Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
-                "The lessons are clear and engaging. I went from struggling with basic computer tasks to understanding how AI works. Highly recommend!"
+                "Mr. Shoaib Hayat expertise and kindness made returning to post secondary as a mature student a pleasant and engaging transition. I am thankful for his patience and ongoing support."
               </p>
+              <div className="mt-3 text-accent text-sm">★★★★★</div>
             </Card>
 
             <Card className="p-8 border-l-4 border-primary">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-12 h-12 rounded-full bg-primary/20 flex items-center justify-center text-lg font-bold text-primary">
-                  MR
+                  RA
                 </div>
                 <div>
-                  <p className="font-bold text-foreground">Maria Rodriguez</p>
-                  <p className="text-sm text-foreground/60">Career Changer</p>
+                  <p className="font-bold text-foreground">Rachel Anne</p>
+                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
-                "Shoaib helped me transition into tech. His structured approach and real-world examples made complex concepts easy to understand."
+                "Mr. Shoaib Hayat was my instructor and I couldn't have asked for a better start. He is knowledgeable, supportive and always available to address concerns. His professionalism truly stands out."
               </p>
+              <div className="mt-3 text-primary text-sm">★★★★★</div>
             </Card>
 
             <Card className="p-8 border-l-4 border-accent">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-12 h-12 rounded-full bg-accent/20 flex items-center justify-center text-lg font-bold text-accent">
-                  DP
+                  NN
                 </div>
                 <div>
-                  <p className="font-bold text-foreground">David Park</p>
-                  <p className="text-sm text-foreground/60">Young Learner</p>
+                  <p className="font-bold text-foreground">Naseema Nazary</p>
+                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
-                "Learning from Shoaib is fun! He explains things in a way that makes sense, and I actually enjoy our sessions. I'm excited about tech now!"
+                "SHOAIB HAYAT is an amazing instructor! He is an excellent knowledgeable and skilled instructor. His guidance and encouragement make learning easier and boost my confidence."
               </p>
+              <div className="mt-3 text-accent text-sm">★★★★★</div>
             </Card>
           </div>
         </div>
