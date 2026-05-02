@@ -98,7 +98,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-3xl blur-2xl" />
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white/50">
                 <img
-                  src="/manus-storage/shoaib-professional-half_7952aef7.png"
+                  src="/manus-storage/shoaib-professional-upper-half_c0f9f7f8.png"
                   alt="Shoaib Hayat - IT Insight Academy Founder"
                   className="w-full h-full object-cover"
                 />
