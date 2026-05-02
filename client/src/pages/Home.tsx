@@ -302,7 +302,6 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-bold text-foreground">Rose Jurtsuk</p>
-                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
@@ -318,7 +317,6 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-bold text-foreground">Emma Y</p>
-                  <p className="text-sm text-foreground/60">Mature Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
@@ -334,7 +332,6 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-bold text-foreground">Rachel Anne</p>
-                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
@@ -350,7 +347,6 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-bold text-foreground">Naseema Nazary</p>
-                  <p className="text-sm text-foreground/60">CDI College Student</p>
                 </div>
               </div>
               <p className="text-foreground/70">
