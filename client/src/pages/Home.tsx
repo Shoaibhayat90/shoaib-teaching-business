@@ -358,6 +358,26 @@ export default function Home() {
             </Card>
           </div>
 
+          {/* Tech Expertise Showcase */}
+          <div className="mt-16 py-12 rounded-2xl overflow-hidden relative">
+            <img
+              src="/manus-storage/shoaib-tech-expertise_b016d69d.png"
+              alt="Shoaib's Tech Expertise - Algorithms, Data Structures, and Advanced Concepts"
+              className="w-full h-auto object-cover rounded-2xl shadow-xl"
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-black/30 to-transparent rounded-2xl" />
+            <div className="absolute inset-0 flex items-center justify-start p-8 md:p-12">
+              <div className="max-w-xl">
+                <h3 className="text-3xl md:text-4xl font-bold text-white mb-4">
+                  Expert Knowledge Across All Tech Domains
+                </h3>
+                <p className="text-lg text-white/90">
+                  From fundamental algorithms to advanced data structures, operating systems to networking—master the complete tech stack with guidance from someone who understands it all.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Mini-Courses */}
           <div className="mt-16 pt-16 border-t border-border/30">
             <h3 className="text-3xl font-bold text-center mb-12 text-foreground">
