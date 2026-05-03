@@ -361,7 +361,7 @@ export default function Home() {
           {/* Tech Expertise Showcase */}
           <div className="mt-16 py-12 rounded-2xl overflow-hidden relative">
             <img
-              src="/manus-storage/shoaib-tech-expertise_b016d69d.png"
+              src="/manus-storage/shoaib-tech-expertise-cleaned_e355f15b.png"
               alt="Shoaib's Tech Expertise - Algorithms, Data Structures, and Advanced Concepts"
               className="w-full h-auto object-cover rounded-2xl shadow-xl"
             />
