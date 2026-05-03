@@ -131,10 +131,10 @@ export default function Home() {
               About IT Insight Academy
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed mb-8">
-              We are a practical IT learning platform focused on helping beginners, students, and job seekers build real-world skills that lead to career opportunities. Our training is simple, structured, and designed for people with little to no technical background.
+              We are a passionate team of IT educators focused on helping beginners, students, and job seekers build real-world skills that lead to career opportunities. Our training is simple, structured, and designed for people with little to no technical background.
             </p>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              Our goal is not just to teach theory, but to prepare students for real-life work environments by providing clear guidance, hands-on learning, and career-focused training.
+              Our mission is not just to teach theory, but to prepare students for real-life work environments by providing clear guidance, hands-on learning, and career-focused training. We're committed to making tech education accessible and engaging for everyone.
             </p>
           </div>
 
@@ -199,7 +199,7 @@ export default function Home() {
                 </h2>
               </div>
               <p className="text-lg text-foreground/70 leading-relaxed">
-                I believe in creating a comfortable, judgment-free learning environment where every student feels supported. Whether you're learning online or in person, I adapt my teaching style to match your learning pace and preferences.
+                We believe in creating a comfortable, judgment-free learning environment where every student feels supported. Whether you're learning online or in person, we adapt our teaching style to match your learning pace and preferences.
               </p>
               <div className="space-y-4">
                 <div className="flex items-start gap-4">
@@ -208,7 +208,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-foreground mb-1">Patient & Supportive</h4>
-                    <p className="text-foreground/70 text-sm">No question is too basic. I explain concepts multiple times in different ways until you truly understand.</p>
+                    <p className="text-foreground/70 text-sm">No question is too basic. We explain concepts multiple times in different ways until you truly understand.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
