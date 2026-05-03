@@ -453,7 +453,7 @@ export default function Home() {
               Specialized Mini-Courses
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              Focused training for specific skills and career goals. 4-6 weeks each.
+              Focused training for specific skills and career goals. 3-4 weeks each.
             </p>
           </div>
 
@@ -463,7 +463,7 @@ export default function Home() {
               <p className="text-foreground/70 mb-4">
                 Tailored for older adults learning technology for the first time. Focus on practical, everyday skills.
               </p>
-              <p className="text-sm font-semibold text-foreground">$100 | 4-6 weeks | $55/hour (1-on-1)</p>
+              <p className="text-sm font-semibold text-foreground">$250/course (Group) | 3-4 weeks | $55/hour (1-on-1)</p>
             </Card>
 
             <Card className="p-8 hover:shadow-lg transition-shadow">
@@ -471,7 +471,7 @@ export default function Home() {
               <p className="text-foreground/70 mb-4">
                 Learn to navigate Facebook, Instagram, LinkedIn, and other platforms confidently and safely.
               </p>
-              <p className="text-sm font-semibold text-foreground">$100 | 4-6 weeks | $55/hour (1-on-1)</p>
+              <p className="text-sm font-semibold text-foreground">$250/course (Group) | 3-4 weeks | $55/hour (1-on-1)</p>
             </Card>
 
             <Card className="p-8 hover:shadow-lg transition-shadow">
@@ -479,7 +479,7 @@ export default function Home() {
               <p className="text-foreground/70 mb-4">
                 Protect yourself online: passwords, phishing, privacy settings, and safe browsing practices.
               </p>
-              <p className="text-sm font-semibold text-foreground">$150 | 4-6 weeks | $55/hour (1-on-1)</p>
+              <p className="text-sm font-semibold text-foreground">$250/course (Group) | 3-4 weeks | $55/hour (1-on-1)</p>
             </Card>
 
             <Card className="p-8 hover:shadow-lg transition-shadow">
@@ -487,7 +487,7 @@ export default function Home() {
               <p className="text-foreground/70 mb-4">
                 Build a freelance career: online platforms, portfolio building, and finding your first clients.
               </p>
-              <p className="text-sm font-semibold text-foreground">$150 | 4-6 weeks | $55/hour (1-on-1)</p>
+              <p className="text-sm font-semibold text-foreground">$250/course (Group) | 3-4 weeks | $55/hour (1-on-1)</p>
             </Card>
           </div>
         </div>
