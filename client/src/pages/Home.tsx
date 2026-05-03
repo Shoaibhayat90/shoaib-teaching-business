@@ -173,7 +173,7 @@ export default function Home() {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/manus-storage/shoaib-teaching-online_6e11674d.jpg"
+                  src="/manus-storage/shoaib-teaching-online-edited_76380e33.png"
                   alt="Shoaib teaching online with headphones and laptop"
                   className="w-full h-auto object-cover"
                 />
