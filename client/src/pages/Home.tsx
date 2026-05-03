@@ -165,6 +165,69 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Teaching Style Section with Photo */}
+      <section className="py-20 bg-white">
+        <div className="container">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            {/* Left: Photo */}
+            <div className="relative">
+              <div className="rounded-2xl overflow-hidden shadow-2xl">
+                <img
+                  src="/manus-storage/shoaib-teaching-online_6e11674d.jpg"
+                  alt="Shoaib teaching online with headphones and laptop"
+                  className="w-full h-auto object-cover"
+                />
+              </div>
+              <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-primary/20 rounded-full blur-3xl" />
+            </div>
+
+            {/* Right: Content */}
+            <div className="space-y-6">
+              <div>
+                <span className="px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-semibold inline-block mb-4">
+                  My Teaching Approach
+                </span>
+                <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+                  Learn at Your Own Pace
+                </h2>
+              </div>
+              <p className="text-lg text-foreground/70 leading-relaxed">
+                I believe in creating a comfortable, judgment-free learning environment where every student feels supported. Whether you're learning online or in person, I adapt my teaching style to match your learning pace and preferences.
+              </p>
+              <div className="space-y-4">
+                <div className="flex items-start gap-4">
+                  <div className="w-6 h-6 rounded-full bg-primary flex items-center justify-center flex-shrink-0 mt-1">
+                    <span className="text-white text-sm font-bold">✓</span>
+                  </div>
+                  <div>
+                    <h4 className="font-bold text-foreground mb-1">Patient & Supportive</h4>
+                    <p className="text-foreground/70 text-sm">No question is too basic. I explain concepts multiple times in different ways until you truly understand.</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-4">
+                  <div className="w-6 h-6 rounded-full bg-primary flex items-center justify-center flex-shrink-0 mt-1">
+                    <span className="text-white text-sm font-bold">✓</span>
+                  </div>
+                  <div>
+                    <h4 className="font-bold text-foreground mb-1">Flexible Scheduling</h4>
+                    <p className="text-foreground/70 text-sm">Online or in-person, group or one-on-one—choose what works best for your lifestyle.</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-4">
+                  <div className="w-6 h-6 rounded-full bg-primary flex items-center justify-center flex-shrink-0 mt-1">
+                    <span className="text-white text-sm font-bold">✓</span>
+                  </div>
+                  <div>
+                    <h4 className="font-bold text-foreground mb-1">Real-World Focus</h4>
+                    <p className="text-foreground/70 text-sm">Learn skills you'll actually use, with practical projects and hands-on examples.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Diagonal Divider */}
       <div className="h-20 bg-gradient-to-b from-white to-background relative">
         <svg
