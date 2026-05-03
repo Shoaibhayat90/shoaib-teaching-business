@@ -115,7 +115,7 @@ export default function Home() {
 
 
       {/* About Section */}
-      <section id="about" className="py-20 bg-white scroll-mt-24">
+      <section id="about" className="py-20 bg-white scroll-mt-20">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
@@ -240,7 +240,7 @@ export default function Home() {
       {/* Courses Section */}
       <section
         id="courses"
-        className="py-20 relative scroll-mt-24"
+        className="py-20 relative scroll-mt-20"
         style={{
           backgroundImage: "url('https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/courses-section-bg-F9fNiWuUaVVhnmUvT5biuK.webp')",
           backgroundSize: "cover",
@@ -589,7 +589,7 @@ export default function Home() {
       </section>
 
       {/* Testimonials Section */}
-      <section id="testimonials" className="py-20 bg-background scroll-mt-24">
+      <section id="testimonials" className="py-20 bg-background scroll-mt-20">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
@@ -653,7 +653,7 @@ export default function Home() {
       </section>
 
       {/* Contact Section */}
-      <section id="contact" className="py-20 bg-white scroll-mt-24">
+      <section id="contact" className="py-20 bg-white scroll-mt-20">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
