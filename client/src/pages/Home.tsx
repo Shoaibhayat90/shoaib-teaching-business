@@ -275,7 +275,7 @@ export default function Home() {
                 <BookOpen className="w-6 h-6 text-primary" />
               </div>
               <h4 className="text-xl font-bold text-primary mb-4">Computer Basics</h4>
-              <p className="text-foreground/70 mb-6">
+              <p className="text-foreground/70 mb-6 text-sm">
                 Master the fundamentals: hardware, operating systems, internet basics, and essential office applications.
               </p>
               <div className="space-y-3 mb-6">
@@ -285,15 +285,42 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-foreground/70">
                   <DollarSign className="w-4 h-4 text-primary" />
-                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
+                  <span>$200/course (Group) | $55/hour (1-on-1)</span>
                 </div>
               </div>
-              <div className="space-y-2 mb-6 text-sm text-foreground/70">
-                <p>✓ Computer Hardware Fundamentals</p>
-                <p>✓ Operating Systems (Windows/Mac)</p>
-                <p>✓ Internet & Email Essentials</p>
-                <p>✓ Microsoft Office Basics</p>
+              
+              <div className="mb-6">
+                <h5 className="font-semibold text-foreground mb-3 text-sm">Topics Covered:</h5>
+                <div className="space-y-2 text-sm text-foreground/70">
+                  <div>
+                    <p className="font-medium text-foreground">Computer Hardware</p>
+                    <p className="text-xs ml-2">• CPU, RAM, Storage, Peripherals • How computers work</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Operating Systems</p>
+                    <p className="text-xs ml-2">• Windows & Mac basics • File management • System settings</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Internet & Email</p>
+                    <p className="text-xs ml-2">• Web browsers • Email setup & management • Online safety</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Microsoft Office</p>
+                    <p className="text-xs ml-2">• Word basics • Excel fundamentals • PowerPoint intro</p>
+                  </div>
+                </div>
               </div>
+              
+              <div className="mb-6 p-3 bg-primary/5 rounded-lg">
+                <p className="text-xs font-semibold text-primary mb-2">Learning Outcomes:</p>
+                <ul className="space-y-1 text-xs text-foreground/70">
+                  <li>✓ Confidently use a computer for daily tasks</li>
+                  <li>✓ Navigate the internet safely and efficiently</li>
+                  <li>✓ Create and manage files and folders</li>
+                  <li>✓ Use Office applications for basic productivity</li>
+                </ul>
+              </div>
+              
               <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                 Enroll Now
               </Button>
@@ -306,7 +333,7 @@ export default function Home() {
                 <BookOpen className="w-6 h-6 text-primary" />
               </div>
               <h4 className="text-xl font-bold text-primary mb-4">Intermediate Skills</h4>
-              <p className="text-foreground/70 mb-6">
+              <p className="text-foreground/70 mb-6 text-sm">
                 Advanced productivity tools, digital literacy, design basics, and web fundamentals for career advancement.
               </p>
               <div className="space-y-3 mb-6">
@@ -316,15 +343,42 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-foreground/70">
                   <DollarSign className="w-4 h-4 text-primary" />
-                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
+                  <span>$200/course (Group) | $55/hour (1-on-1)</span>
                 </div>
               </div>
-              <div className="space-y-2 mb-6 text-sm text-foreground/70">
-                <p>✓ Excel Formulas & Data Analysis</p>
-                <p>✓ PowerPoint Presentations</p>
-                <p>✓ Canva Design Basics</p>
-                <p>✓ Cybersecurity Awareness</p>
+              
+              <div className="mb-6">
+                <h5 className="font-semibold text-foreground mb-3 text-sm">Topics Covered:</h5>
+                <div className="space-y-2 text-sm text-foreground/70">
+                  <div>
+                    <p className="font-medium text-foreground">Advanced Excel</p>
+                    <p className="text-xs ml-2">• Formulas & functions • Data analysis • Charts & visualization</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Professional Presentations</p>
+                    <p className="text-xs ml-2">• PowerPoint design • Storytelling • Presentation skills</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Digital Design</p>
+                    <p className="text-xs ml-2">• Canva for graphics • Social media design • Visual communication</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Digital Security</p>
+                    <p className="text-xs ml-2">• Password management • Phishing awareness • Data protection</p>
+                  </div>
+                </div>
               </div>
+              
+              <div className="mb-6 p-3 bg-primary/5 rounded-lg">
+                <p className="text-xs font-semibold text-primary mb-2">Learning Outcomes:</p>
+                <ul className="space-y-1 text-xs text-foreground/70">
+                  <li>✓ Analyze data and create professional reports</li>
+                  <li>✓ Design compelling visual presentations</li>
+                  <li>✓ Create professional graphics and marketing materials</li>
+                  <li>✓ Protect yourself and your data online</li>
+                </ul>
+              </div>
+              
               <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                 Enroll Now
               </Button>
@@ -337,7 +391,7 @@ export default function Home() {
                 <BookOpen className="w-6 h-6 text-primary" />
               </div>
               <h4 className="text-xl font-bold text-primary mb-4">AI & Advanced Tech</h4>
-              <p className="text-foreground/70 mb-6">
+              <p className="text-foreground/70 mb-6 text-sm">
                 AI fundamentals, machine learning basics, modern tools like ChatGPT, and introduction to programming.
               </p>
               <div className="space-y-3 mb-6">
@@ -347,15 +401,42 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-foreground/70">
                   <DollarSign className="w-4 h-4 text-primary" />
-                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
+                  <span>$200/course (Group) | $55/hour (1-on-1)</span>
                 </div>
               </div>
-              <div className="space-y-2 mb-6 text-sm text-foreground/70">
-                <p>✓ AI Fundamentals & Applications</p>
-                <p>✓ ChatGPT & Modern AI Tools</p>
-                <p>✓ Python Programming Basics</p>
-                <p>✓ Automation & Emerging Tech</p>
+              
+              <div className="mb-6">
+                <h5 className="font-semibold text-foreground mb-3 text-sm">Topics Covered:</h5>
+                <div className="space-y-2 text-sm text-foreground/70">
+                  <div>
+                    <p className="font-medium text-foreground">AI Fundamentals</p>
+                    <p className="text-xs ml-2">• What is AI & ML • How AI works • Real-world applications</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">AI Tools & Prompting</p>
+                    <p className="text-xs ml-2">• ChatGPT mastery • Prompt engineering • AI for productivity</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Python Programming</p>
+                    <p className="text-xs ml-2">• Python basics • Variables & data types • Loops & functions</p>
+                  </div>
+                  <div>
+                    <p className="font-medium text-foreground">Automation & Future Tech</p>
+                    <p className="text-xs ml-2">• Task automation • APIs & integrations • Career in tech</p>
+                  </div>
+                </div>
               </div>
+              
+              <div className="mb-6 p-3 bg-primary/5 rounded-lg">
+                <p className="text-xs font-semibold text-primary mb-2">Learning Outcomes:</p>
+                <ul className="space-y-1 text-xs text-foreground/70">
+                  <li>✓ Understand AI and machine learning concepts</li>
+                  <li>✓ Leverage AI tools for productivity and innovation</li>
+                  <li>✓ Write and run basic Python programs</li>
+                  <li>✓ Prepare for tech careers and emerging opportunities</li>
+                </ul>
+              </div>
+              
               <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                 Enroll Now
               </Button>
