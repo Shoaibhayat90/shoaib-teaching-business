@@ -41,7 +41,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-background/95 backdrop-blur-sm z-50 border-b border-border">
+      <nav className="fixed top-0 w-full bg-background backdrop-blur-md z-50 border-b border-border shadow-sm">
         <div className="container flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center text-primary-foreground font-bold text-lg">
@@ -180,7 +180,7 @@ export default function Home() {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/manus-storage/shoaib-teaching-online-edited_76380e33.png"
+                  src="/manus-storage/shoaib-teaching-online-no-iphone_e6110133.png"
                   alt="Shoaib teaching online with headphones and laptop"
                   className="w-full h-auto object-cover"
                 />
