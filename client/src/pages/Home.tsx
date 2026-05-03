@@ -74,7 +74,7 @@ export default function Home() {
 
       {/* Hero Section - No Photo */}
       <section
-        className="relative pt-32 pb-20 overflow-hidden"
+        className="relative pt-40 pb-20 overflow-hidden"
         style={{
           backgroundImage: "url('https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/hero-background-HgFf8FtouiYeGiHTJh2txR.webp')",
           backgroundSize: "cover",
@@ -112,16 +112,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Diagonal Divider */}
-      <div className="h-20 bg-gradient-to-b from-background to-white relative">
-        <svg
-          className="absolute bottom-0 w-full h-full"
-          viewBox="0 0 1200 100"
-          preserveAspectRatio="none"
-        >
-          <polygon points="0,50 1200,0 1200,100 0,100" fill="white" />
-        </svg>
-      </div>
+
 
       {/* About Section */}
       <section id="about" className="py-20 bg-white">
