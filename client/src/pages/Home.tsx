@@ -44,9 +44,7 @@ export default function Home() {
       <nav className="fixed top-0 w-full bg-background backdrop-blur-md z-50 border-b border-border shadow-sm">
         <div className="container flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center text-primary-foreground font-bold text-lg">
-              IT
-            </div>
+            <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="w-12 h-12 object-contain" />
             <div className="flex flex-col leading-tight hidden sm:block">
               <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
               <span className="text-xs text-primary font-medium">Learn Technology from Scratch</span>
