@@ -1,6 +1,5 @@
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { ChevronRight, Zap, Users, Award, Mail, Phone, MapPin, CheckCircle } from "lucide-react";
+import { ChevronRight, Zap, Users, Award, Mail, Phone, MapPin, CheckCircle, Clock, DollarSign, BookOpen } from "lucide-react";
 import { useEffect, useState } from "react";
 
 /**
@@ -11,6 +10,24 @@ import { useEffect, useState } from "react";
  * - Feel: Professional yet approachable, trustworthy yet energetic
  * - Branding: IT Insight Academy - Learn Technology from Scratch
  */
+
+const Button = ({ children, size = "md", variant = "default", className = "", ...props }: any) => {
+  const baseClasses = "font-medium rounded-lg transition-all duration-200 inline-flex items-center justify-center";
+  const sizeClasses: any = {
+    sm: "px-4 py-2 text-sm",
+    md: "px-6 py-2.5 text-base",
+    lg: "px-8 py-3 text-lg",
+  };
+  const variantClasses: any = {
+    default: "bg-primary hover:bg-primary/90 text-primary-foreground",
+    outline: "border-2 border-primary text-primary hover:bg-primary/5",
+  };
+  return (
+    <button className={`${baseClasses} ${sizeClasses[size]} ${variantClasses[variant]} ${className}`} {...props}>
+      {children}
+    </button>
+  );
+};
 
 export default function Home() {
   const [scrollY, setScrollY] = useState(0);
@@ -55,7 +72,7 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* Hero Section */}
+      {/* Hero Section - No Photo */}
       <section
         className="relative pt-32 pb-20 overflow-hidden"
         style={{
@@ -68,8 +85,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
         <div className="container relative z-10">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-            {/* Left Content */}
+          <div className="max-w-2xl">
             <div className="space-y-6">
               <div className="inline-block">
                 <span className="px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-semibold">
@@ -81,27 +97,15 @@ export default function Home() {
                 <span className="text-primary">From Scratch</span>
               </h1>
               <p className="text-lg text-foreground/80 leading-relaxed max-w-lg">
-                Master computer skills and AI with personalized instruction designed for beginners. Whether you're a student or adult, I'll guide you from basics to expertise with patience and clarity.
+                A practical IT learning platform focused on helping beginners, students, and job seekers build real-world skills that lead to career opportunities. Simple, structured, and designed for people with little to no technical background.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
                   Start Learning <ChevronRight className="w-4 h-4 ml-2" />
                 </Button>
                 <Button size="lg" variant="outline" className="border-primary text-primary hover:bg-primary/5">
-                  Schedule Demo
+                  Schedule Free Consultation
                 </Button>
-              </div>
-            </div>
-
-            {/* Right Profile Image - Professional Photo (Half) */}
-            <div className="relative h-96 md:h-full flex items-center justify-center">
-              <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-3xl blur-2xl" />
-              <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white/50">
-                <img
-                  src="/manus-storage/shoaib-casual-cropped_7738099e.png"
-                  alt="Shoaib Hayat - IT Insight Academy Founder"
-                  className="w-full h-full object-cover"
-                />
               </div>
             </div>
           </div>
@@ -124,10 +128,13 @@ export default function Home() {
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              About Your Instructor
+              About IT Insight Academy
             </h2>
+            <p className="text-lg text-foreground/70 leading-relaxed mb-8">
+              We are a practical IT learning platform focused on helping beginners, students, and job seekers build real-world skills that lead to career opportunities. Our training is simple, structured, and designed for people with little to no technical background.
+            </p>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              With 5+ years of experience in quality assurance, education, and curriculum development, I combine technical expertise with proven teaching methodologies to make technology accessible to everyone.
+              Our goal is not just to teach theory, but to prepare students for real-life work environments by providing clear guidance, hands-on learning, and career-focused training.
             </p>
           </div>
 
@@ -138,7 +145,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-foreground">Expert Instructor</h3>
               <p className="text-foreground/70">
-                Master's degree in Systems Quality Engineering with proven expertise in IT, QA, and business courses.
+                Master's degree in Systems Quality Engineering with 5+ years of experience in IT, QA, and education.
               </p>
             </Card>
 
@@ -146,9 +153,9 @@ export default function Home() {
               <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
                 <Users className="w-8 h-8 text-primary" />
               </div>
-              <h3 className="text-xl font-bold mb-3 text-foreground">Student-Centered</h3>
+              <h3 className="text-xl font-bold mb-3 text-foreground">Flexible Learning</h3>
               <p className="text-foreground/70">
-                Personalized learning paths tailored to your pace and goals, whether you're a child or adult.
+                One-on-one tutoring, in-home sessions, live online classes, and group learning options tailored to your needs.
               </p>
             </Card>
 
@@ -156,9 +163,9 @@ export default function Home() {
               <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
                 <Zap className="w-8 h-8 text-primary" />
               </div>
-              <h3 className="text-xl font-bold mb-3 text-foreground">Practical Skills</h3>
+              <h3 className="text-xl font-bold mb-3 text-foreground">Job-Ready Skills</h3>
               <p className="text-foreground/70">
-                Hands-on instruction with real-world applications, from computer basics to advanced AI concepts.
+                Hands-on instruction with real-world applications, from computer basics to advanced AI and professional skills.
               </p>
             </Card>
           </div>
@@ -210,7 +217,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-foreground mb-1">Flexible Scheduling</h4>
-                    <p className="text-foreground/70 text-sm">Online or in-person, group or one-on-one—choose what works best for your lifestyle.</p>
+                    <p className="text-foreground/70 text-sm">Students choose their own class times. Online or in-person, group or one-on-one—whatever works best for you.</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -219,7 +226,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-foreground mb-1">Real-World Focus</h4>
-                    <p className="text-foreground/70 text-sm">Learn skills you'll actually use, with practical projects and hands-on examples.</p>
+                    <p className="text-foreground/70 text-sm">Learn skills you'll actually use, with practical projects and hands-on examples for real-life work environments.</p>
                   </div>
                 </div>
               </div>
@@ -249,410 +256,411 @@ export default function Home() {
           backgroundPosition: "center",
         }}
       >
-        <div className="absolute inset-0 bg-background/95" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/90 to-background/70" />
         <div className="container relative z-10">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              Learning Pathways
+              Our Course Pathways
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              Structured courses designed to take you from complete beginner to confident tech user or advanced professional.
+              Structured learning pathways from computer basics to advanced AI. Each course is designed for practical, job-ready skills.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {/* Level 1: Computer Basics */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
-              <div className="h-40 bg-gradient-to-br from-primary to-primary/70 flex items-center justify-center">
-                <span className="text-5xl">💻</span>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            {/* Level 1 */}
+            <Card className="p-8 hover:shadow-xl transition-shadow border-t-4 border-primary">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-2xl font-bold text-foreground">Level 1</h3>
+                <BookOpen className="w-6 h-6 text-primary" />
               </div>
-              <div className="p-8">
-                <div className="inline-block px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-semibold mb-3">
-                  LEVEL 1
+              <h4 className="text-xl font-bold text-primary mb-4">Computer Basics</h4>
+              <p className="text-foreground/70 mb-6">
+                Master the fundamentals: hardware, operating systems, internet basics, and essential office applications.
+              </p>
+              <div className="space-y-3 mb-6">
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <Clock className="w-4 h-4 text-primary" />
+                  <span>8 Weeks</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-2 text-foreground">Computer Basics</h3>
-                <p className="text-foreground/70 mb-6 text-sm">
-                  Perfect for complete beginners. Master the fundamentals of computers and technology.
-                </p>
-                
-                <div className="space-y-3 mb-6">
-                  <div className="text-sm font-semibold text-foreground">What You'll Learn:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Computer hardware & components</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Operating systems (Windows/Mac)</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Internet, browsers & email</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Microsoft Office basics</span>
-                    </li>
-                  </ul>
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <DollarSign className="w-4 h-4 text-primary" />
+                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
                 </div>
-
-                <div className="space-y-3 mb-6 pb-6 border-b border-border">
-                  <div className="text-sm font-semibold text-foreground">Learning Outcomes:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li>✓ Confidently use a computer</li>
-                    <li>✓ Navigate the internet safely</li>
-                    <li>✓ Send emails & manage files</li>
-                    <li>✓ Use basic productivity tools</li>
-                  </ul>
-                </div>
-
-                <div className="text-xs text-foreground/60 mb-4">Duration: 8-10 weeks | Format: Group or 1-on-1</div>
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Explore Course
-                </Button>
               </div>
+              <div className="space-y-2 mb-6 text-sm text-foreground/70">
+                <p>✓ Computer Hardware Fundamentals</p>
+                <p>✓ Operating Systems (Windows/Mac)</p>
+                <p>✓ Internet & Email Essentials</p>
+                <p>✓ Microsoft Office Basics</p>
+              </div>
+              <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                Enroll Now
+              </Button>
             </Card>
 
-            {/* Level 2: Intermediate Skills */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2 border-2 border-primary">
-              <div className="h-40 bg-gradient-to-br from-accent to-accent/70 flex items-center justify-center">
-                <span className="text-5xl">🚀</span>
+            {/* Level 2 */}
+            <Card className="p-8 hover:shadow-xl transition-shadow border-t-4 border-primary md:scale-105">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-2xl font-bold text-foreground">Level 2</h3>
+                <BookOpen className="w-6 h-6 text-primary" />
               </div>
-              <div className="p-8">
-                <div className="inline-block px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-semibold mb-3">
-                  LEVEL 2 - POPULAR
+              <h4 className="text-xl font-bold text-primary mb-4">Intermediate Skills</h4>
+              <p className="text-foreground/70 mb-6">
+                Advanced productivity tools, digital literacy, design basics, and web fundamentals for career advancement.
+              </p>
+              <div className="space-y-3 mb-6">
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <Clock className="w-4 h-4 text-primary" />
+                  <span>10 Weeks</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-2 text-foreground">Intermediate Skills</h3>
-                <p className="text-foreground/70 mb-6 text-sm">
-                  Build practical skills with productivity tools, design basics, and digital literacy.
-                </p>
-
-                <div className="space-y-3 mb-6">
-                  <div className="text-sm font-semibold text-foreground">What You'll Learn:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Advanced Excel & Google Sheets</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>PowerPoint presentations</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Canva for graphic design</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Digital safety & cybersecurity</span>
-                    </li>
-                  </ul>
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <DollarSign className="w-4 h-4 text-primary" />
+                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
                 </div>
-
-                <div className="space-y-3 mb-6 pb-6 border-b border-border">
-                  <div className="text-sm font-semibold text-foreground">Learning Outcomes:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li>✓ Create professional documents</li>
-                    <li>✓ Analyze data with spreadsheets</li>
-                    <li>✓ Design visual content</li>
-                    <li>✓ Stay safe online</li>
-                  </ul>
-                </div>
-
-                <div className="text-xs text-foreground/60 mb-4">Duration: 8-10 weeks | Format: Group or 1-on-1</div>
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Explore Course
-                </Button>
               </div>
+              <div className="space-y-2 mb-6 text-sm text-foreground/70">
+                <p>✓ Excel Formulas & Data Analysis</p>
+                <p>✓ PowerPoint Presentations</p>
+                <p>✓ Canva Design Basics</p>
+                <p>✓ Cybersecurity Awareness</p>
+              </div>
+              <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                Enroll Now
+              </Button>
             </Card>
 
-            {/* Level 3: AI & Advanced Tech */}
-            <Card className="overflow-hidden hover:shadow-xl transition-all duration-300 transform hover:-translate-y-2">
-              <div className="h-40 bg-gradient-to-br from-purple-500 to-purple-600 flex items-center justify-center">
-                <span className="text-5xl">🤖</span>
+            {/* Level 3 */}
+            <Card className="p-8 hover:shadow-xl transition-shadow border-t-4 border-primary">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-2xl font-bold text-foreground">Level 3</h3>
+                <BookOpen className="w-6 h-6 text-primary" />
               </div>
-              <div className="p-8">
-                <div className="inline-block px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-semibold mb-3">
-                  LEVEL 3 - ADVANCED
+              <h4 className="text-xl font-bold text-primary mb-4">AI & Advanced Tech</h4>
+              <p className="text-foreground/70 mb-6">
+                AI fundamentals, machine learning basics, modern tools like ChatGPT, and introduction to programming.
+              </p>
+              <div className="space-y-3 mb-6">
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <Clock className="w-4 h-4 text-primary" />
+                  <span>12 Weeks</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-2 text-foreground">AI & Advanced Tech</h3>
-                <p className="text-foreground/70 mb-6 text-sm">
-                  Master emerging technologies and prepare for the future of work.
-                </p>
-
-                <div className="space-y-3 mb-6">
-                  <div className="text-sm font-semibold text-foreground">What You'll Learn:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>AI fundamentals & ChatGPT</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Image generation tools</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Python programming basics</span>
-                    </li>
-                    <li className="flex items-start gap-2">
-                      <CheckCircle className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
-                      <span>Automation & workflow tools</span>
-                    </li>
-                  </ul>
+                <div className="flex items-center gap-2 text-sm text-foreground/70">
+                  <DollarSign className="w-4 h-4 text-primary" />
+                  <span>$200/course (Group) | $50/hour (1-on-1)</span>
                 </div>
-
-                <div className="space-y-3 mb-6 pb-6 border-b border-border">
-                  <div className="text-sm font-semibold text-foreground">Learning Outcomes:</div>
-                  <ul className="space-y-2 text-sm text-foreground/70">
-                    <li>✓ Leverage AI for productivity</li>
-                    <li>✓ Understand machine learning</li>
-                    <li>✓ Write basic Python code</li>
-                    <li>✓ Automate repetitive tasks</li>
-                  </ul>
-                </div>
-
-                <div className="text-xs text-foreground/60 mb-4">Duration: 10-12 weeks | Format: Group or 1-on-1</div>
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Explore Course
-                </Button>
               </div>
+              <div className="space-y-2 mb-6 text-sm text-foreground/70">
+                <p>✓ AI Fundamentals & Applications</p>
+                <p>✓ ChatGPT & Modern AI Tools</p>
+                <p>✓ Python Programming Basics</p>
+                <p>✓ Automation & Emerging Tech</p>
+              </div>
+              <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                Enroll Now
+              </Button>
             </Card>
-          </div>
-
-          {/* Tech Expertise Showcase */}
-          <div className="mt-16 py-12 rounded-2xl overflow-hidden relative">
-            <img
-              src="/manus-storage/shoaib-tech-expertise-cleaned_e355f15b.png"
-              alt="Shoaib's Tech Expertise - Algorithms, Data Structures, and Advanced Concepts"
-              className="w-full h-auto object-cover rounded-2xl shadow-xl"
-            />
-            <div className="absolute inset-0 bg-gradient-to-r from-black/30 to-transparent rounded-2xl" />
-            <div className="absolute inset-0 flex items-center justify-start p-8 md:p-12">
-              <div className="max-w-xl">
-                <h3 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                  Expert Knowledge Across All Tech Domains
-                </h3>
-                <p className="text-lg text-white/90">
-                  From fundamental algorithms to advanced data structures, operating systems to networking—master the complete tech stack with guidance from someone who understands it all.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          {/* Mini-Courses */}
-          <div className="mt-16 pt-16 border-t border-border/30">
-            <h3 className="text-3xl font-bold text-center mb-12 text-foreground">
-              Specialized Mini-Courses
-            </h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-              <div className="p-6 rounded-lg bg-white/50 border border-border hover:shadow-md transition-shadow">
-                <div className="text-3xl mb-3">👴</div>
-                <h4 className="font-bold text-foreground mb-2">Tech for Seniors</h4>
-                <p className="text-sm text-foreground/70">4-6 weeks | Tailored for older adults</p>
-              </div>
-              <div className="p-6 rounded-lg bg-white/50 border border-border hover:shadow-md transition-shadow">
-                <div className="text-3xl mb-3">📱</div>
-                <h4 className="font-bold text-foreground mb-2">Social Media Mastery</h4>
-                <p className="text-sm text-foreground/70">4-6 weeks | Facebook, Instagram, TikTok</p>
-              </div>
-              <div className="p-6 rounded-lg bg-white/50 border border-border hover:shadow-md transition-shadow">
-                <div className="text-3xl mb-3">🔒</div>
-                <h4 className="font-bold text-foreground mb-2">Cybersecurity Basics</h4>
-                <p className="text-sm text-foreground/70">4-6 weeks | Stay safe online</p>
-              </div>
-              <div className="p-6 rounded-lg bg-white/50 border border-border hover:shadow-md transition-shadow">
-                <div className="text-3xl mb-3">💼</div>
-                <h4 className="font-bold text-foreground mb-2">Freelancing with Tech</h4>
-                <p className="text-sm text-foreground/70">4-6 weeks | Build your online career</p>
-              </div>
-            </div>
           </div>
         </div>
       </section>
 
-      {/* Diagonal Divider */}
-      <div className="h-20 bg-gradient-to-b from-background to-white relative">
-        <svg
-          className="absolute bottom-0 w-full h-full"
-          viewBox="0 0 1200 100"
-          preserveAspectRatio="none"
-        >
-          <polygon points="0,50 1200,0 1200,100 0,100" fill="white" />
-        </svg>
-      </div>
+      {/* Mini-Courses Section */}
+      <section className="py-20 bg-white">
+        <div className="container">
+          <div className="max-w-3xl mx-auto text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              Specialized Mini-Courses
+            </h2>
+            <p className="text-lg text-foreground/70 leading-relaxed">
+              Focused training for specific skills and career goals. 4-6 weeks each.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-3">Tech for Seniors</h3>
+              <p className="text-foreground/70 mb-4">
+                Tailored for older adults learning technology for the first time. Focus on practical, everyday skills.
+              </p>
+              <p className="text-sm font-semibold text-foreground">$100 | 4-6 weeks | $55/hour (1-on-1)</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-3">Social Media Mastery</h3>
+              <p className="text-foreground/70 mb-4">
+                Learn to navigate Facebook, Instagram, LinkedIn, and other platforms confidently and safely.
+              </p>
+              <p className="text-sm font-semibold text-foreground">$100 | 4-6 weeks | $55/hour (1-on-1)</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-3">Cybersecurity Basics</h3>
+              <p className="text-foreground/70 mb-4">
+                Protect yourself online: passwords, phishing, privacy settings, and safe browsing practices.
+              </p>
+              <p className="text-sm font-semibold text-foreground">$150 | 4-6 weeks | $55/hour (1-on-1)</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-3">Freelancing with Tech</h3>
+              <p className="text-foreground/70 mb-4">
+                Build a freelance career: online platforms, portfolio building, and finding your first clients.
+              </p>
+              <p className="text-sm font-semibold text-foreground">$150 | 4-6 weeks | $55/hour (1-on-1)</p>
+            </Card>
+          </div>
+        </div>
+      </section>
+
+      {/* Learning Options Section */}
+      <section className="py-20 bg-background">
+        <div className="container">
+          <div className="max-w-3xl mx-auto text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              Flexible Learning Options
+            </h2>
+            <p className="text-lg text-foreground/70 leading-relaxed">
+              Choose the learning format that works best for you. All options include personalized support and hands-on practice.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-4">One-on-One Tutoring</h3>
+              <p className="text-foreground/70 mb-6">
+                Personalized instruction tailored to your pace and learning style. Ideal for busy professionals and those needing extra support.
+              </p>
+              <p className="text-lg font-bold text-foreground mb-2">$50/hour</p>
+              <p className="text-sm text-foreground/70">Flexible scheduling • Online or in-person • Custom curriculum</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-4">In-Home In-Person Sessions</h3>
+              <p className="text-foreground/70 mb-6">
+                Learn in the comfort of your own home with face-to-face instruction. Perfect for those who prefer personal interaction.
+              </p>
+              <p className="text-lg font-bold text-foreground mb-2">$55/hour</p>
+              <p className="text-sm text-foreground/70">Flexible scheduling • Personalized • Comfortable environment</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-4">Live Online Classes</h3>
+              <p className="text-foreground/70 mb-6">
+                Join interactive online sessions from anywhere. Great for remote learners who want group support and community.
+              </p>
+              <p className="text-lg font-bold text-foreground mb-2">$200/course</p>
+              <p className="text-sm text-foreground/70">Group learning • Flexible times • Interactive Q&A</p>
+            </Card>
+
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <h3 className="text-xl font-bold text-primary mb-4">Synchronized Instructor-Led</h3>
+              <p className="text-foreground/70 mb-6">
+                Real-time instruction that replicates a classroom experience. Perfect for structured learning with peer interaction.
+              </p>
+              <p className="text-lg font-bold text-foreground mb-2">$200/course</p>
+              <p className="text-sm text-foreground/70">Group setting • Scheduled times • Classroom feel</p>
+            </Card>
+          </div>
+        </div>
+      </section>
+
+      {/* Enrollment Process */}
+      <section className="py-20 bg-white">
+        <div className="container">
+          <div className="max-w-3xl mx-auto text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              How to Get Started
+            </h2>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
+            <div className="text-center">
+              <div className="w-16 h-16 rounded-full bg-primary flex items-center justify-center text-white text-2xl font-bold mx-auto mb-4">
+                1
+              </div>
+              <h3 className="text-xl font-bold text-foreground mb-3">Free Consultation</h3>
+              <p className="text-foreground/70">
+                Contact us to discuss your learning goals and find the best course and learning format for you.
+              </p>
+            </div>
+
+            <div className="text-center">
+              <div className="w-16 h-16 rounded-full bg-primary flex items-center justify-center text-white text-2xl font-bold mx-auto mb-4">
+                2
+              </div>
+              <h3 className="text-xl font-bold text-foreground mb-3">Meet & Plan</h3>
+              <p className="text-foreground/70">
+                We'll meet (online or in-person) to understand your needs and create a personalized learning plan.
+              </p>
+            </div>
+
+            <div className="text-center">
+              <div className="w-16 h-16 rounded-full bg-primary flex items-center justify-center text-white text-2xl font-bold mx-auto mb-4">
+                3
+              </div>
+              <h3 className="text-xl font-bold text-foreground mb-3">Start Learning</h3>
+              <p className="text-foreground/70">
+                Begin your journey with flexible scheduling and personalized support every step of the way.
+              </p>
+            </div>
+          </div>
+
+          <div className="text-center mt-12">
+            <p className="text-lg text-foreground/70 mb-6">
+              Ready to start your learning journey?
+            </p>
+            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+              Schedule Your Free Consultation <ChevronRight className="w-4 h-4 ml-2" />
+            </Button>
+          </div>
+        </div>
+      </section>
 
       {/* Testimonials Section */}
-      <section id="testimonials" className="py-20 bg-white">
+      <section id="testimonials" className="py-20 bg-background">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
               What Students Say
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed">
-              Real feedback from learners who've transformed their tech skills with IT Insight Academy.
+              Real feedback from learners who transformed their skills with IT Insight Academy.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <Card className="p-8 border-l-4 border-primary">
+            <Card className="p-8">
               <div className="flex items-center gap-1 mb-4">
                 {[...Array(5)].map((_, i) => (
-                  <span key={i} className="text-yellow-400">★</span>
+                  <span key={i} className="text-primary">★</span>
                 ))}
               </div>
               <p className="text-foreground/80 mb-4 italic">
-                "Mr. Shoaib Hayat was my first instructor. I had a fantastic experience with him as a teacher. He was always helpful and timely with responses as well as having conducted the course material in a very clear and concise way."
+                "Mr. Shoaib Hayat was my first instructor. I had a fantastic experience with him as a teacher. He was always helpful and timely with responses as well as having conducted the course material in a very clear and concise way. Mr. Hayat was great at including interesting videos to help students engage and learn material in an exciting, relatable way."
               </p>
-              <p className="font-semibold text-foreground">Rose Jurtsuk</p>
+              <p className="font-bold text-foreground">Rose Jurtsuk</p>
             </Card>
 
-            <Card className="p-8 border-l-4 border-primary">
+            <Card className="p-8">
               <div className="flex items-center gap-1 mb-4">
                 {[...Array(5)].map((_, i) => (
-                  <span key={i} className="text-yellow-400">★</span>
+                  <span key={i} className="text-primary">★</span>
                 ))}
               </div>
               <p className="text-foreground/80 mb-4 italic">
-                "Mr. Shoaib Hayat expertise and kindness made returning to post secondary as a mature student a pleasant and engaging transition. I am thankful for their patience and ongoing support."
+                "Mr. Shoaib Hayat expertise and kindness made returning to post secondary as a 'mature student' a pleasant and engaging transition. I am thankful to Mr. Hayat for their patience and ongoing support. The first week is never easy but he have made a concerted effort to make it manageable, for which I am very grateful."
               </p>
-              <p className="font-semibold text-foreground">Emma Y</p>
+              <p className="font-bold text-foreground">Emma Y</p>
             </Card>
 
-            <Card className="p-8 border-l-4 border-primary">
+            <Card className="p-8">
               <div className="flex items-center gap-1 mb-4">
                 {[...Array(5)].map((_, i) => (
-                  <span key={i} className="text-yellow-400">★</span>
+                  <span key={i} className="text-primary">★</span>
                 ))}
               </div>
               <p className="text-foreground/80 mb-4 italic">
-                "Mr. Shoaib Hayat was my instructor and I couldn't have asked for a better start. He is knowledgeable, supportive and always available to address concerns. He takes the time to ensure his students fully understand the material."
+                "Mr. Shoaib Hayat was my instructor and I couldn't have asked for a better start. He is knowledgeable, supportive and always available to address concerns. He takes the time to ensure his students fully understand the material and consistently follows up on our progress."
               </p>
-              <p className="font-semibold text-foreground">Rachel Anne</p>
+              <p className="font-bold text-foreground">Rachel Anne</p>
             </Card>
 
-            <Card className="p-8 border-l-4 border-primary">
+            <Card className="p-8">
               <div className="flex items-center gap-1 mb-4">
                 {[...Array(5)].map((_, i) => (
-                  <span key={i} className="text-yellow-400">★</span>
+                  <span key={i} className="text-primary">★</span>
                 ))}
               </div>
               <p className="text-foreground/80 mb-4 italic">
-                "I appreciate my Instructor Shoaib Hayat's dedication to his students' success. He's always available to answer questions and provide support. He explains concepts clearly and demonstrates great expertise in his field."
+                "SHOAIB HAYAT is an amazing instructor! He is an excellent knowledgeable and skilled instructor. He supports me with every question and patiently helps me whenever I struggle with something. His guidance and encouragement make learning easier and boost my confidence."
               </p>
-              <p className="font-semibold text-foreground">Ruthie Taday</p>
+              <p className="font-bold text-foreground">Naseema Nazary</p>
             </Card>
           </div>
         </div>
       </section>
 
-      {/* Diagonal Divider */}
-      <div className="h-20 bg-gradient-to-b from-white to-background relative">
-        <svg
-          className="absolute bottom-0 w-full h-full"
-          viewBox="0 0 1200 100"
-          preserveAspectRatio="none"
-        >
-          <polygon points="0,0 1200,50 1200,100 0,100" fill="white" />
-        </svg>
-      </div>
-
-      {/* CTA Section */}
-      <section
-        id="contact"
-        className="py-20 relative"
-        style={{
-          backgroundImage: "url('https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/cta-section-bg-dFyBi7gKJhNqLmOpQrStUv.webp')",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
-      >
-        <div className="absolute inset-0 bg-background/95" />
-        <div className="container relative z-10">
-          <div className="max-w-3xl mx-auto text-center">
+      {/* Contact Section */}
+      <section id="contact" className="py-20 bg-white">
+        <div className="container">
+          <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              Ready to Start Learning?
+              Get in Touch
             </h2>
-            <p className="text-lg text-foreground/70 leading-relaxed mb-8">
-              Join IT Insight Academy and transform your tech skills. Whether you're a complete beginner or looking to master AI, we have the perfect course for you.
+            <p className="text-lg text-foreground/70 leading-relaxed">
+              Ready to start your learning journey? Contact us today for a free consultation.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-              <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                Schedule Free Consultation <ChevronRight className="w-4 h-4 ml-2" />
-              </Button>
-              <Button size="lg" variant="outline" className="border-primary text-primary hover:bg-primary/5">
-                View All Courses
-              </Button>
-            </div>
+          </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pt-12 border-t border-border/30">
-              <div className="flex flex-col items-center gap-3">
-                <Mail className="w-8 h-8 text-primary" />
-                <div>
-                  <p className="text-sm text-foreground/70">Email</p>
-                  <p className="font-semibold text-foreground">shoaib.hayyat@gmail.com</p>
-                </div>
-              </div>
-              <div className="flex flex-col items-center gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
+            <Card className="p-8 text-center hover:shadow-lg transition-shadow">
+              <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
                 <Phone className="w-8 h-8 text-primary" />
-                <div>
-                  <p className="text-sm text-foreground/70">Phone</p>
-                  <p className="font-semibold text-foreground">514-701-2500</p>
-                </div>
               </div>
-              <div className="flex flex-col items-center gap-3">
+              <h3 className="text-lg font-bold text-foreground mb-2">Phone</h3>
+              <p className="text-foreground/70">514-701-2500</p>
+            </Card>
+
+            <Card className="p-8 text-center hover:shadow-lg transition-shadow">
+              <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
+                <Mail className="w-8 h-8 text-primary" />
+              </div>
+              <h3 className="text-lg font-bold text-foreground mb-2">Email</h3>
+              <p className="text-foreground/70">shoaib.hayyat@gmail.com</p>
+            </Card>
+
+            <Card className="p-8 text-center hover:shadow-lg transition-shadow">
+              <div className="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mx-auto mb-4">
                 <MapPin className="w-8 h-8 text-primary" />
-                <div>
-                  <p className="text-sm text-foreground/70">Location</p>
-                  <p className="font-semibold text-foreground">Calgary, AB</p>
-                </div>
               </div>
-            </div>
+              <h3 className="text-lg font-bold text-foreground mb-2">Location</h3>
+              <p className="text-foreground/70">Calgary, AB, Canada</p>
+            </Card>
+          </div>
+
+          <div className="text-center mt-12">
+            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+              Schedule Free Consultation <ChevronRight className="w-4 h-4 ml-2" />
+            </Button>
           </div>
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="bg-foreground/5 border-t border-border py-12">
+      <footer className="py-12 bg-foreground text-background">
         <div className="container">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center text-primary-foreground font-bold">
                   IT
                 </div>
-                <span className="font-bold text-foreground">IT Insight Academy</span>
+                <div>
+                  <p className="font-bold text-sm">IT Insight Academy</p>
+                  <p className="text-xs text-background/70">Learn Technology from Scratch</p>
+                </div>
               </div>
-              <p className="text-sm text-foreground/70">Learn Technology from Scratch</p>
             </div>
             <div>
-              <h4 className="font-semibold text-foreground mb-4">Courses</h4>
-              <ul className="space-y-2 text-sm text-foreground/70">
-                <li><a href="#" className="hover:text-primary transition-colors">Computer Basics</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">Intermediate Skills</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">AI & Advanced Tech</a></li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold text-foreground mb-4">Company</h4>
-              <ul className="space-y-2 text-sm text-foreground/70">
+              <h4 className="font-bold mb-4">Quick Links</h4>
+              <ul className="space-y-2 text-sm text-background/80">
                 <li><a href="#about" className="hover:text-primary transition-colors">About</a></li>
+                <li><a href="#courses" className="hover:text-primary transition-colors">Courses</a></li>
                 <li><a href="#testimonials" className="hover:text-primary transition-colors">Testimonials</a></li>
                 <li><a href="#contact" className="hover:text-primary transition-colors">Contact</a></li>
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold text-foreground mb-4">Follow Us</h4>
-              <ul className="space-y-2 text-sm text-foreground/70">
-                <li><a href="#" className="hover:text-primary transition-colors">Facebook</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">LinkedIn</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">Instagram</a></li>
+              <h4 className="font-bold mb-4">Contact</h4>
+              <ul className="space-y-2 text-sm text-background/80">
+                <li>📞 514-701-2500</li>
+                <li>✉️ shoaib.hayyat@gmail.com</li>
+                <li>📍 Calgary, AB, Canada</li>
               </ul>
             </div>
           </div>
-          <div className="border-t border-border pt-8 text-center text-sm text-foreground/70">
-            <p>&copy; 2026 IT Insight Academy. Learn Technology from Scratch. All rights reserved.</p>
+          <div className="border-t border-background/20 pt-8 text-center text-sm text-background/70">
+            <p>&copy; 2026 IT Insight Academy. All rights reserved. Learn Technology from Scratch.</p>
           </div>
         </div>
       </footer>
