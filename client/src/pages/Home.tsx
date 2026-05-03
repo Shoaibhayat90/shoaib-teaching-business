@@ -115,7 +115,7 @@ export default function Home() {
 
 
       {/* About Section */}
-      <section id="about" className="py-20 bg-white">
+      <section id="about" className="relative py-20 bg-white z-10">
         <div className="container">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
