@@ -265,44 +265,50 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {[
-              {
-                title: "One-on-One Sessions",
-                description: "Personalized instruction tailored to your pace and learning style. Perfect for busy professionals.",
-                icon: "👤",
-                price: "$55/hour"
-              },
-              {
-                title: "In-Person Home Tutoring",
-                description: "Learn in the comfort of your own home with face-to-face instruction from our expert instructors.",
-                icon: "🏠",
-                price: "$55/hour"
-              },
-              {
-                title: "Live Online Classes",
-                description: "Join interactive online sessions from anywhere. Great for remote learners who want community support.",
-                icon: "💻",
-                price: "$200/course"
-              },
-              {
-                title: "Instructor-Led Training",
-                description: "Real-time instruction that replicates a classroom experience with peer interaction and group learning.",
-                icon: "👨‍🏫",
-                price: "$200/course"
-              }
-            ].map((method, idx) => (
-              <Card key={idx} className="p-8 hover:shadow-lg transition-shadow">
-                <div className="text-5xl mb-4">{method.icon}</div>
-                <h3 className="text-2xl font-bold mb-3 text-foreground">{method.title}</h3>
-                <p className="text-foreground/70 mb-6">{method.description}</p>
-                <div className="text-lg font-bold text-primary mb-4">{method.price}</div>
-                <a href="/learning-methods" className="w-full">
-                  <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                    Learn More
-                  </Button>
-                </a>
-              </Card>
-            ))}
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <div className="text-5xl mb-4">👤</div>
+              <h3 className="text-2xl font-bold mb-3 text-foreground">One-on-One Sessions</h3>
+              <p className="text-foreground/70 mb-6">Personalized instruction tailored to your pace and learning style. Perfect for busy professionals.</p>
+              <div className="text-lg font-bold text-primary mb-4">$55/hour</div>
+              <a href="/one-on-one" className="w-full">
+                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Learn More
+                </Button>
+              </a>
+            </Card>
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <div className="text-5xl mb-4">🏠</div>
+              <h3 className="text-2xl font-bold mb-3 text-foreground">In-Person Home Tutoring</h3>
+              <p className="text-foreground/70 mb-6">Learn in the comfort of your own home with face-to-face instruction from our expert instructors.</p>
+              <div className="text-lg font-bold text-primary mb-4">$55/hour</div>
+              <a href="/home-tutoring" className="w-full">
+                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Learn More
+                </Button>
+              </a>
+            </Card>
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <div className="text-5xl mb-4">💻</div>
+              <h3 className="text-2xl font-bold mb-3 text-foreground">Live Online Classes</h3>
+              <p className="text-foreground/70 mb-6">Join interactive online sessions from anywhere. Great for remote learners who want community support.</p>
+              <div className="text-lg font-bold text-primary mb-4">$200/course</div>
+              <a href="/online-classes" className="w-full">
+                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Learn More
+                </Button>
+              </a>
+            </Card>
+            <Card className="p-8 hover:shadow-lg transition-shadow">
+              <div className="text-5xl mb-4">👨‍🏫</div>
+              <h3 className="text-2xl font-bold mb-3 text-foreground">Instructor-Led Training</h3>
+              <p className="text-foreground/70 mb-6">Real-time instruction that replicates a classroom experience with peer interaction and group learning.</p>
+              <div className="text-lg font-bold text-primary mb-4">$200/course</div>
+              <a href="/instructor-led" className="w-full">
+                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Learn More
+                </Button>
+              </a>
+            </Card>
           </div>
         </div>
       </section>
