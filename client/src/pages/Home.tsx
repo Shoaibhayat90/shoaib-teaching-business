@@ -56,8 +56,8 @@ export default function Home() {
             </div>
           </div>
           <div className="flex items-center gap-8">
-            <a href="#mission" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Mission
+            <a href="/mission" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
+              Our Mission
             </a>
             <a href="#courses" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Courses
