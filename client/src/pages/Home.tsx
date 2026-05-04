@@ -296,9 +296,11 @@ export default function Home() {
                 <h3 className="text-2xl font-bold mb-3 text-foreground">{method.title}</h3>
                 <p className="text-foreground/70 mb-6">{method.description}</p>
                 <div className="text-lg font-bold text-primary mb-4">{method.price}</div>
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Learn More
-                </Button>
+                <a href="/learning-methods" className="w-full">
+                  <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                    Learn More
+                  </Button>
+                </a>
               </Card>
             ))}
           </div>
