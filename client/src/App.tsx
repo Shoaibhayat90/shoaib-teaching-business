@@ -7,6 +7,10 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import Mission from "./pages/Mission";
 import LearningMethods from "./pages/LearningMethods";
+import OneOnOne from "./pages/OneOnOne";
+import HomeTutoring from "./pages/HomeTutoring";
+import OnlineClasses from "./pages/OnlineClasses";
+import InstructorLed from "./pages/InstructorLed";
 
 
 function Router() {
@@ -15,6 +19,10 @@ function Router() {
       <Route path={"/"} component={Home} />
       <Route path={"/mission"} component={Mission} />
       <Route path={"/learning-methods"} component={LearningMethods} />
+      <Route path={"/one-on-one"} component={OneOnOne} />
+      <Route path={"/home-tutoring"} component={HomeTutoring} />
+      <Route path={"/online-classes"} component={OnlineClasses} />
+      <Route path={"/instructor-led"} component={InstructorLed} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

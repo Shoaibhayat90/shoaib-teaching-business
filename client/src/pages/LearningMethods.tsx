@@ -10,6 +10,7 @@ export default function LearningMethods() {
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-one-on-one-YGoQgsFCUU2TLfGG5AubnL.webp",
       price: "$55/hour",
       description: "Personalized instruction tailored to your pace and learning style.",
+      route: "/one-on-one",
       fullDetails: [
         "Completely customized learning experience based on your specific needs and goals",
         "Flexible scheduling that works around your busy lifestyle",
@@ -34,6 +35,7 @@ export default function LearningMethods() {
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-home-tutoring-egAhzWf9SBTtpe2uunrXrn.webp",
       price: "$55/hour",
       description: "Learn in the comfort of your own home with face-to-face instruction.",
+      route: "/home-tutoring",
       fullDetails: [
         "Instructor comes to your home for personalized, one-on-one training",
         "Learn in a comfortable, familiar environment with zero commute stress",
@@ -58,6 +60,7 @@ export default function LearningMethods() {
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-online-classes-5yraHh5WWvF9knU9TB7eKL.webp",
       price: "$200/course",
       description: "Join interactive online sessions from anywhere with community support.",
+      route: "/online-classes",
       fullDetails: [
         "Real-time interactive classes with instructor and fellow learners",
         "Learn from anywhere with just an internet connection",
@@ -82,6 +85,7 @@ export default function LearningMethods() {
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-instructor-led-YxDYnorksNwzQMBUuaV8gq.webp",
       price: "$200/course",
       description: "Real-time instruction that replicates a classroom experience.",
+      route: "/instructor-led",
       fullDetails: [
         "Structured classroom-like environment with group learning dynamics",
         "Expert instructor leading comprehensive, well-organized lessons",
@@ -184,9 +188,11 @@ export default function LearningMethods() {
 
                 <div className="flex items-center justify-between">
                   <span className="text-2xl font-bold text-primary">{method.price}</span>
-                  <Button className="bg-primary hover:bg-primary/90">
-                    Get Started
-                  </Button>
+                  <Link href={method.route}>
+                    <Button className="bg-primary hover:bg-primary/90">
+                      View Details
+                    </Button>
+                  </Link>
                 </div>
               </div>
             </div>
