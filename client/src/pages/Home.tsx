@@ -44,61 +44,17 @@ const AnimatedIconCarousel = () => {
   ];
 
   return (
-    <div className="absolute right-0 top-1/2 -translate-y-1/2 w-40 h-40 flex items-center justify-center">
-      <style>{`
-        @keyframes fadeBlur0 {
-          0% { opacity: 1; filter: blur(0px); }
-          20% { opacity: 1; filter: blur(0px); }
-          20.1% { opacity: 0; filter: blur(10px); }
-          100% { opacity: 0; filter: blur(10px); }
-        }
-        @keyframes fadeBlur1 {
-          0% { opacity: 0; filter: blur(10px); }
-          19.9% { opacity: 0; filter: blur(10px); }
-          20% { opacity: 1; filter: blur(0px); }
-          40% { opacity: 1; filter: blur(0px); }
-          40.1% { opacity: 0; filter: blur(10px); }
-          100% { opacity: 0; filter: blur(10px); }
-        }
-        @keyframes fadeBlur2 {
-          0% { opacity: 0; filter: blur(10px); }
-          39.9% { opacity: 0; filter: blur(10px); }
-          40% { opacity: 1; filter: blur(0px); }
-          60% { opacity: 1; filter: blur(0px); }
-          60.1% { opacity: 0; filter: blur(10px); }
-          100% { opacity: 0; filter: blur(10px); }
-        }
-        @keyframes fadeBlur3 {
-          0% { opacity: 0; filter: blur(10px); }
-          59.9% { opacity: 0; filter: blur(10px); }
-          60% { opacity: 1; filter: blur(0px); }
-          80% { opacity: 1; filter: blur(0px); }
-          80.1% { opacity: 0; filter: blur(10px); }
-          100% { opacity: 0; filter: blur(10px); }
-        }
-        @keyframes fadeBlur4 {
-          0% { opacity: 0; filter: blur(10px); }
-          79.9% { opacity: 0; filter: blur(10px); }
-          80% { opacity: 1; filter: blur(0px); }
-          100% { opacity: 1; filter: blur(0px); }
-        }
-      `}</style>
-      {icons.map((icon, index) => {
-        const animationNames = ['fadeBlur0', 'fadeBlur1', 'fadeBlur2', 'fadeBlur3', 'fadeBlur4'];
-        return (
-          <div
-            key={index}
-            className="absolute w-32 h-32 flex items-center justify-center"
-            style={{
-              animation: `${animationNames[index]} 10s infinite`,
-            }}
-          >
-            <div className="bg-white rounded-2xl w-full h-full flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform border border-gray-200">
-              <img src={icon.logo} alt={icon.name} className="w-20 h-20 object-contain" />
-            </div>
+    <div className="absolute right-0 top-1/2 -translate-y-1/2 flex items-center justify-center gap-4">
+      {icons.map((icon, index) => (
+        <div
+          key={index}
+          className="flex items-center justify-center"
+        >
+          <div className="bg-white rounded-2xl w-28 h-28 flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform border border-gray-200">
+            <img src={icon.logo} alt={icon.name} className="w-16 h-16 object-contain" />
           </div>
-        );
-      })}
+        </div>
+      ))}
     </div>
   );
 };
