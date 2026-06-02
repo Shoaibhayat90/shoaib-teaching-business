@@ -36,27 +36,28 @@ const Card = ({ children, className = "" }: any) => (
 
 const AnimatedIconCarousel = () => {
   const icons = [
-    { name: 'Excel', emoji: '📊', color: 'from-green-400 to-green-600' },
-    { name: 'Word', emoji: '📝', color: 'from-blue-400 to-blue-600' },
-    { name: 'PowerPoint', emoji: '🎨', color: 'from-orange-400 to-orange-600' },
-    { name: 'ChatGPT', emoji: '🤖', color: 'from-purple-400 to-purple-600' },
-    { name: 'Outlook', emoji: '📧', color: 'from-cyan-400 to-cyan-600' },
-    { name: 'Cybersecurity', emoji: '🔐', color: 'from-red-400 to-red-600' },
+    { name: 'Excel', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-microsoft-excel-BTaCXDUs9N3BndwSLRjLR3.webp' },
+    { name: 'Word', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-microsoft-word-2WF5KueprfQcQRnWPo5okz.webp' },
+    { name: 'PowerPoint', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-microsoft-powerpoint-NuB9WmAgtfVN5uwhdj3k8q.webp' },
+    { name: 'ChatGPT', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-chatgpt-mPfLtWn9ewn787QxKVjc3T.webp' },
+    { name: 'Gemini', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-gemini-n5aANEg9WDF6FddsN2GavE.webp' },
+    { name: 'Claude', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-claude-PdpSzYTNPcvPGCbpwcFixP.webp' },
+    { name: 'Manus', logo: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/logo-manus-F43Md8nS4KLyq6FZgP5WX2.webp' },
   ];
 
   return (
-    <div className="absolute left-0 top-1/2 -translate-y-1/2 w-32 h-32 flex items-center justify-center">
+    <div className="absolute right-0 top-1/2 -translate-y-1/2 w-40 h-40 flex items-center justify-center">
       <style>{`
         @keyframes fadeBlur {
           0% {
             opacity: 0;
             filter: blur(10px);
           }
-          15% {
+          12% {
             opacity: 1;
             filter: blur(0px);
           }
-          85% {
+          88% {
             opacity: 1;
             filter: blur(0px);
           }
@@ -66,19 +67,19 @@ const AnimatedIconCarousel = () => {
           }
         }
         .icon-carousel {
-          animation: fadeBlur 12s infinite;
+          animation: fadeBlur 14s infinite;
         }
       `}</style>
       {icons.map((icon, index) => (
         <div
           key={index}
-          className="icon-carousel absolute w-24 h-24 flex items-center justify-center"
+          className="icon-carousel absolute w-32 h-32 flex items-center justify-center"
           style={{
             animationDelay: `${index * 2}s`,
           }}
         >
-          <div className={`bg-gradient-to-br ${icon.color} rounded-2xl w-full h-full flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform`}>
-            <span className="text-5xl">{icon.emoji}</span>
+          <div className="bg-white rounded-2xl w-full h-full flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform border border-gray-200">
+            <img src={icon.logo} alt={icon.name} className="w-24 h-24 object-contain" />
           </div>
         </div>
       ))}
