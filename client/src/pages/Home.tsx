@@ -34,6 +34,58 @@ const Card = ({ children, className = "" }: any) => (
   </div>
 );
 
+const AnimatedIconCarousel = () => {
+  const icons = [
+    { name: 'Excel', emoji: '📊', color: 'from-green-400 to-green-600' },
+    { name: 'Word', emoji: '📝', color: 'from-blue-400 to-blue-600' },
+    { name: 'PowerPoint', emoji: '🎨', color: 'from-orange-400 to-orange-600' },
+    { name: 'ChatGPT', emoji: '🤖', color: 'from-purple-400 to-purple-600' },
+    { name: 'Outlook', emoji: '📧', color: 'from-cyan-400 to-cyan-600' },
+    { name: 'Cybersecurity', emoji: '🔐', color: 'from-red-400 to-red-600' },
+  ];
+
+  return (
+    <div className="absolute left-0 top-1/2 -translate-y-1/2 w-32 h-32 flex items-center justify-center">
+      <style>{`
+        @keyframes fadeBlur {
+          0% {
+            opacity: 0;
+            filter: blur(10px);
+          }
+          15% {
+            opacity: 1;
+            filter: blur(0px);
+          }
+          85% {
+            opacity: 1;
+            filter: blur(0px);
+          }
+          100% {
+            opacity: 0;
+            filter: blur(10px);
+          }
+        }
+        .icon-carousel {
+          animation: fadeBlur 12s infinite;
+        }
+      `}</style>
+      {icons.map((icon, index) => (
+        <div
+          key={index}
+          className="icon-carousel absolute w-24 h-24 flex items-center justify-center"
+          style={{
+            animationDelay: `${index * 2}s`,
+          }}
+        >
+          <div className={`bg-gradient-to-br ${icon.color} rounded-2xl w-full h-full flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform`}>
+            <span className="text-5xl">{icon.emoji}</span>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+};
+
 export default function Home() {
   const [scrollY, setScrollY] = useState(0);
 
@@ -89,6 +141,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
         <div className="container relative z-10">
+          <AnimatedIconCarousel />
           <div className="max-w-2xl">
             <div className="space-y-6">
               <div className="inline-block">
