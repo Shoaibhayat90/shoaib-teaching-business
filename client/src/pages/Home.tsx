@@ -36,13 +36,13 @@ const Card = ({ children, className = "" }: any) => (
 
 const AnimatedIconCarousel = () => {
   const icons = [
-    { name: 'Excel', logo: '/manus-storage/5ga8b8wqzq1n_8dd66bee.png' },
-    { name: 'Word', logo: '/manus-storage/M2CV7cyju1PL_f7957a98.png' },
-    { name: 'PowerPoint', logo: '/manus-storage/iVUduGLzZ88C_9a2d52ce.png' },
-    { name: 'ChatGPT', logo: '/manus-storage/cC92NEoaH9Tj_9850dd0b.jpg' },
-    { name: 'Gemini', logo: '/manus-storage/nlf628aFM4FR_e6a53a42.png' },
-    { name: 'Claude', logo: '/manus-storage/Pe1cLqnBKVaT_4ad5d64a.jpg' },
-    { name: 'Manus', logo: '/manus-storage/logo-option-2_8664fe11.png' },
+    { name: 'Excel', logo: '/manus-storage/fjjlC3885Sbk_dc1ae31e.png' },
+    { name: 'Word', logo: '/manus-storage/DdMtl9woZruM_516bbf78.png' },
+    { name: 'PowerPoint', logo: '/manus-storage/fd4h68KS23Gt_67ff8549.png' },
+    { name: 'Outlook', logo: '/manus-storage/cB1eUS4i0il0_b4254c4c.png' },
+    { name: 'ChatGPT', logo: '/manus-storage/OwBsbIoFtb4U_6fd4eb6e.jpg' },
+    { name: 'Gemini', logo: '/manus-storage/DgaytVYnED4l_4d779e5e.png' },
+    { name: 'Claude', logo: '/manus-storage/XOj2Snf9UzyA_3f652af0.webp' },
   ];
 
   return (
