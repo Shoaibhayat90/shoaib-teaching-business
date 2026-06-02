@@ -36,13 +36,11 @@ const Card = ({ children, className = "" }: any) => (
 
 const AnimatedIconCarousel = () => {
   const icons = [
-    { name: 'Excel', logo: '/manus-storage/fjjlC3885Sbk_dc1ae31e.png' },
-    { name: 'Word', logo: '/manus-storage/DdMtl9woZruM_516bbf78.png' },
-    { name: 'PowerPoint', logo: '/manus-storage/fd4h68KS23Gt_67ff8549.png' },
-    { name: 'Outlook', logo: '/manus-storage/cB1eUS4i0il0_b4254c4c.png' },
-    { name: 'ChatGPT', logo: '/manus-storage/OwBsbIoFtb4U_6fd4eb6e.jpg' },
-    { name: 'Gemini', logo: '/manus-storage/DgaytVYnED4l_4d779e5e.png' },
-    { name: 'Claude', logo: '/manus-storage/XOj2Snf9UzyA_3f652af0.webp' },
+    { name: 'Microsoft 365', logo: '/manus-storage/M365_FY26_C2_SUITE_HERO_IMAGE_16x9_0bf8c182.webp' },
+    { name: 'ChatGPT', logo: '/manus-storage/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-278857334_75d9b2fd.webp' },
+    { name: 'Manus', logo: '/manus-storage/pi6jTImSRZx12uZHAflnZa8GMA_ea956c91.avif' },
+    { name: 'Gemini', logo: '/manus-storage/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718_9b769fae.png' },
+    { name: 'Claude', logo: '/manus-storage/claude-logo-png_seeklogo-554540_b7c388b0.png' },
   ];
 
   return (
