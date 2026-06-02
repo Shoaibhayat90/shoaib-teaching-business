@@ -51,11 +51,11 @@ const AnimatedIconCarousel = () => {
             opacity: 0;
             filter: blur(10px);
           }
-          12% {
+          5% {
             opacity: 1;
             filter: blur(0px);
           }
-          88% {
+          95% {
             opacity: 1;
             filter: blur(0px);
           }
@@ -65,7 +65,7 @@ const AnimatedIconCarousel = () => {
           }
         }
         .icon-carousel {
-          animation: fadeBlur 14s infinite;
+          animation: fadeBlur 2s infinite;
         }
       `}</style>
       {icons.map((icon, index) => (
