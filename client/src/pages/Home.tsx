@@ -93,10 +93,10 @@ export default function Home() {
       >
         <div className="absolute inset-0" style={{
           backgroundImage: "url('/manus-storage/images(1)_00485606.jpg'), url('/manus-storage/images_1789b0c8.jpg')",
-          backgroundSize: "400px, 400px",
-          backgroundPosition: "0 0, 200px 200px",
+          backgroundSize: "700px, 700px",
+          backgroundPosition: "0 0, 100px 100px",
           backgroundRepeat: "repeat",
-          opacity: 0.15,
+          opacity: 0.13,
           pointerEvents: "none"
         }} />
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
