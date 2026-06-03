@@ -216,50 +216,50 @@ export default function Home() {
                 title: "Basic Computer Skills",
                 description: "Master hardware, operating systems, file management, and essential computer fundamentals.",
                 icon: "💻",
-                duration: "8 weeks",
-                price: "$200/course"
+                duration: "Flexible",
+                price: "$200"
               },
               {
                 title: "Internet Usage",
                 description: "Navigate the web safely, manage email, online security, and digital citizenship.",
                 icon: "🌐",
-                duration: "4 weeks",
-                price: "$150/course"
+                duration: "Flexible",
+                price: "$150"
               },
               {
                 title: "Microsoft Office",
                 description: "Master Word, Excel, PowerPoint, and Outlook for professional productivity.",
                 icon: "📊",
-                duration: "8 weeks",
-                price: "$200/course"
+                duration: "Flexible",
+                price: "$300"
               },
               {
                 title: "Cyber Security",
                 description: "Protect yourself online: passwords, phishing, privacy, and safe browsing practices.",
                 icon: "🔐",
-                duration: "6 weeks",
-                price: "$175/course"
+                duration: "Flexible",
+                price: "$500"
               },
               {
                 title: "Software Quality Assurance",
                 description: "Learn testing methodologies, bug reporting, and quality assurance processes.",
                 icon: "✅",
-                duration: "10 weeks",
-                price: "$250/course"
+                duration: "Flexible",
+                price: "$500"
               },
               {
                 title: "Business English",
                 description: "Professional communication, business writing, and workplace English skills.",
                 icon: "📝",
-                duration: "6 weeks",
-                price: "$175/course"
+                duration: "Flexible",
+                price: "$100"
               },
               {
                 title: "Modern AI Tools",
                 description: "ChatGPT, AI productivity tools, prompt engineering, and AI fundamentals.",
                 icon: "🤖",
-                duration: "6 weeks",
-                price: "$200/course"
+                duration: "Flexible",
+                price: "$500"
               }
             ].map((course, idx) => (
               <Card key={idx} className="p-6 hover:shadow-lg transition-shadow">
@@ -296,7 +296,6 @@ export default function Home() {
               <div className="text-5xl mb-4">👤</div>
               <h3 className="text-2xl font-bold mb-3 text-foreground">One-on-One Sessions</h3>
               <p className="text-foreground/70 mb-6">Personalized instruction tailored to your pace and learning style. Perfect for busy professionals.</p>
-              <div className="text-lg font-bold text-primary mb-4">$55/hour</div>
               <a href="/one-on-one" className="w-full">
                 <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                   Learn More
@@ -307,7 +306,6 @@ export default function Home() {
               <div className="text-5xl mb-4">🏠</div>
               <h3 className="text-2xl font-bold mb-3 text-foreground">In-Person Home Tutoring</h3>
               <p className="text-foreground/70 mb-6">Learn in the comfort of your own home with face-to-face instruction from our expert instructors.</p>
-              <div className="text-lg font-bold text-primary mb-4">$55/hour</div>
               <a href="/home-tutoring" className="w-full">
                 <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                   Learn More
@@ -318,7 +316,6 @@ export default function Home() {
               <div className="text-5xl mb-4">💻</div>
               <h3 className="text-2xl font-bold mb-3 text-foreground">Live Online Classes</h3>
               <p className="text-foreground/70 mb-6">Join interactive online sessions from anywhere. Great for remote learners who want community support.</p>
-              <div className="text-lg font-bold text-primary mb-4">$200/course</div>
               <a href="/online-classes" className="w-full">
                 <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                   Learn More
@@ -329,7 +326,6 @@ export default function Home() {
               <div className="text-5xl mb-4">👨‍🏫</div>
               <h3 className="text-2xl font-bold mb-3 text-foreground">Instructor-Led Training</h3>
               <p className="text-foreground/70 mb-6">Real-time instruction that replicates a classroom experience with peer interaction and group learning.</p>
-              <div className="text-lg font-bold text-primary mb-4">$200/course</div>
               <a href="/instructor-led" className="w-full">
                 <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
                   Learn More
