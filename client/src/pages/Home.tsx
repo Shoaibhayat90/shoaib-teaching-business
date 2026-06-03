@@ -34,6 +34,55 @@ const Card = ({ children, className = "" }: any) => (
   </div>
 );
 
+const CircularLogos = () => {
+  const logos = [
+    { id: 1, name: "Photos", src: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/images-URJBYUioRsk6CVrYoviprD.jpg" },
+    { id: 2, name: "ChatGPT", src: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-278857334-URJBYUioRsk6CVrYoviprD.webp" },
+    { id: 3, name: "Sora", emoji: "🎬" },
+    { id: 4, name: "Midjourney", emoji: "🎨" },
+    { id: 5, name: "Gemini", src: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718-URJBYUioRsk6CVrYoviprD.png" },
+    { id: 6, name: "OneNote", emoji: "📝" },
+    { id: 7, name: "Flux", emoji: "⚡" },
+    { id: 8, name: "Grok", emoji: "🧠" },
+    { id: 9, name: "Claude", src: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/claude-logo-png_seeklogo-554540-URJBYUioRsk6CVrYoviprD.png" },
+    { id: 10, name: "PowerPoint", emoji: "📊" },
+    { id: 11, name: "Word", emoji: "📄" },
+    { id: 12, name: "Excel", emoji: "📈" },
+    { id: 13, name: "Outlook", emoji: "📧" },
+    { id: 14, name: "OneDrive", emoji: "☁️" },
+    { id: 15, name: "Veo", emoji: "🎥" },
+  ];
+
+  return (
+    <div className="relative w-80 h-80">
+      {logos.map((logo, index) => {
+        const angle = (index / logos.length) * Math.PI * 2 - Math.PI / 2;
+        const radius = 120;
+        const x = 160 + radius * Math.cos(angle);
+        const y = 160 + radius * Math.sin(angle);
+
+        return (
+          <div
+            key={logo.id}
+            className="absolute w-16 h-16 flex items-center justify-center rounded-full bg-white/70 hover:bg-white/100 transition-all duration-300 hover:scale-110 cursor-pointer shadow-sm"
+            style={{
+              left: `${x - 32}px`,
+              top: `${y - 32}px`,
+            }}
+            title={logo.name}
+          >
+            {logo.src ? (
+              <img src={logo.src} alt={logo.name} className="w-10 h-10 object-contain" />
+            ) : (
+              <span className="text-2xl">{logo.emoji}</span>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
+};
+
 const AnimatedIconCarousel = () => {
   return null;
 };
@@ -93,7 +142,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 left-0 w-2/3 bg-gradient-to-r from-background/95 to-transparent" />
         <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-gradient-to-b from-white/5 via-white/10 to-white/5 flex items-center justify-center pr-12">
-          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-80 h-80 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
+          <CircularLogos />
         </div>
         <div className="container relative z-10">
           <AnimatedIconCarousel />
