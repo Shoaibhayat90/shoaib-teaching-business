@@ -96,7 +96,7 @@ export default function Home() {
           backgroundSize: "400px, 400px",
           backgroundPosition: "0 0, 200px 200px",
           backgroundRepeat: "repeat",
-          opacity: 0.08,
+          opacity: 0.15,
           pointerEvents: "none"
         }} />
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
