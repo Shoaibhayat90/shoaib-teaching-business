@@ -179,24 +179,33 @@ const coursesData: any = {
     icon: "🤖",
     price: "$500",
     duration: "Flexible",
-    shortDescription: "ChatGPT, AI productivity tools, prompt engineering, and AI fundamentals.",
-    fullDescription: "Explore AI fundamentals, ChatGPT usage, prompt engineering techniques, AI productivity tools, and practical AI applications.",
+    shortDescription: "ChatGPT, Gemini, Claude, Manus, OpenAI, اور دوسرے AI productivity tools۔",
+    fullDescription: "تمام جدید AI productivity tools کو سیکھیں جیسے ChatGPT، Google Gemini، Anthropic Claude، Manus، OpenAI، اور دوسرے cutting-edge AI platforms۔ Prompt engineering، AI fundamentals، اور عملی استعمال سیکھیں۔",
     whatYouWillLearn: [
-      "AI and machine learning fundamentals",
-      "ChatGPT capabilities and limitations",
-      "Prompt engineering techniques",
-      "AI productivity tools and applications",
-      "Ethical AI usage",
-      "AI for content creation",
-      "Practical AI implementation in workflows"
+      "AI اور machine learning کی بنیادی باتیں",
+      "ChatGPT: استعمال، صلاحیتیں، اور advanced features",
+      "Google Gemini: خصوصیات اور استعمال",
+      "Anthropic Claude: طاقت اور use cases",
+      "Manus AI platform: خصوصیات اور integration",
+      "OpenAI ecosystem: APIs اور tools",
+      "Prompt engineering کی تکنیکیں اور بہترین طریقے",
+      "مختلف AI tools کا موازنہ اور صحیح tool منتخب کرنا",
+      "Content creation، coding، اور analysis کے لیے AI",
+      "Ethical AI استعمال اور ذمہ دارانہ طریقے",
+      "Workflows میں AI کو عملی طور پر لاگو کرنا",
+      "AI tools کے ساتھ کام خودکار کرنا"
     ],
     outcomes: [
-      "Understand AI and machine learning basics",
-      "Use ChatGPT effectively",
-      "Master prompt engineering",
-      "Apply AI tools for productivity",
-      "Create content using AI tools",
-      "Integrate AI into daily workflows"
+      "AI اور machine learning کی بنیادی سمجھ حاصل کریں",
+      "ChatGPT، Gemini، اور Claude کو مؤثر طریقے سے استعمال کریں",
+      "تمام platforms پر prompt engineering میں مہارت حاصل کریں",
+      "مختلف productivity tasks کے لیے متعدد AI tools استعمال کریں",
+      "مختلف AI platforms کے ذریعے content بنائیں",
+      "AI tools کو روزمرہ کے کام اور کاروباری processes میں شامل کریں",
+      "مخصوص کاموں کے لیے صحیح AI tool منتخب کریں",
+      "AI کے ذریعے دہرائے جانے والے کام خودکار کریں",
+      "AI استعمال میں اخلاقی اعتبارات کو سمجھیں",
+      "AI کی تازہ ترین ترقیوں سے باخبر رہیں"
     ]
   }
 };
