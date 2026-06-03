@@ -48,7 +48,20 @@ const coursesData: any = {
       "Use keyboard shortcuts for productivity",
       "Connect and use peripheral devices",
       "Troubleshoot basic computer issues"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "internet-usage": {
     title: "Internet Usage",
@@ -73,7 +86,20 @@ const coursesData: any = {
       "Practice secure password management",
       "Understand digital privacy rights",
       "Use social media responsibly"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "microsoft-office": {
     title: "Microsoft Office",
@@ -97,7 +123,20 @@ const coursesData: any = {
       "Manage emails and calendars in Outlook",
       "Collaborate with colleagues using Office tools",
       "Apply professional formatting standards"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "cyber-security": {
     title: "Cyber Security",
@@ -122,7 +161,20 @@ const coursesData: any = {
       "Understand cybersecurity best practices",
       "Use security tools effectively",
       "Respond to security incidents"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "software-qa": {
     title: "Software Quality Assurance",
@@ -147,7 +199,20 @@ const coursesData: any = {
       "Apply quality assurance methodologies",
       "Document test results accurately",
       "Contribute to software quality improvement"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "business-english": {
     title: "Business English",
@@ -172,7 +237,20 @@ const coursesData: any = {
       "Understand workplace communication norms",
       "Use professional vocabulary",
       "Build strong professional relationships"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   },
   "modern-ai-tools": {
     title: "Modern AI Tools",
@@ -206,7 +284,20 @@ const coursesData: any = {
       "Automate repetitive tasks using AI",
       "Understand ethical considerations in AI usage",
       "Stay updated with latest AI developments"
-    ]
+    ],
+    certification: {
+      name: "Microsoft 365 Certified Associate",
+      examCode: "MS-900",
+      examName: "Microsoft 365 Fundamentals",
+      provider: "Microsoft",
+      description: "Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.",
+      studyResources: [
+        "Official Microsoft Learn modules",
+        "Practice exams and quizzes",
+        "Microsoft documentation",
+        "Hands-on labs with Microsoft 365 tools"
+      ]
+    }
   }
 };
 
@@ -292,6 +383,51 @@ export default function CourseDetail() {
               ))}
             </div>
           </Card>
+
+          {/* Certification Section */}
+          {course.certification && (
+            <Card className="p-8 mb-8 border-2 border-primary/30 bg-primary/5">
+              <div className="flex items-start gap-4 mb-6">
+                <div className="text-5xl">🏆</div>
+                <div className="text-left">
+                  <h2 className="text-3xl font-bold text-foreground mb-2">Certification Path</h2>
+                  <p className="text-foreground/80">Complete this course and prepare for industry-recognized certification</p>
+                </div>
+              </div>
+              
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                <div className="bg-white/50 dark:bg-white/10 rounded-lg p-4">
+                  <h3 className="font-bold text-foreground mb-2">Certification Name</h3>
+                  <p className="text-foreground/80">{course.certification.name}</p>
+                </div>
+                <div className="bg-white/50 dark:bg-white/10 rounded-lg p-4">
+                  <h3 className="font-bold text-foreground mb-2">Exam Code</h3>
+                  <p className="text-foreground/80 font-mono text-lg">{course.certification.examCode}</p>
+                </div>
+                <div className="bg-white/50 dark:bg-white/10 rounded-lg p-4 md:col-span-2">
+                  <h3 className="font-bold text-foreground mb-2">Exam Name</h3>
+                  <p className="text-foreground/80">{course.certification.examName}</p>
+                </div>
+              </div>
+
+              <div className="mb-6 p-4 bg-white/50 dark:bg-white/10 rounded-lg">
+                <h3 className="font-bold text-foreground mb-2">About This Certification</h3>
+                <p className="text-foreground/80">{course.certification.description}</p>
+              </div>
+
+              <div>
+                <h3 className="font-bold text-foreground mb-4">Study Resources Included</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                  {course.certification.studyResources.map((resource: string, idx: number) => (
+                    <div key={idx} className="flex gap-3 items-start">
+                      <div className="text-primary text-xl">📚</div>
+                      <p className="text-foreground/80">{resource}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </Card>
+          )}
 
           {/* CTA Section */}
           <div className="bg-gradient-to-r from-primary/10 to-primary/5 rounded-xl p-8 text-center">

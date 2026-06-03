@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import Mission from "./pages/Mission";
 import Courses from "./pages/Courses";
 import LearningMethods from "./pages/LearningMethods";
+import Certifications from "./pages/Certifications";
 import OneOnOne from "./pages/OneOnOne";
 import HomeTutoring from "./pages/HomeTutoring";
 import OnlineClasses from "./pages/OnlineClasses";
@@ -22,6 +23,7 @@ function Router() {
       <Route path={"/mission"} component={Mission} />
       <Route path={"/courses"} component={Courses} />
       <Route path={"/learning-methods"} component={LearningMethods} />
+      <Route path={"/certifications"} component={Certifications} />
       <Route path={"/one-on-one"} component={OneOnOne} />
       <Route path={"/home-tutoring"} component={HomeTutoring} />
       <Route path={"/online-classes"} component={OnlineClasses} />

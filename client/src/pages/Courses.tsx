@@ -155,7 +155,10 @@ export default function Courses() {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {coursesData.map((course, idx) => (
-              <Card key={idx} className="p-6 hover:shadow-lg transition-shadow flex flex-col">
+              <Card key={idx} className="p-6 hover:shadow-lg transition-shadow flex flex-col relative">
+                <div className="absolute top-4 right-4 bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold border border-primary/20">
+                  🏆 Certified
+                </div>
                 <div className="text-4xl mb-4">{course.icon}</div>
                 <h3 className="text-xl font-bold mb-3 text-foreground">{course.title}</h3>
                 <p className="text-foreground/70 mb-4 flex-grow">{course.description}</p>
