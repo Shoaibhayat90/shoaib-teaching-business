@@ -259,6 +259,123 @@ export default function Mission() {
         </div>
       </section>
 
+      {/* Certification Pathway */}
+      <section className="py-20 bg-gradient-to-b from-primary/5 to-background">
+        <div className="container">
+          <div className="max-w-4xl mx-auto">
+            <div className="mb-16 text-center">
+              <h2 className="text-4xl font-bold mb-6 text-foreground">
+                Industry Certification & Career Advancement
+              </h2>
+              <p className="text-lg text-foreground/70 leading-relaxed">
+                Every course at IT Insight Academy is strategically designed to prepare you for industry-recognized certification exams from Microsoft and Google.
+              </p>
+            </div>
+
+            <Card className="p-12 mb-12 border-2 border-primary/30 bg-white">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+                <div>
+                  <h3 className="text-3xl font-bold mb-6 text-foreground flex items-center gap-3">
+                    <span className="text-5xl">🏆</span>
+                    Certification Readiness
+                  </h3>
+                  <div className="space-y-4">
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Comprehensive Curriculum</p>
+                        <p className="text-foreground/70">Each course covers all exam objectives and real-world scenarios</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Study Materials Included</p>
+                        <p className="text-foreground/70">Official resources, practice exams, and hands-on labs included with every course</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Expert Guidance</p>
+                        <p className="text-foreground/70">Learn from instructors who are themselves certified professionals</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div>
+                  <h3 className="text-3xl font-bold mb-6 text-foreground flex items-center gap-3">
+                    <span className="text-5xl">📈</span>
+                    Your Path Forward
+                  </h3>
+                  <div className="space-y-4">
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Career Advancement</p>
+                        <p className="text-foreground/70">Certifications validate your skills to employers and unlock new opportunities</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Salary Growth</p>
+                        <p className="text-foreground/70">Certified professionals earn significantly more than non-certified peers</p>
+                      </div>
+                    </div>
+                    <div className="flex gap-3">
+                      <span className="text-2xl text-primary">✓</span>
+                      <div>
+                        <p className="font-bold text-foreground">Professional Credibility</p>
+                        <p className="text-foreground/70">Industry-recognized credentials demonstrate your commitment to excellence</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </Card>
+
+            <div className="bg-white rounded-xl p-8 border border-primary/20 mb-12">
+              <h3 className="text-2xl font-bold mb-6 text-foreground text-center">The Certification Journey</h3>
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+                <div className="text-center">
+                  <div className="text-5xl mb-4">1️⃣</div>
+                  <h4 className="font-bold text-foreground mb-2">Enroll in Course</h4>
+                  <p className="text-sm text-foreground/70">Choose a course aligned with your career goals</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-5xl mb-4">2️⃣</div>
+                  <h4 className="font-bold text-foreground mb-2">Complete Training</h4>
+                  <p className="text-sm text-foreground/70">Master all course material and hands-on projects</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-5xl mb-4">3️⃣</div>
+                  <h4 className="font-bold text-foreground mb-2">Prepare for Exam</h4>
+                  <p className="text-sm text-foreground/70">Use study resources and practice exams to prepare</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-5xl mb-4">4️⃣</div>
+                  <h4 className="font-bold text-foreground mb-2">Get Certified</h4>
+                  <p className="text-sm text-foreground/70">Pass the exam and earn your credential</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="text-center">
+              <p className="text-lg text-foreground/80 mb-6">
+                <span className="font-bold text-primary">Our Promise:</span> Complete any of our courses, and you will be fully prepared for the corresponding certification exam. We don't just teach—we certify.
+              </p>
+              <a href="/certifications" className="inline-block">
+                <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Explore Certifications
+                </Button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Call to Action */}
       <section className="py-20 bg-white">
         <div className="container">
