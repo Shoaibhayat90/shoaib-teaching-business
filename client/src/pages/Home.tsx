@@ -91,9 +91,6 @@ export default function Home() {
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       >
-        <div className="absolute left-1/2 top-0 bottom-0 w-1/2 flex items-center justify-center -translate-x-1/4">
-          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-96 h-96 object-contain" />
-        </div>
         <div className="container relative z-10">
           <AnimatedIconCarousel />
           <div className="max-w-2xl">
