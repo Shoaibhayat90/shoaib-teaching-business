@@ -91,6 +91,14 @@ export default function Home() {
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       >
+        <div className="absolute inset-0" style={{
+          backgroundImage: "url('/manus-storage/images(1)_00485606.jpg'), url('/manus-storage/images_1789b0c8.jpg')",
+          backgroundSize: "400px, 400px",
+          backgroundPosition: "0 0, 200px 200px",
+          backgroundRepeat: "repeat",
+          opacity: 0.08,
+          pointerEvents: "none"
+        }} />
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
         <div className="container relative z-10">
           <AnimatedIconCarousel />
