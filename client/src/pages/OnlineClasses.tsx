@@ -34,7 +34,6 @@ export default function OnlineClasses() {
                 Join interactive online sessions from anywhere in the world. Learn with community support, recorded sessions, and real-time Q&A.
               </p>
               <div className="flex items-center gap-4">
-                <span className="text-3xl font-bold text-primary">$200/course</span>
                 <Button className="bg-primary hover:bg-primary/90" size="lg">
                   Get Started
                 </Button>

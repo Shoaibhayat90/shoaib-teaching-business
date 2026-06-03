@@ -34,7 +34,6 @@ export default function OneOnOne() {
                 Personalized instruction tailored to your pace and learning style. Perfect for busy professionals who need flexibility and individual attention.
               </p>
               <div className="flex items-center gap-4">
-                <span className="text-3xl font-bold text-primary">$55/hour</span>
                 <Button className="bg-primary hover:bg-primary/90" size="lg">
                   Get Started
                 </Button>

@@ -64,14 +64,11 @@ export default function Home() {
             <a href="/mission" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Our Mission
             </a>
-            <a href="#courses" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
+            <a href="/courses" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Courses
             </a>
-            <a href="#methods" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
+            <a href="/learning-methods" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Learning
-            </a>
-            <a href="#pillars" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Pillars
             </a>
             <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
               Get Started
@@ -176,166 +173,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Courses & Subjects Section */}
-      <section id="courses" className="py-20 bg-background z-10 scroll-mt-20">
-        <div className="container">
-          <div className="max-w-3xl mx-auto text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              Courses & Subjects
-            </h2>
-            <p className="text-lg text-foreground/70 leading-relaxed">
-              Seven comprehensive courses designed to take you from beginner to confident tech professional.
-            </p>
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {[
-              {
-                title: "Basic Computer Skills",
-                description: "Master hardware, operating systems, file management, and essential computer fundamentals.",
-                details: "Learn about computer hardware components, Windows/Mac operating systems, file management, internet basics, and keyboard shortcuts.",
-                outcomes: ["Understand computer hardware and components", "Navigate operating systems confidently", "Manage files and folders efficiently", "Use keyboard shortcuts for productivity"],
-                icon: "💻",
-                duration: "Flexible",
-                price: "$200",
-                slug: "basic-computer-skills"
-              },
-              {
-                title: "Internet Usage",
-                description: "Navigate the web safely, manage email, online security, and digital citizenship.",
-                details: "Learn web browsing, email management, online safety, password security, recognizing phishing, and responsible internet usage.",
-                outcomes: ["Browse the internet safely and efficiently", "Create and manage email accounts", "Identify and avoid online scams", "Practice secure password management"],
-                icon: "🌐",
-                duration: "Flexible",
-                price: "$150",
-                slug: "internet-usage"
-              },
-              {
-                title: "Microsoft Office",
-                description: "Master Word, Excel, PowerPoint, and Outlook for professional productivity.",
-                details: "Comprehensive training on Word document creation, Excel spreadsheets and formulas, PowerPoint presentations, and Outlook email management.",
-                outcomes: ["Create professional documents in Word", "Build and analyze data in Excel", "Design engaging presentations in PowerPoint", "Manage emails and calendars in Outlook"],
-                icon: "📊",
-                duration: "Flexible",
-                price: "$300",
-                slug: "microsoft-office"
-              },
-              {
-                title: "Cyber Security",
-                description: "Protect yourself online: passwords, phishing, privacy, and safe browsing practices.",
-                details: "Learn cybersecurity fundamentals, password best practices, recognizing phishing attacks, data privacy, secure browsing, and personal digital safety.",
-                outcomes: ["Create strong, secure passwords", "Identify and avoid phishing attacks", "Protect personal data online", "Understand cybersecurity best practices"],
-                icon: "🔐",
-                duration: "Flexible",
-                price: "$500",
-                slug: "cyber-security"
-              },
-              {
-                title: "Software Quality Assurance",
-                description: "Learn testing methodologies, bug reporting, and quality assurance processes.",
-                details: "Master QA fundamentals, manual testing techniques, bug identification and reporting, test case creation, and quality assurance best practices.",
-                outcomes: ["Understand QA and testing principles", "Create effective test cases", "Identify and report bugs professionally", "Apply quality assurance methodologies"],
-                icon: "✅",
-                duration: "Flexible",
-                price: "$500",
-                slug: "software-qa"
-              },
-              {
-                title: "Business English",
-                description: "Professional communication, business writing, and workplace English skills.",
-                details: "Learn professional communication, business email writing, presentation skills, workplace etiquette, and effective business English.",
-                outcomes: ["Write professional business emails", "Communicate effectively in meetings", "Deliver confident presentations", "Understand workplace communication norms"],
-                icon: "📝",
-                duration: "Flexible",
-                price: "$100",
-                slug: "business-english"
-              },
-              {
-                title: "Modern AI Tools",
-                description: "AI productivity tools, prompt engineering, and AI fundamentals.",
-                details: "Explore AI fundamentals, ChatGPT usage, prompt engineering techniques, AI productivity tools, and practical AI applications.",
-                outcomes: ["Understand AI and machine learning basics", "Use ChatGPT effectively", "Master prompt engineering", "Apply AI tools for productivity"],
-                icon: "🤖",
-                duration: "Flexible",
-                price: "$500",
-                slug: "modern-ai-tools"
-              }
-            ].map((course, idx) => (
-              <Card key={idx} className="p-6 hover:shadow-lg transition-shadow">
-                <div className="text-4xl mb-4">{course.icon}</div>
-                <h3 className="text-xl font-bold mb-3 text-foreground">{course.title}</h3>
-                <p className="text-foreground/70 mb-4">{course.description}</p>
-                <div className="flex justify-between items-center text-sm text-primary font-semibold mb-4">
-                  <span>⏱️ {course.duration}</span>
-                  <span>💰 {course.price}</span>
-                </div>
-                <a href={`/course/${course.slug}`} className="w-full">
-                  <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                    Get Started
-                  </Button>
-                </a>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Learning Methods Section */}
-      <section id="methods" className="py-20 bg-white z-10 scroll-mt-20">
-        <div className="container">
-          <div className="max-w-3xl mx-auto text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-              Learning Methods
-            </h2>
-            <p className="text-lg text-foreground/70 leading-relaxed">
-              Choose the learning format that works best for your lifestyle and learning style.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <Card className="p-8 hover:shadow-lg transition-shadow">
-              <div className="text-5xl mb-4">👤</div>
-              <h3 className="text-2xl font-bold mb-3 text-foreground">One-on-One Sessions</h3>
-              <p className="text-foreground/70 mb-6">Personalized instruction tailored to your pace and learning style. Perfect for busy professionals.</p>
-              <a href="/one-on-one" className="w-full">
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Learn More
-                </Button>
-              </a>
-            </Card>
-            <Card className="p-8 hover:shadow-lg transition-shadow">
-              <div className="text-5xl mb-4">🏠</div>
-              <h3 className="text-2xl font-bold mb-3 text-foreground">In-Person Home Tutoring</h3>
-              <p className="text-foreground/70 mb-6">Learn in the comfort of your own home with face-to-face instruction from our expert instructors.</p>
-              <a href="/home-tutoring" className="w-full">
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Learn More
-                </Button>
-              </a>
-            </Card>
-            <Card className="p-8 hover:shadow-lg transition-shadow">
-              <div className="text-5xl mb-4">💻</div>
-              <h3 className="text-2xl font-bold mb-3 text-foreground">Live Online Classes</h3>
-              <p className="text-foreground/70 mb-6">Join interactive online sessions from anywhere. Great for remote learners who want community support.</p>
-              <a href="/online-classes" className="w-full">
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Learn More
-                </Button>
-              </a>
-            </Card>
-            <Card className="p-8 hover:shadow-lg transition-shadow">
-              <div className="text-5xl mb-4">👨‍🏫</div>
-              <h3 className="text-2xl font-bold mb-3 text-foreground">Instructor-Led Training</h3>
-              <p className="text-foreground/70 mb-6">Real-time instruction that replicates a classroom experience with peer interaction and group learning.</p>
-              <a href="/instructor-led" className="w-full">
-                <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Learn More
-                </Button>
-              </a>
-            </Card>
-          </div>
-        </div>
-      </section>
 
       {/* Key Pillars Section */}
       <section id="pillars" className="py-20 bg-background z-10 scroll-mt-20">

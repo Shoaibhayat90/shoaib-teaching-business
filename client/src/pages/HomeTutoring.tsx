@@ -34,7 +34,6 @@ export default function HomeTutoring() {
                 Learn in the comfort of your own home with face-to-face instruction from our expert instructors. No commute, no stress, just personalized learning.
               </p>
               <div className="flex items-center gap-4">
-                <span className="text-3xl font-bold text-primary">$55/hour</span>
                 <Button className="bg-primary hover:bg-primary/90" size="lg">
                   Get Started
                 </Button>

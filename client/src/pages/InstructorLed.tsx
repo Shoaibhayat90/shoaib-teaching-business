@@ -34,7 +34,6 @@ export default function InstructorLed() {
                 Real-time instruction that replicates a classroom experience. Learn with peer interaction, group projects, and professional certification.
               </p>
               <div className="flex items-center gap-4">
-                <span className="text-3xl font-bold text-primary">$200/course</span>
                 <Button className="bg-primary hover:bg-primary/90" size="lg">
                   Get Started
                 </Button>

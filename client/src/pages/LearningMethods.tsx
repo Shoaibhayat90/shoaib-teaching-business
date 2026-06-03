@@ -8,7 +8,7 @@ export default function LearningMethods() {
       title: "One-on-One Sessions",
       icon: "👤",
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-one-on-one-YGoQgsFCUU2TLfGG5AubnL.webp",
-      price: "$55/hour",
+
       description: "Personalized instruction tailored to your pace and learning style.",
       route: "/one-on-one",
       fullDetails: [
@@ -33,7 +33,7 @@ export default function LearningMethods() {
       title: "In-Person Home Tutoring",
       icon: "🏠",
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-home-tutoring-egAhzWf9SBTtpe2uunrXrn.webp",
-      price: "$55/hour",
+
       description: "Learn in the comfort of your own home with face-to-face instruction.",
       route: "/home-tutoring",
       fullDetails: [
@@ -58,7 +58,7 @@ export default function LearningMethods() {
       title: "Live Online Classes",
       icon: "💻",
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-online-classes-5yraHh5WWvF9knU9TB7eKL.webp",
-      price: "$200/course",
+
       description: "Join interactive online sessions from anywhere with community support.",
       route: "/online-classes",
       fullDetails: [
@@ -83,7 +83,7 @@ export default function LearningMethods() {
       title: "Instructor-Led Training",
       icon: "👨‍🏫",
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-instructor-led-YxDYnorksNwzQMBUuaV8gq.webp",
-      price: "$200/course",
+
       description: "Real-time instruction that replicates a classroom experience.",
       route: "/instructor-led",
       fullDetails: [
@@ -186,8 +186,7 @@ export default function LearningMethods() {
                   </div>
                 </div>
 
-                <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-primary">{method.price}</span>
+                <div className="flex items-center justify-end">
                   <Link href={method.route}>
                     <Button className="bg-primary hover:bg-primary/90">
                       View Details
