@@ -93,7 +93,29 @@ export default function Home() {
       >
         <div className="absolute left-1/2 top-0 bottom-0 w-1/2 flex items-center justify-center -translate-x-1/4">
           <div className="relative w-96 h-96">
-            <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-full h-full object-contain" />
+            {/* Individual Logos with Separate Round Placeholders */}
+            <svg className="absolute inset-0 w-full h-full" viewBox="0 0 400 400">
+              {/* Define logo positions in a circle */}
+              {[
+                { x: 200, y: 50, label: "Photos", icon: "📸", color: "#FF6B5B" },
+                { x: 310, y: 90, label: "ChatGPT", icon: "🤖", color: "#1B9B8F" },
+                { x: 340, y: 200, label: "Gemini", icon: "✨", color: "#FF9500" },
+                { x: 310, y: 310, label: "Claude", icon: "🧠", color: "#FF6B5B" },
+                { x: 200, y: 350, label: "Sora", icon: "🎬", color: "#1B9B8F" },
+                { x: 90, y: 310, label: "Midjourney", icon: "🎨", color: "#FF9500" },
+                { x: 60, y: 200, label: "Flux", icon: "⚡", color: "#FF6B5B" },
+                { x: 90, y: 90, label: "Grok", icon: "🧩", color: "#1B9B8F" },
+              ].map((logo, idx) => (
+                <g key={idx}>
+                  {/* Circle with border */}
+                  <circle cx={logo.x} cy={logo.y} r="35" fill="rgba(255,255,255,0.1)" stroke={logo.color} strokeWidth="2" />
+                  {/* Logo text/icon */}
+                  <text x={logo.x} y={logo.y} textAnchor="middle" dy="0.3em" className="text-2xl" fill="currentColor">
+                    {logo.icon}
+                  </text>
+                </g>
+              ))}
+            </svg>
           </div>
         </div>
         <div className="container relative z-10">
