@@ -91,7 +91,7 @@ export default function Home() {
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-transparent" />
         <div className="absolute right-0 top-0 bottom-0 w-1/3 flex items-center justify-center pr-12">
           <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-80 h-80 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
         </div>
