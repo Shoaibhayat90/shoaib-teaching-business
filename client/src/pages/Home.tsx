@@ -92,7 +92,7 @@ export default function Home() {
         }}
       >
         <div className="absolute inset-0 left-0 w-2/3 bg-gradient-to-r from-background/95 to-transparent" />
-        <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-white flex items-center justify-center pr-12">
+        <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-gradient-to-b from-white/5 via-white/10 to-white/5 flex items-center justify-center pr-12">
           <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-80 h-80 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
         </div>
         <div className="container relative z-10">
