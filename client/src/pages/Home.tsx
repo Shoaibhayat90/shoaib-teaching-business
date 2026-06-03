@@ -34,6 +34,112 @@ const Card = ({ children, className = "" }: any) => (
   </div>
 );
 
+const InteractiveCircularLogos = () => {
+  const [hoveredLogo, setHoveredLogo] = useState<string | null>(null);
+
+  const logos = [
+    { id: "photos", name: "Photos", description: "Organize and manage your digital memories" },
+    { id: "chatgpt", name: "ChatGPT", description: "AI-powered conversational assistant" },
+    { id: "sora", name: "Sora", description: "AI video generation tool" },
+    { id: "midjourney", name: "Midjourney", description: "AI image generation platform" },
+    { id: "gemini", name: "Gemini", description: "Google's advanced AI model" },
+    { id: "oneNote", name: "OneNote", description: "Digital note-taking application" },
+    { id: "flux", name: "Flux", description: "Fast AI image generation" },
+    { id: "grok", name: "Grok", description: "Real-time information AI" },
+    { id: "claude", name: "Claude", description: "Anthropic's AI assistant" },
+    { id: "powerpoint", name: "PowerPoint", description: "Professional presentations" },
+    { id: "word", name: "Word", description: "Document creation and editing" },
+    { id: "excel", name: "Excel", description: "Spreadsheet and data analysis" },
+    { id: "outlook", name: "Outlook", description: "Email and calendar management" },
+    { id: "onedrive", name: "OneDrive", description: "Cloud storage solution" },
+    { id: "veo", name: "Veo", description: "Google's video generation AI" },
+  ];
+
+  return (
+    <div className="relative w-80 h-80 flex items-center justify-center">
+      {/* Center description box */}
+      <div className="absolute inset-0 flex items-center justify-center z-20">
+        <div className="text-center bg-white/80 backdrop-blur-sm rounded-xl p-6 w-48 h-48 flex flex-col items-center justify-center">
+          {hoveredLogo ? (
+            <>
+              <h3 className="text-lg font-bold text-foreground mb-2">
+                {logos.find(l => l.id === hoveredLogo)?.name}
+              </h3>
+              <p className="text-sm text-foreground/70">
+                {logos.find(l => l.id === hoveredLogo)?.description}
+              </p>
+            </>
+          ) : (
+            <p className="text-sm text-foreground/50">Hover over logos to learn more</p>
+          )}
+        </div>
+      </div>
+
+      {/* Circular logos - using individual logo images */}
+      <div className="relative w-full h-full">
+        {logos.map((logo, index) => {
+          const angle = (index / logos.length) * Math.PI * 2;
+          const radius = 130;
+          const x = 50 + radius * Math.cos(angle);
+          const y = 50 + radius * Math.sin(angle);
+          const isHovered = hoveredLogo === logo.id;
+
+          return (
+            <div
+              key={logo.id}
+              className="absolute w-14 h-14 flex items-center justify-center cursor-pointer transition-all duration-300"
+              style={{
+                left: `${x}%`,
+                top: `${y}%`,
+                transform: "translate(-50%, -50%)",
+              }}
+              onMouseEnter={() => setHoveredLogo(logo.id)}
+              onMouseLeave={() => setHoveredLogo(null)}
+            >
+              <div
+                className="absolute inset-0 rounded-full bg-white transition-all duration-300"
+                style={{
+                  opacity: isHovered ? 1 : 0.7,
+                  transform: isHovered ? "scale(1.2)" : "scale(1)",
+                }}
+              />
+              <div
+                className="relative w-10 h-10 flex items-center justify-center transition-transform duration-300"
+                style={{
+                  transform: isHovered ? "scale(1.15)" : "scale(1)",
+                }}
+              >
+                <span className="text-2xl">{getLogo(logo.id)}</span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+};
+
+const getLogo = (id: string) => {
+  const logoMap: any = {
+    photos: "📷",
+    chatgpt: "🤖",
+    sora: "🎬",
+    midjourney: "🎨",
+    gemini: "✨",
+    oneNote: "📝",
+    flux: "⚡",
+    grok: "🧠",
+    claude: "🔮",
+    powerpoint: "📊",
+    word: "📄",
+    excel: "📈",
+    outlook: "📧",
+    onedrive: "☁️",
+    veo: "🎥",
+  };
+  return logoMap[id] || "🔧";
+};
+
 const AnimatedIconCarousel = () => {
   return null;
 };
@@ -93,7 +199,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 left-0 w-2/3 bg-gradient-to-r from-background/95 to-transparent" />
         <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-gradient-to-b from-white/5 via-white/10 to-white/5 flex items-center justify-center pr-12">
-          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-80 h-80 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
+          <InteractiveCircularLogos />
         </div>
         <div className="container relative z-10">
           <AnimatedIconCarousel />
