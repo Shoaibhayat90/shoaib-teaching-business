@@ -91,15 +91,11 @@ export default function Home() {
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       >
-        <div className="absolute inset-0" style={{
-          backgroundImage: "url('/manus-storage/images(1)_00485606.jpg'), url('/manus-storage/images_1789b0c8.jpg')",
-          backgroundSize: "700px, 700px",
-          backgroundPosition: "0 0, 100px 100px",
-          backgroundRepeat: "repeat",
-          opacity: 0.13,
-          pointerEvents: "none"
-        }} />
         <div className="absolute inset-0 bg-gradient-to-r from-background/80 to-background/40" />
+        <div className="absolute right-0 top-0 bottom-0 w-1/3 flex flex-col items-center justify-center gap-6 pr-8">
+          <img src="/manus-storage/images(1)_00485606.jpg" alt="AI Tools" className="w-40 h-40 object-contain opacity-50" />
+          <img src="/manus-storage/images_1789b0c8.jpg" alt="MS Office" className="w-40 h-40 object-contain opacity-50" />
+        </div>
         <div className="container relative z-10">
           <AnimatedIconCarousel />
           <div className="max-w-2xl">
