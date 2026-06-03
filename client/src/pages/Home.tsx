@@ -93,7 +93,26 @@ export default function Home() {
       >
         <div className="absolute inset-0 left-0 w-2/3 bg-gradient-to-r from-background/95 to-transparent" />
         <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-gradient-to-b from-white/5 via-white/10 to-white/5 flex items-center justify-center pr-12">
-          <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/circular-logos-arrangement-URJBYUioRsk6CVrYoviprD.webp" alt="Tech Tools" className="w-80 h-80 object-contain opacity-70 hover:opacity-100 transition-opacity duration-300" />
+          <div className="relative w-80 h-80">
+            {/* AI Tools Row */}
+            <div className="absolute top-4 left-0 right-0 flex justify-around items-start">
+              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-278857334-URJBYUioRsk6CVrYoviprD.webp" alt="ChatGPT" className="w-12 h-12 opacity-70 hover:opacity-100 transition-opacity" />
+              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718-URJBYUioRsk6CVrYoviprD.png" alt="Gemini" className="w-12 h-12 opacity-70 hover:opacity-100 transition-opacity" />
+              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/claude-logo-png_seeklogo-554540-URJBYUioRsk6CVrYoviprD.png" alt="Claude" className="w-12 h-12 opacity-70 hover:opacity-100 transition-opacity" />
+            </div>
+            {/* Middle Row */}
+            <div className="absolute top-1/3 left-0 right-0 flex justify-around items-center">
+              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/pi6jTImSRZx12uZHAflnZa8GMA-URJBYUioRsk6CVrYoviprD.avif" alt="Manus" className="w-12 h-12 opacity-70 hover:opacity-100 transition-opacity" />
+              <span className="text-4xl">✨</span>
+              <span className="text-4xl">⚡</span>
+            </div>
+            {/* Microsoft Office Row */}
+            <div className="absolute bottom-4 left-0 right-0 flex justify-around items-end">
+              <span className="text-4xl">📊</span>
+              <span className="text-4xl">📄</span>
+              <span className="text-4xl">📈</span>
+            </div>
+          </div>
         </div>
         <div className="container relative z-10">
           <AnimatedIconCarousel />
