@@ -102,7 +102,7 @@ export default function Home() {
                 <span className="text-primary">From Scratch</span>
               </h1>
               <p className="text-lg text-foreground/80 leading-relaxed max-w-lg">
-                We empower beginners, students, and job seekers with practical IT skills designed for real-world success. Simple, structured, and focused on your growth.
+                We empower beginners, students, and job seekers with practical IT skills designed for real-world success. Earn industry-recognized certifications from Microsoft and Google. Simple, structured, and focused on your growth.
               </p>
               <div className="flex gap-4 pt-4">
                 <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
