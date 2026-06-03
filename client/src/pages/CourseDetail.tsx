@@ -179,7 +179,7 @@ const coursesData: any = {
     icon: "🤖",
     price: "$500",
     duration: "Flexible",
-    shortDescription: "Master ChatGPT, Gemini, Claude, Manus, OpenAI, and other AI productivity tools.",
+    shortDescription: "AI productivity tools, prompt engineering, and AI fundamentals.",
     fullDescription: "Learn all modern AI productivity tools including ChatGPT, Google Gemini, Anthropic Claude, Manus, OpenAI, and other cutting-edge AI platforms. Master prompt engineering, AI fundamentals, and practical applications.",
     whatYouWillLearn: [
       "AI and machine learning fundamentals",

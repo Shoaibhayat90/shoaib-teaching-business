@@ -274,7 +274,7 @@ export default function Home() {
               },
               {
                 title: "Modern AI Tools",
-                description: "ChatGPT, AI productivity tools, prompt engineering, and AI fundamentals.",
+                description: "AI productivity tools, prompt engineering, and AI fundamentals.",
                 details: "Explore AI fundamentals, ChatGPT usage, prompt engineering techniques, AI productivity tools, and practical AI applications.",
                 outcomes: ["Understand AI and machine learning basics", "Use ChatGPT effectively", "Master prompt engineering", "Apply AI tools for productivity"],
                 icon: "🤖",
