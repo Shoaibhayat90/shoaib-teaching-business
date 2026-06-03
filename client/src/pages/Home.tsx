@@ -215,51 +215,72 @@ export default function Home() {
               {
                 title: "Basic Computer Skills",
                 description: "Master hardware, operating systems, file management, and essential computer fundamentals.",
+                details: "Learn about computer hardware components, Windows/Mac operating systems, file management, internet basics, and keyboard shortcuts.",
+                outcomes: ["Understand computer hardware and components", "Navigate operating systems confidently", "Manage files and folders efficiently", "Use keyboard shortcuts for productivity"],
                 icon: "💻",
                 duration: "Flexible",
-                price: "$200"
+                price: "$200",
+                slug: "basic-computer-skills"
               },
               {
                 title: "Internet Usage",
                 description: "Navigate the web safely, manage email, online security, and digital citizenship.",
+                details: "Learn web browsing, email management, online safety, password security, recognizing phishing, and responsible internet usage.",
+                outcomes: ["Browse the internet safely and efficiently", "Create and manage email accounts", "Identify and avoid online scams", "Practice secure password management"],
                 icon: "🌐",
                 duration: "Flexible",
-                price: "$150"
+                price: "$150",
+                slug: "internet-usage"
               },
               {
                 title: "Microsoft Office",
                 description: "Master Word, Excel, PowerPoint, and Outlook for professional productivity.",
+                details: "Comprehensive training on Word document creation, Excel spreadsheets and formulas, PowerPoint presentations, and Outlook email management.",
+                outcomes: ["Create professional documents in Word", "Build and analyze data in Excel", "Design engaging presentations in PowerPoint", "Manage emails and calendars in Outlook"],
                 icon: "📊",
                 duration: "Flexible",
-                price: "$300"
+                price: "$300",
+                slug: "microsoft-office"
               },
               {
                 title: "Cyber Security",
                 description: "Protect yourself online: passwords, phishing, privacy, and safe browsing practices.",
+                details: "Learn cybersecurity fundamentals, password best practices, recognizing phishing attacks, data privacy, secure browsing, and personal digital safety.",
+                outcomes: ["Create strong, secure passwords", "Identify and avoid phishing attacks", "Protect personal data online", "Understand cybersecurity best practices"],
                 icon: "🔐",
                 duration: "Flexible",
-                price: "$500"
+                price: "$500",
+                slug: "cyber-security"
               },
               {
                 title: "Software Quality Assurance",
                 description: "Learn testing methodologies, bug reporting, and quality assurance processes.",
+                details: "Master QA fundamentals, manual testing techniques, bug identification and reporting, test case creation, and quality assurance best practices.",
+                outcomes: ["Understand QA and testing principles", "Create effective test cases", "Identify and report bugs professionally", "Apply quality assurance methodologies"],
                 icon: "✅",
                 duration: "Flexible",
-                price: "$500"
+                price: "$500",
+                slug: "software-qa"
               },
               {
                 title: "Business English",
                 description: "Professional communication, business writing, and workplace English skills.",
+                details: "Learn professional communication, business email writing, presentation skills, workplace etiquette, and effective business English.",
+                outcomes: ["Write professional business emails", "Communicate effectively in meetings", "Deliver confident presentations", "Understand workplace communication norms"],
                 icon: "📝",
                 duration: "Flexible",
-                price: "$100"
+                price: "$100",
+                slug: "business-english"
               },
               {
                 title: "Modern AI Tools",
                 description: "ChatGPT, AI productivity tools, prompt engineering, and AI fundamentals.",
+                details: "Explore AI fundamentals, ChatGPT usage, prompt engineering techniques, AI productivity tools, and practical AI applications.",
+                outcomes: ["Understand AI and machine learning basics", "Use ChatGPT effectively", "Master prompt engineering", "Apply AI tools for productivity"],
                 icon: "🤖",
                 duration: "Flexible",
-                price: "$500"
+                price: "$500",
+                slug: "modern-ai-tools"
               }
             ].map((course, idx) => (
               <Card key={idx} className="p-6 hover:shadow-lg transition-shadow">
@@ -270,9 +291,11 @@ export default function Home() {
                   <span>⏱️ {course.duration}</span>
                   <span>💰 {course.price}</span>
                 </div>
-                <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Enroll Now
-                </Button>
+                <a href={`/course/${course.slug}`} className="w-full">
+                  <Button size="sm" className="w-full bg-primary hover:bg-primary/90 text-primary-foreground">
+                    Get Started
+                  </Button>
+                </a>
               </Card>
             ))}
           </div>
