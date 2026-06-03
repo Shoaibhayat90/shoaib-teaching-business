@@ -35,28 +35,7 @@ const Card = ({ children, className = "" }: any) => (
 );
 
 const AnimatedIconCarousel = () => {
-  const icons = [
-    { name: 'Microsoft 365', logo: '/manus-storage/M365_FY26_C2_SUITE_HERO_IMAGE_16x9_0bf8c182.webp' },
-    { name: 'ChatGPT', logo: '/manus-storage/minsk-belarus-openai-chatgpt-logo-artifical-chatbot-system-chat-bot-button-web-app-phone-icon-symbol-editorial-vector-278857334_75d9b2fd.webp' },
-    { name: 'Manus', logo: '/manus-storage/pi6jTImSRZx12uZHAflnZa8GMA_ea956c91.avif' },
-    { name: 'Gemini', logo: '/manus-storage/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718_9b769fae.png' },
-    { name: 'Claude', logo: '/manus-storage/claude-logo-png_seeklogo-554540_b7c388b0.png' },
-  ];
-
-  return (
-    <div className="absolute right-0 top-1/2 -translate-y-1/2 flex items-center justify-center gap-4">
-      {icons.map((icon, index) => (
-        <div
-          key={index}
-          className="flex items-center justify-center"
-        >
-          <div className="bg-white rounded-2xl w-28 h-28 flex items-center justify-center shadow-lg transform hover:scale-110 transition-transform border border-gray-200">
-            <img src={icon.logo} alt={icon.name} className="w-16 h-16 object-contain" />
-          </div>
-        </div>
-      ))}
-    </div>
-  );
+  return null;
 };
 
 export default function Home() {
