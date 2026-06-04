@@ -230,9 +230,9 @@ export default function Certifications() {
                       View All Courses <ChevronRight className="w-5 h-5 ml-2" />
                     </Button>
                   </a>
-                  <a href="/contact">
-                    <Button size="lg" variant="outline">
-                      Schedule Free Consultation
+                  <a href="https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/" target="_blank" rel="noopener noreferrer">
+                    <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white">
+                      Schedule MS-900 Exam <ChevronRight className="w-5 h-5 ml-2" />
                     </Button>
                   </a>
                 </div>
@@ -307,6 +307,19 @@ export default function Certifications() {
                   </div>
                 </div>
               </div>
+
+              {/* CTA */}
+              <div className="bg-gradient-to-r from-orange-50 to-orange-50/50 rounded-lg p-6 text-center border border-orange-200">
+                <h4 className="text-xl font-bold text-foreground mb-3">Ready to Get ISO 9001 Certified?</h4>
+                <p className="text-foreground/80 mb-6">
+                  Find an accredited ISO 9001 certification body and begin your quality management journey.
+                </p>
+                <a href="https://www.iso.org/certification.html" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" className="bg-orange-600 hover:bg-orange-700 text-white">
+                    Find ISO 9001 Provider <ChevronRight className="w-5 h-5 ml-2" />
+                  </Button>
+                </a>
+              </div>
             </Card>
           </div>
 
@@ -377,6 +390,19 @@ export default function Certifications() {
                   </div>
                 </div>
               </div>
+
+              {/* CTA */}
+              <div className="bg-gradient-to-r from-red-50 to-red-50/50 rounded-lg p-6 text-center border border-red-200">
+                <h4 className="text-xl font-bold text-foreground mb-3">Ready to Launch Your Cybersecurity Career?</h4>
+                <p className="text-foreground/80 mb-6">
+                  Enroll in Google's cybersecurity program and start your journey to entry-level cybersecurity roles.
+                </p>
+                <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white">
+                    Enroll Now <ChevronRight className="w-5 h-5 ml-2" />
+                  </Button>
+                </a>
+              </div>
             </Card>
           </div>
 
@@ -442,6 +468,19 @@ export default function Certifications() {
                     <p className="text-foreground/80">Real-world use cases and examples</p>
                   </div>
                 </div>
+              </div>
+
+              {/* CTA */}
+              <div className="bg-gradient-to-r from-yellow-50 to-yellow-50/50 rounded-lg p-6 text-center border border-yellow-200">
+                <h4 className="text-xl font-bold text-foreground mb-3">Ready to Master AI Essentials?</h4>
+                <p className="text-foreground/80 mb-6">
+                  Start learning AI fundamentals for free and earn your Google AI Essentials certificate.
+                </p>
+                <a href="https://www.coursera.org/specializations/ai-essentials-google" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white">
+                    Start Learning <ChevronRight className="w-5 h-5 ml-2" />
+                  </Button>
+                </a>
               </div>
             </Card>
           </div>
