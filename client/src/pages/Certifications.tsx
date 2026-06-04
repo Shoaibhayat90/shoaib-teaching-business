@@ -380,6 +380,72 @@ export default function Certifications() {
             </Card>
           </div>
 
+          {/* Google AI Essentials Certification */}
+          <div className="mb-16">
+            <Card className="p-8 border-2 border-primary/30">
+              <div className="flex items-start gap-6 mb-8">
+                <img src="/manus-storage/google-ai-essentials-logo_d063ae03.png" alt="Google AI Essentials" className="h-20 w-20 object-contain flex-shrink-0" />
+                <div className="flex-grow">
+                  <h2 className="text-3xl font-bold text-foreground mb-2">Google AI Essentials Certificate</h2>
+                  <p className="text-lg text-foreground/70">
+                    Master AI fundamentals and practical applications. Learn prompt engineering, AI ethics, and how to leverage AI tools for productivity and innovation.
+                  </p>
+                </div>
+              </div>
+              <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
+                <div className="bg-background p-4 rounded-lg">
+                  <p className="text-sm text-foreground/60 mb-1">Provider</p>
+                  <p className="font-bold text-foreground">Google</p>
+                </div>
+                <div className="bg-background p-4 rounded-lg">
+                  <p className="text-sm text-foreground/60 mb-1">Duration</p>
+                  <p className="font-bold text-foreground">5 hours</p>
+                </div>
+                <div className="bg-background p-4 rounded-lg">
+                  <p className="text-sm text-foreground/60 mb-1">Format</p>
+                  <p className="font-bold text-foreground">Online</p>
+                </div>
+                <div className="bg-background p-4 rounded-lg">
+                  <p className="text-sm text-foreground/60 mb-1">Cost</p>
+                  <p className="font-bold text-foreground">Free</p>
+                </div>
+                <div className="bg-background p-4 rounded-lg">
+                  <p className="text-sm text-foreground/60 mb-1">Certification</p>
+                  <p className="font-bold text-foreground">Digital Badge</p>
+                </div>
+              </div>
+              <div className="mb-8">
+                <h3 className="text-2xl font-bold text-foreground mb-4">What Our Courses Cover</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">AI fundamentals and concepts</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Prompt engineering techniques</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">AI ethics and responsible AI</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Practical AI tool applications</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">AI in business and productivity</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Real-world use cases and examples</p>
+                  </div>
+                </div>
+              </div>
+            </Card>
+          </div>
+
           {/* FAQ */}
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Frequently Asked Questions</h2>
