@@ -4,6 +4,8 @@ import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { useLocation } from 'wouter';
+import { trpc } from '@/lib/trpc';
+import { toast } from 'sonner';
 
 export default function Contact() {
   const [, navigate] = useLocation();
@@ -15,6 +17,9 @@ export default function Contact() {
     message: '',
   });
   const [submitted, setSubmitted] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+
+  const submitContactForm = trpc.contact.submit.useMutation();
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
@@ -24,23 +29,41 @@ export default function Contact() {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // Here you would typically send the form data to a backend
-    console.log('Form submitted:', formData);
-    setSubmitted(true);
-    
-    // Reset form after 2 seconds
-    setTimeout(() => {
-      setFormData({
-        name: '',
-        email: '',
-        phone: '',
-        subject: '',
-        message: '',
+    setIsLoading(true);
+
+    try {
+      const result = await submitContactForm.mutateAsync({
+        name: formData.name,
+        email: formData.email,
+        phone: formData.phone || undefined,
+        subject: formData.subject,
+        message: formData.message,
       });
-      setSubmitted(false);
-    }, 2000);
+
+      if (result.success) {
+        setSubmitted(true);
+        toast.success(result.message);
+        
+        // Reset form after 3 seconds
+        setTimeout(() => {
+          setFormData({
+            name: '',
+            email: '',
+            phone: '',
+            subject: '',
+            message: '',
+          });
+          setSubmitted(false);
+        }, 3000);
+      }
+    } catch (error) {
+      console.error('Form submission error:', error);
+      toast.error('Failed to submit form. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -232,8 +255,9 @@ export default function Contact() {
                         type="submit" 
                         size="lg" 
                         className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-semibold"
+                        disabled={isLoading}
                       >
-                        Send Message
+                        {isLoading ? 'Sending...' : 'Send Message'}
                       </Button>
                     </form>
                   )}
