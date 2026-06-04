@@ -17,6 +17,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$200",
     slug: "basic-computer-skills",
+    fundingEligible: ["student-loans", "ei-training"],
     outcomes: [
       "Understand computer hardware and components",
       "Navigate operating systems confidently",
@@ -32,6 +33,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$150",
     slug: "internet-usage",
+    fundingEligible: ["student-loans", "ei-training"],
     outcomes: [
       "Browse the internet safely and efficiently",
       "Create and manage email accounts",
@@ -47,6 +49,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$300",
     slug: "microsoft-office",
+    fundingEligible: ["student-loans", "ei-training", "employer-training"],
     outcomes: [
       "Create professional documents in Word",
       "Build and analyze data in Excel",
@@ -62,6 +65,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$500",
     slug: "cyber-security",
+    fundingEligible: ["student-loans", "ei-training", "employer-training"],
     outcomes: [
       "Create strong, secure passwords",
       "Identify and avoid phishing attacks",
@@ -77,6 +81,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$500",
     slug: "software-qa",
+    fundingEligible: ["student-loans", "ei-training", "employer-training"],
     outcomes: [
       "Understand QA and testing principles",
       "Create effective test cases",
@@ -92,6 +97,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$100",
     slug: "business-english",
+    fundingEligible: ["student-loans", "ei-training"],
     outcomes: [
       "Write professional business emails",
       "Communicate effectively in meetings",
@@ -107,6 +113,7 @@ const coursesData = [
     duration: "Flexible",
     price: "$500",
     slug: "modern-ai-tools",
+    fundingEligible: ["student-loans", "ei-training", "employer-training"],
     outcomes: [
       "Understand AI and machine learning basics",
       "Use ChatGPT, Gemini, and Claude effectively",
@@ -141,12 +148,35 @@ export default function Courses() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {coursesData.map((course, idx) => (
               <Card key={idx} className="p-6 hover:shadow-lg transition-shadow flex flex-col relative">
-                <div className="absolute top-4 right-4 bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold border border-primary/20">
-                  🏆 Certified
+                <div className="absolute top-4 right-4 flex flex-col gap-2 items-end">
+                  <div className="bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold border border-primary/20">
+                    🏆 Certified
+                  </div>
+                  {course.fundingEligible && course.fundingEligible.length > 0 && (
+                    <div className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-xs font-bold border border-green-300">
+                      💰 Funding Available
+                    </div>
+                  )}
                 </div>
                 <div className="text-4xl mb-4">{course.icon}</div>
                 <h3 className="text-xl font-bold mb-3 text-foreground">{course.title}</h3>
                 <p className="text-foreground/70 mb-4 flex-grow">{course.description}</p>
+                {course.fundingEligible && course.fundingEligible.length > 0 && (
+                  <div className="mb-4 p-3 bg-green-50 rounded-lg border border-green-200">
+                    <p className="text-xs font-semibold text-green-700 mb-2">Eligible for:</p>
+                    <div className="flex flex-wrap gap-2">
+                      {course.fundingEligible.includes('student-loans') && (
+                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">Student Loans</span>
+                      )}
+                      {course.fundingEligible.includes('ei-training') && (
+                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">EI Training</span>
+                      )}
+                      {course.fundingEligible.includes('employer-training') && (
+                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">Employer Training</span>
+                      )}
+                    </div>
+                  </div>
+                )}
                 <div className="flex justify-between items-center text-sm text-primary font-semibold mb-4">
                   <span>⏱️ {course.duration}</span>
                   <span>💰 {course.price}</span>
@@ -175,9 +205,11 @@ export default function Courses() {
             <Button className="bg-primary hover:bg-primary/90" size="lg">
               Get Started Today
             </Button>
-            <Button variant="outline" size="lg">
-              <Link href="/">Back to Home</Link>
-            </Button>
+            <Link href="/">
+              <Button variant="outline" size="lg">
+                Back to Home
+              </Button>
+            </Link>
           </div>
         </div>
       </section>

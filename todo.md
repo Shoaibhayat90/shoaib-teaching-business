@@ -19,3 +19,11 @@
 - [x] Add testimonials section - 3 student success stories with ratings
 - [x] Add instructor about section - Shoaib Hayat bio with credentials
 - [x] Replace redundant "Learn Smart/Grow Fast/Succeed" section with featured courses preview
+
+## Alberta Funding Support System
+- [x] Create Funding page with Alberta funding options explained
+- [x] Add funding badges to course pages (Student Loans, EI, Employer Training)
+- [x] Create funding eligibility form
+- [x] Add "Funding Available" section to homepage hero
+- [ ] Set up AI-powered Funding Advisor Chatbot with OpenAI API (pending ChatGPT API key)
+- [ ] Test all features and create checkpoint
