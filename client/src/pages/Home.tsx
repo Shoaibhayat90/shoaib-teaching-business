@@ -245,6 +245,117 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Certifications Section */}
+      <section className="py-20 bg-white z-10">
+        <div className="container">
+          <div className="max-w-4xl mx-auto mb-16 text-center">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              Industry Certifications
+            </h2>
+            <p className="text-lg text-foreground/70 leading-relaxed">
+              Earn industry-recognized certifications by completing our comprehensive courses. Validate your skills and advance your career with credentials from Microsoft.
+            </p>
+          </div>
+
+          {/* Certification Card */}
+          <Card className="p-8 mb-12 border-2 border-primary/30">
+            <div className="flex items-start gap-6 mb-8">
+              <div className="text-6xl">🔷</div>
+              <div className="flex-grow">
+                <h2 className="text-4xl font-bold text-foreground mb-2">Microsoft 365 Certified Associate</h2>
+                <p className="text-lg text-foreground/70 mb-4">Demonstrate foundational knowledge of Microsoft 365 services and cloud concepts.</p>
+                <div className="flex flex-wrap gap-4">
+                  <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg">
+                    <span className="font-semibold">Provider:</span> Microsoft
+                  </div>
+                  <div className="bg-primary/10 text-primary px-4 py-2 rounded-lg">
+                    <span className="font-semibold">Exam Code:</span> MS-900
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Exam Details Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 mb-8 pb-8 border-b border-border">
+              <div className="bg-background rounded-lg p-4">
+                <h4 className="font-bold text-foreground mb-2">Exam Duration</h4>
+                <p className="text-foreground/80">60 minutes</p>
+              </div>
+              <div className="bg-background rounded-lg p-4">
+                <h4 className="font-bold text-foreground mb-2">Questions</h4>
+                <p className="text-foreground/80">40-60 questions</p>
+              </div>
+              <div className="bg-background rounded-lg p-4">
+                <h4 className="font-bold text-foreground mb-2">Passing Score</h4>
+                <p className="text-foreground/80">700/1000</p>
+              </div>
+              <div className="bg-background rounded-lg p-4">
+                <h4 className="font-bold text-foreground mb-2">Exam Cost</h4>
+                <p className="text-foreground/80">$99 USD</p>
+              </div>
+              <div className="bg-background rounded-lg p-4">
+                <h4 className="font-bold text-foreground mb-2">Retake Policy</h4>
+                <p className="text-foreground/80">Can retake after 24 hours</p>
+              </div>
+            </div>
+
+            {/* Benefits */}
+            <div className="mb-8">
+              <h3 className="text-2xl font-bold text-foreground mb-4">Why Get This Certification?</h3>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="flex gap-3">
+                  <div className="text-primary text-2xl">✓</div>
+                  <p className="text-foreground/80">Industry-recognized credential</p>
+                </div>
+                <div className="flex gap-3">
+                  <div className="text-primary text-2xl">✓</div>
+                  <p className="text-foreground/80">Validates Microsoft 365 knowledge</p>
+                </div>
+                <div className="flex gap-3">
+                  <div className="text-primary text-2xl">✓</div>
+                  <p className="text-foreground/80">Enhances career prospects</p>
+                </div>
+                <div className="flex gap-3">
+                  <div className="text-primary text-2xl">✓</div>
+                  <p className="text-foreground/80">Demonstrates cloud competency</p>
+                </div>
+                <div className="flex gap-3">
+                  <div className="text-primary text-2xl">✓</div>
+                  <p className="text-foreground/80">Improves job marketability</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Certification Journey */}
+            <div>
+              <h3 className="text-2xl font-bold text-foreground mb-6">Your Certification Journey</h3>
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <Card className="p-6 text-center">
+                  <div className="text-5xl mb-4">1️⃣</div>
+                  <h3 className="text-xl font-bold text-foreground mb-2">Choose a Course</h3>
+                  <p className="text-foreground/70">Select from our 7 comprehensive courses that align with your goals.</p>
+                </Card>
+                <Card className="p-6 text-center">
+                  <div className="text-5xl mb-4">2️⃣</div>
+                  <h3 className="text-xl font-bold text-foreground mb-2">Learn & Practice</h3>
+                  <p className="text-foreground/70">Complete the course with hands-on projects and practical exercises.</p>
+                </Card>
+                <Card className="p-6 text-center">
+                  <div className="text-5xl mb-4">3️⃣</div>
+                  <h3 className="text-xl font-bold text-foreground mb-2">Study for Exam</h3>
+                  <p className="text-foreground/70">Use included study resources and practice exams to prepare.</p>
+                </Card>
+                <Card className="p-6 text-center">
+                  <div className="text-5xl mb-4">4️⃣</div>
+                  <h3 className="text-xl font-bold text-foreground mb-2">Get Certified</h3>
+                  <p className="text-foreground/70">Pass the exam and earn your industry-recognized certification.</p>
+                </Card>
+              </div>
+            </div>
+          </Card>
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="py-20 bg-background z-10">
         <div className="container">
