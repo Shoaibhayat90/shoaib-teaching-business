@@ -140,18 +140,9 @@ export default function LearningMethods() {
       <section className="py-12 px-4 sm:px-6">
         <div className="max-w-7xl mx-auto space-y-16">
           {methods.map((method, index) => (
-            <div key={method.id} className={`grid grid-cols-1 md:grid-cols-2 gap-8 items-center ${index % 2 === 1 ? "md:flex-row-reverse" : ""}`}>
-              {/* Image */}
-              <div className={`${index % 2 === 1 ? "md:order-2" : ""}`}>
-                <img
-                  src={method.image}
-                  alt={method.title}
-                  className="w-full rounded-lg shadow-lg object-cover h-80"
-                />
-              </div>
-
+            <div key={method.id} className="space-y-6">
               {/* Content */}
-              <div className={`${index % 2 === 1 ? "md:order-1" : ""}`}>
+              <div>
                 <div className="flex items-center gap-3 mb-4">
                   <span className="text-4xl">{method.icon}</span>
                   <h2 className="text-3xl font-bold text-foreground">{method.title}</h2>
