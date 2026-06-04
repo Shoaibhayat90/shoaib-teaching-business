@@ -240,6 +240,146 @@ export default function Certifications() {
             </Card>
           </div>
 
+          {/* ISO 9001 Certification */}
+          <div className="mb-16">
+            <Card className="p-8 border-2 border-primary/30">
+              <div className="flex items-start gap-6 mb-8">
+                <div className="text-6xl">✓</div>
+                <div className="flex-grow">
+                  <h2 className="text-3xl font-bold text-foreground mb-2">ISO 9001: Quality Assurance Certification</h2>
+                  <p className="text-lg text-foreground/70">
+                    Master quality management principles and become a certified QA professional. Learn to implement, maintain, and audit ISO 9001 standards.
+                  </p>
+                </div>
+              </div>
+
+              {/* Exam Details */}
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 mb-8 pb-8 border-b border-border">
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Certification Body</h4>
+                  <p className="text-foreground/80 font-semibold">International Organization for Standardization</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Duration</h4>
+                  <p className="text-foreground/80">3-5 days intensive</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Format</h4>
+                  <p className="text-foreground/80">Written exam + audit project</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Validity</h4>
+                  <p className="text-foreground/80">3 years</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Career Impact</h4>
+                  <p className="text-foreground/80">High demand in QA roles</p>
+                </div>
+              </div>
+
+              {/* What We Cover */}
+              <div className="mb-8">
+                <h3 className="text-2xl font-bold text-foreground mb-4">What Our Courses Cover</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">ISO 9001:2015 standards and requirements</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Quality management system implementation</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Internal audit techniques and procedures</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Documentation and process management</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Risk assessment and corrective actions</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Real-world case studies and audits</p>
+                  </div>
+                </div>
+              </div>
+            </Card>
+          </div>
+
+          {/* Google Cybersecurity Professional Certificate */}
+          <div className="mb-16">
+            <Card className="p-8 border-2 border-primary/30">
+              <div className="flex items-start gap-6 mb-8">
+                <div className="text-6xl">🔒</div>
+                <div className="flex-grow">
+                  <h2 className="text-3xl font-bold text-foreground mb-2">Google Cybersecurity Professional Certificate</h2>
+                  <p className="text-lg text-foreground/70">
+                    Launch your cybersecurity career with Google's comprehensive program. Learn security frameworks, threat detection, and incident response.
+                  </p>
+                </div>
+              </div>
+
+              {/* Exam Details */}
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 mb-8 pb-8 border-b border-border">
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Provider</h4>
+                  <p className="text-foreground/80 font-semibold">Google (Coursera)</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Duration</h4>
+                  <p className="text-foreground/80">6-8 months</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Format</h4>
+                  <p className="text-foreground/80">Online courses + projects</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Modules</h4>
+                  <p className="text-foreground/80">8 comprehensive courses</p>
+                </div>
+                <div className="bg-background rounded-lg p-4">
+                  <h4 className="font-bold text-foreground mb-2">Job Ready</h4>
+                  <p className="text-foreground/80">Entry-level cybersecurity roles</p>
+                </div>
+              </div>
+
+              {/* What We Cover */}
+              <div className="mb-8">
+                <h3 className="text-2xl font-bold text-foreground mb-4">What Our Courses Cover</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Foundations of cybersecurity and risk management</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Network security and secure communications</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Threat detection and incident response</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Security frameworks (NIST, CIS, OWASP)</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Hands-on security tools and labs</p>
+                  </div>
+                  <div className="flex gap-3">
+                    <div className="text-primary text-2xl">✓</div>
+                    <p className="text-foreground/80">Capstone security project</p>
+                  </div>
+                </div>
+              </div>
+            </Card>
+          </div>
+
           {/* FAQ */}
           <div className="mb-16">
             <h2 className="text-3xl font-bold text-foreground mb-8 text-center">Frequently Asked Questions</h2>
