@@ -14,6 +14,7 @@ import HomeTutoring from "./pages/HomeTutoring";
 import OnlineClasses from "./pages/OnlineClasses";
 import InstructorLed from "./pages/InstructorLed";
 import CourseDetail from "./pages/CourseDetail";
+import Contact from "./pages/Contact";
 
 
 function Router() {
@@ -29,6 +30,7 @@ function Router() {
       <Route path={"/online-classes"} component={OnlineClasses} />
       <Route path={"/instructor-led"} component={InstructorLed} />
       <Route path={"/course/:slug"} component={CourseDetail} />
+      <Route path={"/contact"} component={Contact} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

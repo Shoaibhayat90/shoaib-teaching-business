@@ -70,6 +70,9 @@ export default function Home() {
             <a href="/learning-methods" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Learning
             </a>
+            <a href="/contact" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
+              Contact
+            </a>
             <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
               Get Started
             </Button>
@@ -280,9 +283,11 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4">Contact</h4>
               <p className="text-background/80">Ready to start learning?</p>
-              <Button size="sm" className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground">
-                Get in Touch
-              </Button>
+              <a href="/contact">
+                <Button size="sm" className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground">
+                  Get in Touch
+                </Button>
+              </a>
             </div>
           </div>
           <div className="border-t border-background/20 pt-8 text-center text-background/80">
