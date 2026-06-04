@@ -143,13 +143,11 @@ export default function LearningMethods() {
             <div key={method.id} className={`grid grid-cols-1 md:grid-cols-2 gap-8 items-center ${index % 2 === 1 ? "md:flex-row-reverse" : ""}`}>
               {/* Image */}
               <div className={`${index % 2 === 1 ? "md:order-2" : ""}`}>
-                {method.image && (
-                  <img
-                    src={method.image}
-                    alt={method.title}
-                    className="w-full rounded-lg shadow-lg object-cover h-80"
-                  />
-                )}
+                <img
+                  src={method.image}
+                  alt={method.title}
+                  className="w-full rounded-lg shadow-lg object-cover h-80"
+                />
               </div>
 
               {/* Content */}
