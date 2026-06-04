@@ -327,7 +327,7 @@ export default function Home() {
                 <img
                   src="/manus-storage/IMG_0190_1ebad8b7.PNG"
                   alt="Shoaib Hayat - Tech Instructor"
-                  className="w-64 h-64 object-cover rounded-2xl shadow-lg"
+                  className="w-full max-w-sm h-auto object-contain rounded-2xl shadow-lg"
                 />
               </div>
 
