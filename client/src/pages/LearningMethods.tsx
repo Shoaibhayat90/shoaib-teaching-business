@@ -83,7 +83,6 @@ export default function LearningMethods() {
       title: "Instructor-Led Training",
       icon: "👨‍🏫",
       image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-instructor-led-YxDYnorksNwzQMBUuaV8gq.webp",
-
       description: "Real-time instruction that replicates a classroom experience.",
       route: "/instructor-led",
       fullDetails: [
@@ -144,11 +143,13 @@ export default function LearningMethods() {
             <div key={method.id} className={`grid grid-cols-1 md:grid-cols-2 gap-8 items-center ${index % 2 === 1 ? "md:flex-row-reverse" : ""}`}>
               {/* Image */}
               <div className={`${index % 2 === 1 ? "md:order-2" : ""}`}>
-                <img
-                  src={method.image}
-                  alt={method.title}
-                  className="w-full rounded-lg shadow-lg object-cover h-80"
-                />
+                {method.image && (
+                  <img
+                    src={method.image}
+                    alt={method.title}
+                    className="w-full rounded-lg shadow-lg object-cover h-80"
+                  />
+                )}
               </div>
 
               {/* Content */}
