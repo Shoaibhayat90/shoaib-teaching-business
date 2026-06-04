@@ -5,6 +5,7 @@ import { publicProcedure, router } from "./_core/trpc";
 import { z } from "zod";
 import { createContactSubmission } from "./db";
 import { notifyOwner } from "./_core/notification";
+import { sendContactFormEmail } from "./_core/email";
 
 export const appRouter = router({
     // if you need to use socket.io, read and register route in server/_core/index.ts, all api should start with '/api/' so that the gateway can route correctly
@@ -42,7 +43,20 @@ export const appRouter = router({
             message: input.message,
           });
 
-          // Send notification to owner
+          // Send email to info@itinsightacademy.com
+          const emailSent = await sendContactFormEmail({
+            name: input.name,
+            email: input.email,
+            phone: input.phone || null,
+            subject: input.subject,
+            message: input.message,
+          });
+
+          if (!emailSent) {
+            console.warn("[Contact] Email sending failed, but submission was saved to database");
+          }
+
+          // Also send notification to owner in Manus dashboard
           await notifyOwner({
             title: `New Contact Form Submission from ${input.name}`,
             content: `Email: ${input.email}\nPhone: ${input.phone || 'Not provided'}\nSubject: ${input.subject}\n\nMessage:\n${input.message}`,
