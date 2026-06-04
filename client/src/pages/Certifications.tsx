@@ -75,7 +75,7 @@ export default function Certifications() {
             <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Your Path to Certification Success</h2>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
               <Card className="p-8 text-center border-t-4 border-primary">
-                <div className="text-5xl mb-4">📚</div>
+                <div className="h-16 mb-4 flex items-center justify-center">📚</div>
                 <h3 className="text-xl font-bold text-foreground mb-3">Step 1: Complete Our Course</h3>
                 <p className="text-foreground/70">
                   Enroll in one of our 7 comprehensive courses designed to cover all exam objectives with hands-on projects and real-world scenarios.
@@ -83,7 +83,7 @@ export default function Certifications() {
               </Card>
 
               <Card className="p-8 text-center border-t-4 border-primary">
-                <div className="text-5xl mb-4">🎯</div>
+                <div className="h-16 mb-4 flex items-center justify-center">🎯</div>
                 <h3 className="text-xl font-bold text-foreground mb-3">Step 2: Master Exam Topics</h3>
                 <p className="text-foreground/70">
                   Learn every topic covered in the official certification exam with our structured curriculum and detailed explanations.
@@ -91,7 +91,7 @@ export default function Certifications() {
               </Card>
 
               <Card className="p-8 text-center border-t-4 border-primary">
-                <div className="text-5xl mb-4">✍️</div>
+                <div className="h-16 mb-4 flex items-center justify-center">✍️</div>
                 <h3 className="text-xl font-bold text-foreground mb-3">Step 3: Practice & Prepare</h3>
                 <p className="text-foreground/70">
                   Use practice exams, study guides, and resources to prepare for the official exam. We provide everything you need.
@@ -99,7 +99,7 @@ export default function Certifications() {
               </Card>
 
               <Card className="p-8 text-center border-t-4 border-primary">
-                <div className="text-5xl mb-4">🏆</div>
+                <div className="h-16 mb-4 flex items-center justify-center">🏆</div>
                 <h3 className="text-xl font-bold text-foreground mb-3">Step 4: Get Certified</h3>
                 <p className="text-foreground/70">
                   Enroll in the official Google or Microsoft certification exam and pass with confidence. Earn your industry credential.
@@ -112,7 +112,7 @@ export default function Certifications() {
           <div className="mb-16">
             <Card className="p-8 border-2 border-primary/30">
               <div className="flex items-start gap-6 mb-8">
-                <div className="text-6xl">🔷</div>
+                <img src="/manus-storage/microsoft-365-logo_9e598251.png" alt="Microsoft 365" className="h-20 w-20 object-contain flex-shrink-0" />
                 <div className="flex-grow">
                   <h2 className="text-3xl font-bold text-foreground mb-2">Microsoft 365 Certified Associate</h2>
                   <p className="text-lg text-foreground/70">
@@ -244,7 +244,7 @@ export default function Certifications() {
           <div className="mb-16">
             <Card className="p-8 border-2 border-primary/30">
               <div className="flex items-start gap-6 mb-8">
-                <div className="text-6xl">✓</div>
+                <img src="/manus-storage/iso-9001-logo_9daa364e.jpg" alt="ISO 9001" className="h-20 w-20 object-contain flex-shrink-0" />
                 <div className="flex-grow">
                   <h2 className="text-3xl font-bold text-foreground mb-2">ISO 9001: Quality Assurance Certification</h2>
                   <p className="text-lg text-foreground/70">
@@ -314,7 +314,7 @@ export default function Certifications() {
           <div className="mb-16">
             <Card className="p-8 border-2 border-primary/30">
               <div className="flex items-start gap-6 mb-8">
-                <div className="text-6xl">🔒</div>
+                <img src="/manus-storage/google-cybersecurity-logo_2f662be9.png" alt="Google Cybersecurity" className="h-20 w-20 object-contain flex-shrink-0" />
                 <div className="flex-grow">
                   <h2 className="text-3xl font-bold text-foreground mb-2">Google Cybersecurity Professional Certificate</h2>
                   <p className="text-lg text-foreground/70">
