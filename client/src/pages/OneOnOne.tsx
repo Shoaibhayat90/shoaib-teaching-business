@@ -9,7 +9,7 @@ export default function OneOnOne() {
         <div className="max-w-7xl mx-auto w-full flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
             <div className="flex items-center gap-2">
-              <img src="/logo.png" alt="IT Insight Academy" className="h-8 w-8" />
+              <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="h-8 w-8 object-contain" />
               <div className="flex flex-col">
                 <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
                 <span className="text-xs text-primary font-medium">Learn Technology from Scratch</span>
