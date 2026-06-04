@@ -112,12 +112,7 @@ export default function Home() {
               <div className="flex gap-4 pt-4">
                 <a href="/contact">
                   <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                    Start Learning <ChevronRight className="w-5 h-5 ml-2" />
-                  </Button>
-                </a>
-                <a href="/contact">
-                  <Button size="lg" variant="outline">
-                    Schedule Free Consultation
+                    Get Started Today <ChevronRight className="w-5 h-5 ml-2" />
                   </Button>
                 </a>
               </div>
