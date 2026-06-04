@@ -60,7 +60,7 @@ export default function Contact() {
             <a href="/certifications" className="text-foreground/70 hover:text-foreground transition">Certifications</a>
           </nav>
           <Button onClick={() => navigate('/contact')} className="bg-primary hover:bg-primary/90 text-primary-foreground">
-            Contact
+            Get Started
           </Button>
         </div>
       </header>

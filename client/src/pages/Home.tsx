@@ -70,12 +70,11 @@ export default function Home() {
             <a href="/learning-methods" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
               Learning
             </a>
-            <a href="/contact" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Contact
+            <a href="/contact">
+              <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                Get Started
+              </Button>
             </a>
-            <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
-              Get Started
-            </Button>
           </div>
         </div>
       </nav>
@@ -108,12 +107,16 @@ export default function Home() {
                 We empower beginners, students, and job seekers with practical IT skills designed for real-world success. Earn industry-recognized certifications from Microsoft and Google. Simple, structured, and focused on your growth.
               </p>
               <div className="flex gap-4 pt-4">
-                <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Start Learning <ChevronRight className="w-5 h-5 ml-2" />
-                </Button>
-                <Button size="lg" variant="outline">
-                  Schedule Free Consultation
-                </Button>
+                <a href="/contact">
+                  <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                    Start Learning <ChevronRight className="w-5 h-5 ml-2" />
+                  </Button>
+                </a>
+                <a href="/contact">
+                  <Button size="lg" variant="outline">
+                    Schedule Free Consultation
+                  </Button>
+                </a>
               </div>
             </div>
           </div>
@@ -285,7 +288,7 @@ export default function Home() {
               <p className="text-background/80">Ready to start learning?</p>
               <a href="/contact">
                 <Button size="sm" className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground">
-                  Get in Touch
+                  Get Started
                 </Button>
               </a>
             </div>
