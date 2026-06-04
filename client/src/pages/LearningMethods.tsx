@@ -232,9 +232,11 @@ export default function LearningMethods() {
             Choose your preferred learning method and begin your journey to tech mastery today.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button className="bg-primary hover:bg-primary/90" size="lg">
-              Schedule Free Consultation
-            </Button>
+            <a href="/contact">
+              <Button className="bg-primary hover:bg-primary/90" size="lg">
+                Get Started Today
+              </Button>
+            </a>
             <Button variant="outline" size="lg">
               <Link href="/">Back to Home</Link>
             </Button>
