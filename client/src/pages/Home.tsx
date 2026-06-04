@@ -1,6 +1,7 @@
-import { ChevronRight, Zap, Users, Award, Mail, Phone, MapPin, CheckCircle, Clock, DollarSign, BookOpen, Lightbulb, Rocket, Brain } from "lucide-react";
+import { ChevronRight, Zap, Users, Award, Mail, Phone, MapPin, CheckCircle, Clock, DollarSign, BookOpen, Lightbulb, Rocket, Brain, Linkedin, Youtube, Instagram } from "lucide-react";
 import { useEffect, useState } from "react";
 import { useAuth } from "@/_core/hooks/useAuth";
+import { Navigation } from "@/components/Navigation";
 
 /**
  * Design Philosophy: Mission-Driven Tech Education
@@ -54,38 +55,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
-      {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-background backdrop-blur-md z-50 border-b border-border shadow-sm">
-        <div className="container flex items-center justify-between h-16">
-          <div className="flex items-center gap-2">
-            <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="w-12 h-12 object-contain" />
-            <div className="flex flex-col gap-0.5 hidden sm:block">
-              <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
-              <div className="h-px bg-border/30 w-12" />
-              <span className="text-xs text-primary font-medium">Learn Technology from Scratch</span>
-            </div>
-          </div>
-          <div className="flex items-center gap-8">
-            <a href="/mission" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Our Mission
-            </a>
-            <a href="/courses" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Courses
-            </a>
-            <a href="/learning-methods" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Learning
-            </a>
-            <a href="/certifications" className="text-sm font-medium hover:text-primary transition-colors hidden sm:inline">
-              Certifications
-            </a>
-            <a href="/contact">
-              <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                Get Started
-              </Button>
-            </a>
-          </div>
-        </div>
-      </nav>
+      <Navigation showFullNav={true} />
 
       {/* Hero Section */}
       <section
@@ -224,31 +194,179 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Slogans Section */}
+      {/* Featured Courses Section */}
       <section className="py-20 bg-white z-10">
         <div className="container">
-          <div className="max-w-4xl mx-auto">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              <div className="text-center p-8 bg-gradient-to-br from-primary/10 to-primary/5 rounded-xl">
-                <h3 className="text-3xl md:text-4xl font-bold text-primary mb-2">Learn Smart</h3>
-                <p className="text-foreground/70">Efficient, structured learning that respects your time.</p>
-              </div>
+          <div className="max-w-4xl mx-auto text-center mb-12">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              Our Most Popular Courses
+            </h2>
+            <p className="text-lg text-foreground/70">
+              Start with any of these industry-leading courses designed to get you certified and career-ready.
+            </p>
+          </div>
 
-              <div className="text-center p-8 bg-gradient-to-br from-primary/10 to-primary/5 rounded-xl">
-                <h3 className="text-3xl md:text-4xl font-bold text-primary mb-2">Grow Fast</h3>
-                <p className="text-foreground/70">Accelerate your skills and career with intensive, focused training.</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            {/* Course 1 */}
+            <div className="bg-background rounded-xl p-8 border border-border hover:shadow-lg transition-shadow">
+              <div className="text-4xl mb-4">💻</div>
+              <h3 className="text-2xl font-bold text-foreground mb-3">Microsoft Office</h3>
+              <p className="text-foreground/70 mb-6">Master Word, Excel, PowerPoint, and Outlook for professional productivity.</p>
+              <div className="space-y-2 mb-6 text-sm text-foreground/60">
+                <p>✓ Professional document creation</p>
+                <p>✓ Data analysis & spreadsheets</p>
+                <p>✓ Engaging presentations</p>
               </div>
+              <a href="/courses" className="text-primary font-semibold hover:text-primary/80 transition">View All Courses →</a>
+            </div>
 
-              <div className="text-center p-8 bg-gradient-to-br from-primary/10 to-primary/5 rounded-xl">
-                <h3 className="text-3xl md:text-4xl font-bold text-primary mb-2">Succeed</h3>
-                <p className="text-foreground/70">Achieve your goals with confidence and professional readiness.</p>
+            {/* Course 2 */}
+            <div className="bg-background rounded-xl p-8 border border-border hover:shadow-lg transition-shadow">
+              <div className="text-4xl mb-4">🔐</div>
+              <h3 className="text-2xl font-bold text-foreground mb-3">Cyber Security</h3>
+              <p className="text-foreground/70 mb-6">Protect yourself online: passwords, phishing, privacy, and safe browsing.</p>
+              <div className="space-y-2 mb-6 text-sm text-foreground/60">
+                <p>✓ Strong password creation</p>
+                <p>✓ Phishing identification</p>
+                <p>✓ Data protection best practices</p>
+              </div>
+              <a href="/courses" className="text-primary font-semibold hover:text-primary/80 transition">View All Courses →</a>
+            </div>
+
+            {/* Course 3 */}
+            <div className="bg-background rounded-xl p-8 border border-border hover:shadow-lg transition-shadow">
+              <div className="text-4xl mb-4">🤖</div>
+              <h3 className="text-2xl font-bold text-foreground mb-3">Modern AI Tools</h3>
+              <p className="text-foreground/70 mb-6">Master ChatGPT, Gemini, Claude, and other cutting-edge AI platforms.</p>
+              <div className="space-y-2 mb-6 text-sm text-foreground/60">
+                <p>✓ Prompt engineering</p>
+                <p>✓ AI fundamentals</p>
+                <p>✓ Productivity automation</p>
+              </div>
+              <a href="/courses" className="text-primary font-semibold hover:text-primary/80 transition">View All Courses →</a>
+            </div>
+          </div>
+
+          <div className="text-center mt-12">
+            <a href="/courses">
+              <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                Explore All 7 Courses <ChevronRight className="w-5 h-5 ml-2" />
+              </Button>
+            </a>
+          </div>
+        </div>
+      </section>
+
+
+
+      {/* Testimonials Section */}
+      <section className="py-20 bg-white z-10">
+        <div className="container">
+          <div className="max-w-4xl mx-auto text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
+              Success Stories from Our Students
+            </h2>
+            <p className="text-lg text-foreground/70">
+              Hear from real students who have transformed their careers with IT Insight Academy.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            {/* Testimonial 1 */}
+            <div className="bg-background rounded-xl p-8 border border-border shadow-sm hover:shadow-md transition-shadow">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-yellow-400">★★★★★</span>
+              </div>
+              <p className="text-foreground/80 mb-6 leading-relaxed">
+                "IT Insight Academy completely changed my career path. The hands-on approach and personalized attention helped me land my dream job in IT support. Highly recommended!"
+              </p>
+              <div className="border-t border-border pt-4">
+                <p className="font-semibold text-foreground">Sarah Johnson</p>
+                <p className="text-sm text-foreground/60">IT Support Specialist</p>
+              </div>
+            </div>
+
+            {/* Testimonial 2 */}
+            <div className="bg-background rounded-xl p-8 border border-border shadow-sm hover:shadow-md transition-shadow">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-yellow-400">★★★★★</span>
+              </div>
+              <p className="text-foreground/80 mb-6 leading-relaxed">
+                "As someone with no tech background, I was nervous. But Shoaib's teaching style made everything clear and simple. I'm now confident using Microsoft Office professionally!"
+              </p>
+              <div className="border-t border-border pt-4">
+                <p className="font-semibold text-foreground">Michael Chen</p>
+                <p className="text-sm text-foreground/60">Administrative Professional</p>
+              </div>
+            </div>
+
+            {/* Testimonial 3 */}
+            <div className="bg-background rounded-xl p-8 border border-border shadow-sm hover:shadow-md transition-shadow">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="text-yellow-400">★★★★★</span>
+              </div>
+              <p className="text-foreground/80 mb-6 leading-relaxed">
+                "The one-on-one sessions were perfect for my busy schedule. I earned my Google IT Support Professional certification and got a 15% salary increase!"
+              </p>
+              <div className="border-t border-border pt-4">
+                <p className="font-semibold text-foreground">Emily Rodriguez</p>
+                <p className="text-sm text-foreground/60">IT Support Professional</p>
               </div>
             </div>
           </div>
         </div>
       </section>
 
+      {/* Instructor About Section */}
+      <section className="py-20 bg-gradient-to-r from-primary/10 to-primary/5 z-10">
+        <div className="container">
+          <div className="max-w-5xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+              {/* Instructor Image */}
+              <div className="flex justify-center">
+                <div className="w-64 h-64 bg-gradient-to-br from-primary to-primary/50 rounded-2xl flex items-center justify-center text-6xl shadow-lg">
+                  👨‍🏫
+                </div>
+              </div>
 
+              {/* Instructor Info */}
+              <div>
+                <h2 className="text-4xl font-bold mb-4 text-foreground">
+                  Meet Your Instructor
+                </h2>
+                <h3 className="text-2xl font-semibold text-primary mb-6">
+                  Shoaib Hayat
+                </h3>
+                <p className="text-lg text-foreground/80 mb-4 leading-relaxed">
+                  Shoaib Hayat is a passionate tech educator with years of experience helping beginners master IT fundamentals and earn industry-recognized certifications. His teaching philosophy centers on making complex technology concepts accessible and practical.
+                </p>
+                <p className="text-lg text-foreground/80 mb-6 leading-relaxed">
+                  With a deep commitment to student success, Shoaib has guided hundreds of learners through their tech journey—from absolute beginners to certified professionals. He specializes in Microsoft Office, cybersecurity, IT support, and modern AI tools.
+                </p>
+                <div className="space-y-3">
+                  <div className="flex items-center gap-3">
+                    <CheckCircle className="w-5 h-5 text-primary" />
+                    <span className="text-foreground">Certified IT Professional</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <CheckCircle className="w-5 h-5 text-primary" />
+                    <span className="text-foreground">Google & Microsoft Certified Trainer</span>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <CheckCircle className="w-5 h-5 text-primary" />
+                    <span className="text-foreground">10+ Years of Teaching Experience</span>
+                  </div>
+                </div>
+                <a href="/contact" className="mt-8 inline-block">
+                  <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                    Learn from Shoaib Today
+                  </Button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* CTA Section */}
       <section className="py-20 bg-background z-10">
@@ -282,14 +400,24 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4">Quick Links</h4>
               <ul className="space-y-2 text-background/80">
-                <li><a href="#courses" className="hover:text-background transition">Courses</a></li>
-                <li><a href="#methods" className="hover:text-background transition">Learning Methods</a></li>
-                <li><a href="#pillars" className="hover:text-background transition">Our Pillars</a></li>
+                <li><a href="/courses" className="hover:text-background transition">Courses</a></li>
+                <li><a href="/learning-methods" className="hover:text-background transition">Learning Methods</a></li>
+                <li><a href="/certifications" className="hover:text-background transition">Certifications</a></li>
+                <li><a href="/mission" className="hover:text-background transition">Our Mission</a></li>
               </ul>
             </div>
             <div>
               <h4 className="font-bold mb-4">Contact</h4>
-              <p className="text-background/80">Ready to start learning?</p>
+              <ul className="space-y-3 text-background/80">
+                <li className="flex items-center gap-2">
+                  <Mail className="w-4 h-4" />
+                  <a href="mailto:info@itinsightacademy.com" className="hover:text-background transition">info@itinsightacademy.com</a>
+                </li>
+                <li className="flex items-center gap-2">
+                  <Phone className="w-4 h-4" />
+                  <a href="tel:+15147012500" className="hover:text-background transition">+1 514 701 2500</a>
+                </li>
+              </ul>
               <a href="/contact">
                 <Button size="sm" className="mt-4 bg-primary hover:bg-primary/90 text-primary-foreground">
                   Get Started
@@ -297,8 +425,21 @@ export default function Home() {
               </a>
             </div>
           </div>
-          <div className="border-t border-background/20 pt-8 text-center text-background/80">
-            <p>&copy; 2026 IT Insight Academy. All rights reserved. Learn Smart. Grow Fast. Succeed.</p>
+          <div className="border-t border-background/20 pt-8">
+            <div className="flex justify-center gap-6 mb-6">
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-background/80 hover:text-background transition" title="LinkedIn">
+                <Linkedin className="w-5 h-5" />
+              </a>
+              <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="text-background/80 hover:text-background transition" title="YouTube">
+                <Youtube className="w-5 h-5" />
+              </a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-background/80 hover:text-background transition" title="Instagram">
+                <Instagram className="w-5 h-5" />
+              </a>
+            </div>
+            <div className="text-center text-background/80">
+              <p>&copy; 2026 IT Insight Academy. All rights reserved. Learn Smart. Grow Fast. Succeed.</p>
+            </div>
           </div>
         </div>
       </footer>

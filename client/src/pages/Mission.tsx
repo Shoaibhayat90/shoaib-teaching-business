@@ -1,5 +1,7 @@
 import { ChevronRight, Lightbulb, Zap, Rocket, Award, CheckCircle, TrendingUp, Shield, Brain } from "lucide-react";
 
+import { Navigation } from "@/components/Navigation";
+
 /**
  * Mission Page: Premium Strategic Vision
  * - Showcases the visionary foundation and strategic value proposition
@@ -35,26 +37,7 @@ const Card = ({ children, className = "" }: any) => (
 export default function Mission() {
   return (
     <div className="min-h-screen bg-background text-foreground">
-      {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-background backdrop-blur-md z-50 border-b border-border shadow-sm">
-        <div className="container flex items-center justify-between h-16">
-          <a href="/" className="flex items-center gap-2">
-            <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="w-12 h-12 object-contain" />
-            <div className="flex flex-col leading-tight hidden sm:block">
-              <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
-              <span className="text-xs text-primary font-medium">Our Mission</span>
-            </div>
-          </a>
-          <div className="flex items-center gap-4">
-            <a href="/" className="text-sm font-medium hover:text-primary transition-colors">
-              Back to Home
-            </a>
-            <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
-              Get Started
-            </Button>
-          </div>
-        </div>
-      </nav>
+      <Navigation showFullNav={false} breadcrumb="Our Mission" />
 
       {/* Hero Section */}
       <section className="pt-40 pb-20 bg-gradient-to-br from-primary/5 via-background to-background">

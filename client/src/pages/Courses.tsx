@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
+import { Navigation } from "@/components/Navigation";
 
 const Card = ({ children, className = "" }: any) => (
   <div className={`bg-white rounded-xl border border-border shadow-sm ${className}`}>
@@ -118,23 +119,7 @@ const coursesData = [
 export default function Courses() {
   return (
     <div className="min-h-screen bg-background">
-      {/* Navigation */}
-      <nav className="fixed top-0 left-0 right-0 bg-background/95 backdrop-blur-md border-b border-border z-50 h-16 flex items-center px-4 sm:px-6">
-        <div className="max-w-7xl mx-auto w-full flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-            <div className="flex items-center gap-2">
-              <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="h-8 w-8 object-contain" />
-              <div className="flex flex-col">
-                <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
-                <span className="text-xs text-primary font-medium">Learn Technology from Scratch</span>
-              </div>
-            </div>
-          </Link>
-          <Link href="/" className="text-sm font-medium hover:text-primary transition-colors">
-            Back to Home
-          </Link>
-        </div>
-      </nav>
+      <Navigation showFullNav={false} breadcrumb="All Courses" />
 
       {/* Hero Section */}
       <section className="pt-24 pb-12 px-4 sm:px-6 bg-gradient-to-b from-primary/5 to-background">

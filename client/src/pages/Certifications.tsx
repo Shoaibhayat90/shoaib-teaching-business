@@ -1,5 +1,6 @@
-import { Link } from "wouter";
 import { ChevronRight } from "lucide-react";
+import { Link } from "wouter";
+import { Navigation } from "@/components/Navigation";
 
 const Card = ({ children, className = "" }: any) => (
   <div className={`bg-white rounded-xl border border-border shadow-sm ${className}`}>
@@ -28,30 +29,7 @@ const Button = ({ children, size = "md", variant = "default", className = "", ..
 export default function Certifications() {
   return (
     <div className="min-h-screen bg-background">
-      {/* Navigation */}
-      <nav className="fixed top-0 left-0 right-0 bg-background/95 backdrop-blur-md border-b border-border z-50 h-16 flex items-center px-4 sm:px-6">
-        <div className="max-w-7xl mx-auto w-full flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-            <div className="flex items-center gap-2">
-              <img src="/manus-storage/logo-option-2_8664fe11.png" alt="IT Insight Academy" className="h-8 w-8 object-contain" />
-              <div className="flex flex-col">
-                <span className="font-bold text-sm text-foreground">IT Insight Academy</span>
-                <span className="text-xs text-primary font-medium">Learn Technology from Scratch</span>
-              </div>
-            </div>
-          </Link>
-          <nav className="hidden md:flex items-center gap-8">
-            <a href="/" className="text-foreground/70 hover:text-foreground transition">Home</a>
-            <a href="/mission" className="text-foreground/70 hover:text-foreground transition">Our Mission</a>
-            <a href="/courses" className="text-foreground/70 hover:text-foreground transition">Courses</a>
-            <a href="/learning-methods" className="text-foreground/70 hover:text-foreground transition">Learning</a>
-            <a href="/certifications" className="text-foreground/70 hover:text-foreground transition">Certifications</a>
-          </nav>
-          <Button onClick={() => window.location.href = '/contact'} className="bg-primary hover:bg-primary/90 text-primary-foreground">
-            Get Started
-          </Button>
-        </div>
-      </nav>
+      <Navigation showFullNav={true} breadcrumb="Certifications" />
 
       {/* Hero Section */}
       <section className="pt-24 pb-12 px-4 sm:px-6 bg-gradient-to-b from-primary/5 to-background">
