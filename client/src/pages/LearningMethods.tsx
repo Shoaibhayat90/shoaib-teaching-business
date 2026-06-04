@@ -82,7 +82,7 @@ export default function LearningMethods() {
       id: 4,
       title: "Instructor-Led Training",
       icon: "👨‍🏫",
-      image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-instructor-led-YxDYnorksNwzQMBUuaV8gq.webp",
+      image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663595675120/jsnE2mQCg3EKG4kieWXE3D/learning-method-online-classes-5yraHh5WWvF9knU9TB7eKL.webp",
       description: "Real-time instruction that replicates a classroom experience.",
       route: "/instructor-led",
       fullDetails: [
