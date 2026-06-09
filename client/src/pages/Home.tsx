@@ -84,23 +84,12 @@ export default function Home() {
               <p className="text-lg text-foreground/80 leading-relaxed max-w-lg">
                 We empower beginners, students, and job seekers with practical IT skills designed for real-world success. Earn industry-recognized certifications from Microsoft and Google. Simple, structured, and focused on your growth.
               </p>
-              <div className="bg-green-100 border-l-4 border-green-500 p-4 rounded inline-block">
-                <p className="text-sm font-semibold text-green-800">💰 Alberta Funding Available</p>
-                <p className="text-xs text-green-700 mt-1">Student Loans • EI Training • Employer Programs</p>
-              </div>
-              <div className="flex flex-col gap-4 pt-6">
-                <div className="flex flex-col sm:flex-row gap-4">
-                  <a href="/contact">
-                    <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
-                      Get Started Today <ChevronRight className="w-5 h-5 ml-2" />
-                    </Button>
-                  </a>
-                  <a href="/funding">
-                    <Button size="lg" variant="outline" className="border-2 border-primary text-primary hover:bg-primary/5">
-                      Explore Funding Options →
-                    </Button>
-                  </a>
-                </div>
+              <div className="flex gap-4 pt-4">
+                <a href="/contact">
+                  <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
+                    Get Started Today <ChevronRight className="w-5 h-5 ml-2" />
+                  </Button>
+                </a>
               </div>
             </div>
           </div>

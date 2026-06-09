@@ -15,7 +15,6 @@ import OnlineClasses from "./pages/OnlineClasses";
 import InstructorLed from "./pages/InstructorLed";
 import CourseDetail from "./pages/CourseDetail";
 import Contact from "./pages/Contact";
-import Funding from "./pages/Funding";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -32,7 +31,6 @@ function Router() {
       <Route path={"/instructor-led"} component={InstructorLed} />
       <Route path={"/course/:slug"} component={CourseDetail} />
       <Route path={"/contact"} component={Contact} />
-      <Route path={"/funding"} component={Funding} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

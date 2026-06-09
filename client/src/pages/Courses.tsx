@@ -152,31 +152,11 @@ export default function Courses() {
                   <div className="bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold border border-primary/20">
                     🏆 Certified
                   </div>
-                  {course.fundingEligible && course.fundingEligible.length > 0 && (
-                    <div className="bg-green-100 text-green-700 px-3 py-1 rounded-full text-xs font-bold border border-green-300">
-                      💰 Funding Available
-                    </div>
-                  )}
                 </div>
                 <div className="text-4xl mb-4">{course.icon}</div>
                 <h3 className="text-xl font-bold mb-3 text-foreground">{course.title}</h3>
                 <p className="text-foreground/70 mb-4 flex-grow">{course.description}</p>
-                {course.fundingEligible && course.fundingEligible.length > 0 && (
-                  <div className="mb-4 p-3 bg-green-50 rounded-lg border border-green-200">
-                    <p className="text-xs font-semibold text-green-700 mb-2">Eligible for:</p>
-                    <div className="flex flex-wrap gap-2">
-                      {course.fundingEligible.includes('student-loans') && (
-                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">Student Loans</span>
-                      )}
-                      {course.fundingEligible.includes('ei-training') && (
-                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">EI Training</span>
-                      )}
-                      {course.fundingEligible.includes('employer-training') && (
-                        <span className="text-xs bg-green-200 text-green-800 px-2 py-1 rounded">Employer Training</span>
-                      )}
-                    </div>
-                  </div>
-                )}
+
                 <div className="flex justify-between items-center text-sm text-primary font-semibold mb-4">
                   <span>⏱️ {course.duration}</span>
                   <span>💰 {course.price}</span>
