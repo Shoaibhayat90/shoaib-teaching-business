@@ -507,7 +507,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="scroll-animate">
                 <img
-                  src="/manus-storage/IMG_0190_PNG_8664fe11.png"
+                  src="/manus-storage/IMG_0190_ea14d968.PNG"
                   alt="Shoaib Hayat"
                   className="w-full rounded-2xl shadow-lg"
                 />
