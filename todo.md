@@ -53,6 +53,6 @@
 - [x] Improve SphericalGallery card text readability and styling
 - [x] Link gallery cards to their designated course pages
 - [x] Restore all previous homepage content sections below gallery (Mission, Pillars, Testimonials, Instructor, Footer)
-- [ ] Test scroll behavior and animations between gallery and content sections
-- [ ] Verify card click navigation works correctly
-- [ ] Create checkpoint for restored homepage
+- [x] Test scroll behavior and animations between gallery and content sections
+- [x] Verify card click navigation works correctly
+- [x] Create checkpoint for restored homepage
