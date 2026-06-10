@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import { SphericalGallery } from '@/components/SphericalGallery';
+import { ClassicBookGallery } from '@/components/ClassicBookGallery';
 import { useLocation } from 'wouter';
 import { Navigation } from '@/components/Navigation';
 import { useAuth } from "@/_core/hooks/useAuth";
@@ -88,7 +88,7 @@ export default function Home() {
 
       {/* Spherical Gallery Hero Section */}
       <div className="w-full h-screen flex flex-col relative">
-        <SphericalGallery cards={GALLERY_CARDS} onCardClick={handleCardClick} />
+        <ClassicBookGallery cards={GALLERY_CARDS} onCardClick={handleCardClick} />
 
         {/* Hero Text & CTA Overlay */}
         <div className="absolute inset-0 flex flex-col items-center justify-center z-20 pointer-events-none">
