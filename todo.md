@@ -20,13 +20,13 @@
 - [x] Add instructor about section - Shoaib Hayat bio with credentials
 - [x] Replace redundant "Learn Smart/Grow Fast/Succeed" section with featured courses preview
 
-## Alberta Funding Support System
+## Alberta Funding Support System (Removed - Pending Business Registration)
 - [x] Create Funding page with Alberta funding options explained
 - [x] Add funding badges to course pages (Student Loans, EI, Employer Training)
 - [x] Create funding eligibility form
 - [x] Add "Funding Available" section to homepage hero
-- [ ] Set up AI-powered Funding Advisor Chatbot with OpenAI API (pending ChatGPT API key)
-- [ ] Test all features and create checkpoint
+- [x] Removed all funding features from website (pending business registration with Alberta Advanced Education)
+- [ ] Set up AI-powered Funding Advisor Chatbot with OpenAI API (pending ChatGPT API key - for future use)
 
 ## Modern Award-Worthy Landing Page
 - [x] Create LandingPage.tsx with Three.js 3D hero scene
