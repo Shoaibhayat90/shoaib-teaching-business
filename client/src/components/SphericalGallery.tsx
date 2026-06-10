@@ -29,6 +29,9 @@ export const SphericalGallery: React.FC<SphericalGalleryProps> = ({ cards, onCar
   const mouseRef = useRef({ x: 0, y: 0, targetX: 0, targetY: 0 });
   const dragRef = useRef({ isDragging: false, startX: 0, startY: 0 });
   const rotationRef = useRef({ x: 0, y: 0 });
+  const hoveredCardRef = useRef<THREE.Mesh | null>(null);
+  const raycasterRef = useRef<THREE.Raycaster | null>(null);
+  const mouseVectorRef = useRef<THREE.Vector2 | null>(null);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -186,6 +189,10 @@ export const SphericalGallery: React.FC<SphericalGalleryProps> = ({ cards, onCar
         dragRef.current.startX = e.clientX;
         dragRef.current.startY = e.clientY;
       }
+
+      // Update mouse position for hover detection
+      mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
+      mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
     };
 
     const onMouseUp = () => {
@@ -201,9 +208,11 @@ export const SphericalGallery: React.FC<SphericalGalleryProps> = ({ cards, onCar
     renderer.domElement.addEventListener('mouseup', onMouseUp);
     renderer.domElement.addEventListener('wheel', onMouseWheel, { passive: true });
 
-    // ============ RAYCASTER FOR CLICK DETECTION ============
+    // ============ RAYCASTER FOR CLICK & HOVER DETECTION ============
     const raycaster = new THREE.Raycaster();
     const mouse = new THREE.Vector2();
+    raycasterRef.current = raycaster;
+    mouseVectorRef.current = mouse;
 
     const onClickHandler = (e: MouseEvent) => {
       if (dragRef.current.isDragging) return; // Ignore if dragging
@@ -257,6 +266,62 @@ export const SphericalGallery: React.FC<SphericalGalleryProps> = ({ cards, onCar
       if (sphereGroup) {
         sphereGroup.rotation.x = rotationRef.current.x;
         sphereGroup.rotation.y = rotationRef.current.y;
+      }
+
+      // ============ HOVER GLOW EFFECT ============
+      raycaster.setFromCamera(mouse, camera);
+      const intersects = raycaster.intersectObjects(cardMeshes);
+
+      // Reset previous hovered card
+      if (hoveredCardRef.current && intersects.length === 0) {
+        const material = hoveredCardRef.current.material as THREE.MeshStandardMaterial;
+        gsap.to(material, {
+          emissiveIntensity: 0.1,
+          duration: 0.3,
+        });
+        hoveredCardRef.current = null;
+      }
+
+      // Apply glow to hovered card
+      if (intersects.length > 0) {
+        const hoveredMesh = intersects[0].object as THREE.Mesh;
+        const material = hoveredMesh.material as THREE.MeshStandardMaterial;
+
+        if (hoveredCardRef.current !== hoveredMesh) {
+          // Reset previous card
+          if (hoveredCardRef.current) {
+            const prevMaterial = hoveredCardRef.current.material as THREE.MeshStandardMaterial;
+            gsap.to(prevMaterial, {
+              emissiveIntensity: 0.1,
+              duration: 0.3,
+            });
+          }
+
+          // Glow new card
+          hoveredCardRef.current = hoveredMesh;
+          gsap.to(material, {
+            emissiveIntensity: 0.8,
+            duration: 0.3,
+          });
+
+          // Slight scale animation on hover
+          gsap.to(hoveredMesh.scale, {
+            x: 1.1,
+            y: 1.1,
+            z: 1.1,
+            duration: 0.3,
+            ease: 'power2.out',
+          });
+        }
+      } else if (hoveredCardRef.current) {
+        // Reset scale when not hovering
+        gsap.to(hoveredCardRef.current.scale, {
+          x: 1,
+          y: 1,
+          z: 1,
+          duration: 0.3,
+          ease: 'power2.out',
+        });
       }
 
       // Update Lenis

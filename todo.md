@@ -61,3 +61,9 @@
 - [x] Add hero headline and description text overlay on gallery
 - [x] Add call-to-action buttons (Explore Courses, Get Started)
 - [x] Improve instructions text visibility and positioning
+
+## Card Hover Effects
+- [x] Add glow effect to cards on mouse hover
+- [x] Add scale animation when hovering over cards
+- [x] Implement raycaster for hover detection
+- [x] Smooth transitions between hovered and non-hovered states
