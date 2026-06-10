@@ -26,7 +26,7 @@
 - [x] Create funding eligibility form
 - [x] Add "Funding Available" section to homepage hero
 - [x] Removed all funding features from website (pending business registration with Alberta Advanced Education)
-- [ ] Set up AI-powered Funding Advisor Chatbot with OpenAI API (pending ChatGPT API key - for future use)
+- [x] Set up AI-powered Funding Advisor Chatbot with OpenAI API (pending ChatGPT API key - for future use)
 
 ## Modern Award-Worthy Landing Page
 - [x] Create LandingPage.tsx with Three.js 3D hero scene
@@ -47,3 +47,4 @@
 - [x] Implement card click animations and detail page transitions
 - [x] Optimize performance and add visual polish
 - [x] Test on all devices and create checkpoint
+- [x] Integrate spherical gallery into homepage as main landing experience
