@@ -38,3 +38,12 @@
 - [x] Implement smooth scroll triggers
 - [x] Test all animations and performance on different devices
 - [x] Create final checkpoint
+
+## Spherical Gallery Experience (Phantom.Land Inspired)
+- [x] Set up Three.js spherical scene with camera and lighting
+- [x] Create interactive course cards positioned on sphere surface
+- [x] Implement mouse drag controls with smooth GSAP easing
+- [x] Add Lenis smooth scroll integration
+- [x] Implement card click animations and detail page transitions
+- [x] Optimize performance and add visual polish
+- [x] Test on all devices and create checkpoint
