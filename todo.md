@@ -76,3 +76,13 @@
 - [x] Maintain spherical arrangement with books instead of flat cards
 - [x] Preserve all interaction features (drag, zoom, click navigation)
 - [x] All tests passing with no errors
+
+## Book Modal with Course Outline
+- [x] Create BookModal component with light brown pages (#f5e6d3)
+- [x] Display course outline on left and right pages
+- [x] Add course title, duration, price, and outcomes
+- [x] Implement smooth modal animations (fade in, scale, 3D rotation)
+- [x] Add close button and click-outside-to-close functionality
+- [x] Integrate modal with book click handler
+- [x] Add paper texture overlay for authenticity
+- [x] All tests passing with no errors

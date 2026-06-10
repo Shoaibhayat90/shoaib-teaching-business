@@ -1,5 +1,6 @@
-import React, { useRef, useEffect } from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import { ClassicBookGallery } from '@/components/ClassicBookGallery';
+import { BookModal } from '@/components/BookModal';
 import { useLocation } from 'wouter';
 import { Navigation } from '@/components/Navigation';
 import { useAuth } from "@/_core/hooks/useAuth";
@@ -70,13 +71,119 @@ const GALLERY_CARDS: GalleryCard[] = [
   },
 ];
 
+const coursesData = [
+  {
+    title: "Basic Computer Skills",
+    description: "Master hardware, operating systems, file management, and essential computer fundamentals.",
+    fullDescription: "Learn about computer hardware components, Windows/Mac operating systems, file management, internet basics, and keyboard shortcuts.",
+    icon: "💻",
+    duration: "Flexible",
+    price: "$200",
+    outcomes: [
+      "Understand computer hardware and components",
+      "Navigate operating systems confidently",
+      "Manage files and folders efficiently",
+      "Use keyboard shortcuts for productivity"
+    ]
+  },
+  {
+    title: "Internet Usage",
+    description: "Navigate the web safely, manage email, online security, and digital citizenship.",
+    fullDescription: "Learn web browsing, email management, online safety, password security, recognizing phishing, and responsible internet usage.",
+    icon: "🌐",
+    duration: "Flexible",
+    price: "$150",
+    outcomes: [
+      "Browse the internet safely and efficiently",
+      "Create and manage email accounts",
+      "Identify and avoid online scams",
+      "Practice secure password management"
+    ]
+  },
+  {
+    title: "Microsoft Office",
+    description: "Master Word, Excel, PowerPoint, and Outlook for professional productivity.",
+    fullDescription: "Comprehensive training on Word document creation, Excel spreadsheets and formulas, PowerPoint presentations, and Outlook email management.",
+    icon: "📊",
+    duration: "Flexible",
+    price: "$300",
+    outcomes: [
+      "Create professional documents in Word",
+      "Build and analyze data in Excel",
+      "Design engaging presentations in PowerPoint",
+      "Manage emails and calendars in Outlook"
+    ]
+  },
+  {
+    title: "Cyber Security",
+    description: "Protect yourself online: passwords, phishing, privacy, and safe browsing practices.",
+    fullDescription: "Learn cybersecurity fundamentals, password best practices, recognizing phishing attacks, data privacy, secure browsing, and personal digital safety.",
+    icon: "🔐",
+    duration: "Flexible",
+    price: "$500",
+    outcomes: [
+      "Create strong, secure passwords",
+      "Identify and avoid phishing attacks",
+      "Protect personal data online",
+      "Understand cybersecurity best practices"
+    ]
+  },
+  {
+    title: "Software Quality Assurance",
+    description: "Learn testing methodologies, bug reporting, and quality assurance processes.",
+    fullDescription: "Master QA fundamentals, manual testing techniques, bug identification and reporting, test case creation, and quality assurance best practices.",
+    icon: "✅",
+    duration: "Flexible",
+    price: "$500",
+    outcomes: [
+      "Understand QA and testing principles",
+      "Create effective test cases",
+      "Identify and report bugs professionally",
+      "Apply quality assurance methodologies"
+    ]
+  },
+  {
+    title: "Business English",
+    description: "Professional communication, business writing, and workplace English skills.",
+    fullDescription: "Learn professional communication, business email writing, presentation skills, workplace etiquette, and effective business English.",
+    icon: "📝",
+    duration: "Flexible",
+    price: "$100",
+    outcomes: [
+      "Write professional business emails",
+      "Communicate effectively in meetings",
+      "Deliver confident presentations",
+      "Understand workplace communication norms"
+    ]
+  },
+  {
+    title: "Modern AI Tools",
+    description: "AI productivity tools, prompt engineering, and AI fundamentals.",
+    fullDescription: "Learn all modern AI productivity tools including ChatGPT, Google Gemini, Anthropic Claude, Manus, OpenAI, and other cutting-edge AI platforms. Master prompt engineering, AI fundamentals, and practical applications.",
+    icon: "🤖",
+    duration: "Flexible",
+    price: "$500",
+    outcomes: [
+      "Understand AI and machine learning basics",
+      "Use ChatGPT, Gemini, and Claude effectively",
+      "Master prompt engineering across all platforms",
+      "Apply multiple AI tools for different productivity tasks"
+    ]
+  }
+];
+
 export default function Home() {
   const [, setLocation] = useLocation();
   const { user, loading, error, isAuthenticated, logout } = useAuth();
+  const [selectedCourse, setSelectedCourse] = useState<any>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleCardClick = (card: GalleryCard) => {
-    // Navigate to individual course detail page
-    setLocation(`/course/${card.id}`);
+    const course = coursesData.find(c => c.title.toLowerCase().includes(card.title.toLowerCase()) || card.id.includes(c.title.toLowerCase().split(' ')[0]));
+    if (course) {
+      setSelectedCourse(course);
+      setIsModalOpen(true);
+    }
   };
 
   return (
@@ -89,9 +196,10 @@ export default function Home() {
       {/* Spherical Gallery Hero Section */}
       <div className="w-full h-screen flex flex-col relative">
         <ClassicBookGallery cards={GALLERY_CARDS} onCardClick={handleCardClick} />
+        <BookModal isOpen={isModalOpen} course={selectedCourse} onClose={() => setIsModalOpen(false)} />
 
         {/* Hero Text & CTA Overlay */}
-        <div className="absolute inset-0 flex flex-col items-center justify-center z-20 pointer-events-none">
+        <div className="absolute inset-0 flex flex-col items-center justify-center z-10 pointer-events-none">
           <div className="text-center space-y-6 max-w-2xl px-4">
             <h1 className="text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
               Learn Technology<br />
