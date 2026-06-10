@@ -54,5 +54,10 @@
 - [x] Link gallery cards to their designated course pages
 - [x] Restore all previous homepage content sections below gallery (Mission, Pillars, Testimonials, Instructor, Footer)
 - [x] Test scroll behavior and animations between gallery and content sections
-- [x] Verify card click navigation works correctly
+- [x] Fix card click navigation to go to individual course detail pages (not courses listing)
 - [x] Create checkpoint for restored homepage
+
+## Hero Section Text & CTA
+- [x] Add hero headline and description text overlay on gallery
+- [x] Add call-to-action buttons (Explore Courses, Get Started)
+- [x] Improve instructions text visibility and positioning

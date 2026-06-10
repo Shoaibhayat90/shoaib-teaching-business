@@ -75,8 +75,8 @@ export default function Home() {
   const { user, loading, error, isAuthenticated, logout } = useAuth();
 
   const handleCardClick = (card: GalleryCard) => {
-    // Navigate to course detail page
-    setLocation(`/courses#${card.id}`);
+    // Navigate to individual course detail page
+    setLocation(`/course/${card.id}`);
   };
 
   return (
@@ -87,12 +87,39 @@ export default function Home() {
       </div>
 
       {/* Spherical Gallery Hero Section */}
-      <div className="w-full h-screen flex flex-col">
+      <div className="w-full h-screen flex flex-col relative">
         <SphericalGallery cards={GALLERY_CARDS} onCardClick={handleCardClick} />
 
+        {/* Hero Text & CTA Overlay */}
+        <div className="absolute inset-0 flex flex-col items-center justify-center z-20 pointer-events-none">
+          <div className="text-center space-y-6 max-w-2xl px-4">
+            <h1 className="text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
+              Learn Technology<br />
+              <span className="text-teal-400">From Scratch</span>
+            </h1>
+            <p className="text-lg md:text-xl text-white/90 drop-shadow-md">
+              Master in-demand IT skills with industry-recognized certifications. Interactive learning designed for real-world success.
+            </p>
+            <div className="flex gap-4 justify-center pt-4 pointer-events-auto">
+              <a href="/courses">
+                <button className="bg-teal-500 hover:bg-teal-600 text-white font-semibold px-8 py-3 rounded-lg transition-colors shadow-lg">
+                  Explore Courses
+                </button>
+              </a>
+              <a href="/contact">
+                <button className="bg-white/20 hover:bg-white/30 text-white font-semibold px-8 py-3 rounded-lg transition-colors border border-white/40 backdrop-blur-sm">
+                  Get Started
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+
         {/* Instructions Overlay */}
-        <div className="fixed bottom-8 left-8 text-white text-sm z-10 pointer-events-none">
-          <p className="font-semibold text-shadow">Drag to rotate • Scroll to zoom • Click to explore</p>
+        <div className="fixed bottom-8 left-8 md:bottom-12 md:left-12 z-10 pointer-events-none">
+          <div className="bg-black/40 backdrop-blur-md text-white text-sm px-4 py-2 rounded-lg border border-white/20">
+            <p className="font-semibold">Drag to rotate • Scroll to zoom • Click to explore</p>
+          </div>
         </div>
       </div>
 
