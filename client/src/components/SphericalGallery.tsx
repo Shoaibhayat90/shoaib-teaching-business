@@ -104,18 +104,22 @@ export const SphericalGallery: React.FC<SphericalGalleryProps> = ({ cards, onCar
       ctx.lineWidth = 3;
       ctx.strokeRect(10, 10, canvas.width - 20, canvas.height - 20);
 
+      // Add semi-transparent overlay for better text readability
+      ctx.fillStyle = 'rgba(0, 0, 0, 0.3)';
+      ctx.fillRect(20, 30, canvas.width - 40, canvas.height - 60);
+
       // Title
       ctx.fillStyle = '#ffffff';
-      ctx.font = 'bold 28px Arial';
+      ctx.font = 'bold 32px Arial';
       ctx.textAlign = 'center';
-      ctx.fillText(card.title, canvas.width / 2, 60);
+      ctx.fillText(card.title, canvas.width / 2, 80);
 
       // Description
-      ctx.font = '16px Arial';
-      ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+      ctx.font = 'bold 18px Arial';
+      ctx.fillStyle = '#ffffff';
       const words = card.description.split(' ');
       let line = '';
-      let y_offset = 120;
+      let y_offset = 150;
 
       for (let i = 0; i < words.length; i++) {
         const testLine = line + words[i] + ' ';

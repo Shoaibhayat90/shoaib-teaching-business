@@ -48,3 +48,11 @@
 - [x] Optimize performance and add visual polish
 - [x] Test on all devices and create checkpoint
 - [x] Integrate spherical gallery into homepage as main landing experience
+
+## Spherical Gallery with Homepage Content Restoration
+- [x] Improve SphericalGallery card text readability and styling
+- [x] Link gallery cards to their designated course pages
+- [x] Restore all previous homepage content sections below gallery (Mission, Pillars, Testimonials, Instructor, Footer)
+- [ ] Test scroll behavior and animations between gallery and content sections
+- [ ] Verify card click navigation works correctly
+- [ ] Create checkpoint for restored homepage
