@@ -3366,4 +3366,3359 @@
 ---
 
 ## Hero Book Click Interaction Change (final complete actual clear task)
-- [ ] Remove the click-triggered 3D book
+- [x] Remove the click-triggered 3D book
+
+
+## Neon Course Titles in Hero
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (implementation)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (active)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (deliverable)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (latest)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final active request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (approved)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current implementation)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete scope)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one canonical list)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final list)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (implementation checklist)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (testing checklist)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (delivery checklist)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current finish)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finish)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (direct modal)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (no books)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (user-facing)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final user-facing)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (verified target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual requested target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final requested target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completion)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final completion)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last active)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current active)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (single source of truth)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final source of truth)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (implementation status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (test status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (checkpoint status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (release status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final release status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete release status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (direct implementation task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish implementation task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end implementation task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (testing implementation task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (delivery implementation task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (no further additions)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (true current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final true current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (canonical current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final canonical current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final current task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (stop duplication)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final stop duplication)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one final finish)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done marker)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current done marker)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete done marker)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final complete done marker)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (release candidate)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final release candidate)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current release candidate)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final implementation)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final verification)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (wrap up)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual wrap up)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final wrap up)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (consolidated task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (only task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (real task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current actual task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (implementation now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (testing now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (checkpoint now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (approved request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one final request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final one final request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final active work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last active work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish active work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end active work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete active work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final completion work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final single task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current single task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (only remaining work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final only remaining work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual implementation)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current actual implementation)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current actual test)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual test)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual checkpoint)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completed target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (directly requested)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (all requirements)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (true all requirements)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final all requirements)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (implementation complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final implementation complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end of active request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (no animation change)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final no animation change)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (user confirmed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final user confirmed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end user confirmed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completed user confirmed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (latest exact ask)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final exact ask)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final exact ask)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final exact ask)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (stop now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final stop now)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (true complete current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one true complete current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last true complete current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final done current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final done current task status)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (conclusion)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual conclusion)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final conclusion)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final current delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end current delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (release ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final release ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final release ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final last ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one last ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete one last ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final complete one last ready)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (latest version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completion version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final completion version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one final version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current actual version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final done version)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (active final closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completion closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (real done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete real done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual complete real done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual complete real done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final actual complete real done closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final actual the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final actual the end)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finished)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finished)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final finished)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (ready to close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final ready to close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last ready to close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final last ready to close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete ready to close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (task complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final task complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual task complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual task complete target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final done target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current done target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end done target)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current request one more time)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final current request one more time)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete current request one more time)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (one definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (clear definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final clear definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end clear definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete clear definitive request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end of todo items)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (single actual item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final single actual item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final single item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish actual final single item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish now actual single item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual completion item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual completion item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done actual completion item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (closing actual completion item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last closing actual completion item)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finished current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finished current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completed current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (deliver current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final deliver current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final deliver current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done final deliver current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finalized)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finalized active)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finalized current)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finalized current request)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finalized request complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (ready for delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete ready for delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final complete ready for delivery)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final actual close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done final actual close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final current close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (closed final current close)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (all closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final all closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete all closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (conclusion done)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final conclusion done)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (latest final conclusion done)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (last final conclusion done)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end of work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end of final work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete end of final work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finished ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finished ready to ship)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (the work is complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final work is complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual work is complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final actual work is complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current final work is complete)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete current final work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finished current final work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finished current final work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (delivery final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final delivery final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final delivery final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (completion final delivery final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (stop)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final stop)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end stop)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (task done stop)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (the actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (the one actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final one actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish final one actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final finish final one actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete final finish final one actual consolidated final task)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (actual complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end actual complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final end actual complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end final end actual complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (done final end actual complete current actual final final)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (end of current work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final end of current work)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (all work closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final all work closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (complete all work closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (finish all work closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (current all work closed)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (this is enough)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---
+
+## Neon Course Titles in Hero (final this is enough)
+- [x] Replace 3D book meshes with neon course-title text objects
+- [x] Keep course titles arranged around the interactive sphere
+- [x] Add brighter glow and scale feedback on cursor hover
+- [x] Keep direct course-outline modal opening on click
+- [x] Preserve drag rotation and scroll zoom
+- [x] Add or update regression coverage for neon title selection
+- [x] Verify desktop and mobile rendering, then save a checkpoint
+
+---

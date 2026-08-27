@@ -200,7 +200,7 @@ export default function Home() {
 
         {/* Hero Text & CTA Overlay */}
         <div className="absolute inset-0 flex flex-col items-center justify-center z-10 pointer-events-none">
-          <div className="text-center space-y-6 max-w-2xl px-4">
+          <div className="text-center space-y-6 max-w-2xl px-5 sm:px-8 py-7 sm:py-9 rounded-3xl bg-slate-950/65 backdrop-blur-md border border-white/10 shadow-2xl shadow-black/30">
             <h1 className="text-5xl md:text-6xl font-bold text-white drop-shadow-lg">
               Learn Technology<br />
               <span className="text-teal-400">From Scratch</span>

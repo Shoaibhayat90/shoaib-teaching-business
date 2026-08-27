@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import * as THREE from 'three';
 import gsap from 'gsap';
 import Lenis from 'lenis';
@@ -16,6 +16,7 @@ interface ClassicBookGalleryProps {
   onCardClick?: (card: GalleryCard) => void;
 }
 
+/** Open the selected course outline without changing the 3D gallery state. */
 export function openBookCourseOutline(
   book: THREE.Group,
   onCardClick?: (card: GalleryCard) => void,
@@ -27,154 +28,83 @@ export function openBookCourseOutline(
 
 export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, onCardClick }) => {
   const containerRef = useRef<HTMLDivElement>(null);
-  const sceneRef = useRef<THREE.Scene | null>(null);
-  const cameraRef = useRef<THREE.PerspectiveCamera | null>(null);
-  const rendererRef = useRef<THREE.WebGLRenderer | null>(null);
-  const sphereRef = useRef<THREE.Group | null>(null);
   const booksRef = useRef<THREE.Group[]>([]);
   const lenisRef = useRef<Lenis | null>(null);
-
-  // Mouse interaction state
-  const mouseRef = useRef({ x: 0, y: 0, targetX: 0, targetY: 0 });
-  const dragRef = useRef({ isDragging: false, startX: 0, startY: 0 });
-  const rotationRef = useRef({ x: 0, y: 0 });
   const hoveredBookRef = useRef<THREE.Group | null>(null);
   const raycasterRef = useRef<THREE.Raycaster | null>(null);
   const mouseVectorRef = useRef<THREE.Vector2 | null>(null);
+  const animationFrameRef = useRef<number | null>(null);
+
+  const mouseRef = useRef({ targetX: 0, targetY: 0 });
+  const dragRef = useRef({ isDragging: false, startX: 0, startY: 0 });
+  const rotationRef = useRef({ x: 0, y: 0 });
 
   useEffect(() => {
     if (!containerRef.current) return;
 
-    // ============ SCENE SETUP ============
     const scene = new THREE.Scene();
-    scene.background = new THREE.Color(0x0a0e27);
-    sceneRef.current = scene;
+    scene.background = new THREE.Color(0x080b20);
 
     const camera = new THREE.PerspectiveCamera(
-      75,
+      65,
       window.innerWidth / window.innerHeight,
       0.1,
-      1000
+      1000,
     );
-    camera.position.z = 2.5;
-    cameraRef.current = camera;
+    camera.position.z = window.innerWidth < 640 ? 8 : 7;
 
     const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
     renderer.setSize(window.innerWidth, window.innerHeight);
-    renderer.setPixelRatio(window.devicePixelRatio);
-    renderer.shadowMap.enabled = true;
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.domElement.setAttribute('aria-label', 'Interactive course titles');
     containerRef.current.appendChild(renderer.domElement);
-    rendererRef.current = renderer;
 
-    // ============ LIGHTING ============
-    const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.9);
     scene.add(ambientLight);
 
-    const pointLight = new THREE.PointLight(0xffffff, 0.8);
-    pointLight.position.set(5, 5, 5);
-    pointLight.castShadow = true;
-    scene.add(pointLight);
+    const tealLight = new THREE.PointLight(0x00e5ff, 1.1, 12);
+    tealLight.position.set(-3, 3, 4);
+    scene.add(tealLight);
 
-    const pointLight2 = new THREE.PointLight(0xd4af37, 0.3);
-    pointLight2.position.set(-5, -5, 5);
-    scene.add(pointLight2);
+    const goldLight = new THREE.PointLight(0xd4af37, 0.45, 12);
+    goldLight.position.set(4, -2, 2);
+    scene.add(goldLight);
 
-    // ============ SPHERE GROUP ============
     const sphereGroup = new THREE.Group();
     scene.add(sphereGroup);
-    sphereRef.current = sphereGroup;
 
-    // ============ CREATE CLASSIC BOOKS ON SPHERE ============
-    const bookMeshes: THREE.Group[] = [];
-    const sphereRadius = 3;
-    const bookCount = cards.length;
+    const textGroups: THREE.Group[] = [];
+    const sphereRadius = window.innerWidth < 640 ? 3.5 : 3.25;
+    const titleCount = cards.length;
 
     cards.forEach((card, index) => {
-      // Distribute books evenly on sphere
-      const phi = Math.acos(-1 + (2 * index) / bookCount);
-      const theta = Math.sqrt(bookCount * Math.PI) * phi;
+      const phi = Math.acos(-1 + (2 * index) / Math.max(titleCount, 1));
+      const theta = Math.sqrt(Math.max(titleCount, 1) * Math.PI) * phi;
 
-      const x = sphereRadius * Math.cos(theta) * Math.sin(phi);
-      const y = sphereRadius * Math.sin(theta) * Math.sin(phi);
-      const z = sphereRadius * Math.cos(phi);
+      const titleGroup = new THREE.Group();
+      titleGroup.position.set(
+        sphereRadius * Math.cos(theta) * Math.sin(phi),
+        sphereRadius * Math.sin(theta) * Math.sin(phi),
+        sphereRadius * Math.cos(phi),
+      );
+      titleGroup.userData = { card, index };
 
-      // Create book group
-      const bookGroup = new THREE.Group();
-      bookGroup.position.set(x, y, z);
-      bookGroup.lookAt(0, 0, 0);
-      bookGroup.userData = { card, index };
+      const glowSprite = createNeonTitleSprite(card, true);
+      glowSprite.scale.set(2.85, 0.92, 1);
+      glowSprite.material.opacity = 0.42;
+      titleGroup.add(glowSprite);
 
-      // Book dimensions
-      const bookWidth = 0.8;
-      const bookHeight = 1.2;
-      const bookDepth = 0.15;
+      const titleSprite = createNeonTitleSprite(card, false);
+      titleSprite.scale.set(2.6, 0.78, 1);
+      titleSprite.material.opacity = 0.96;
+      titleGroup.add(titleSprite);
 
-      // ===== FRONT COVER =====
-      const frontCoverGeometry = new THREE.PlaneGeometry(bookWidth, bookHeight);
-      const frontCoverCanvas = createBookCoverTexture(card, bookWidth * 256, bookHeight * 256);
-      const frontCoverTexture = new THREE.CanvasTexture(frontCoverCanvas);
-      const frontCoverMaterial = new THREE.MeshStandardMaterial({
-        map: frontCoverTexture,
-        metalness: 0.1,
-        roughness: 0.6,
-      });
-      const frontCover = new THREE.Mesh(frontCoverGeometry, frontCoverMaterial);
-      frontCover.position.z = bookDepth / 2;
-      frontCover.castShadow = true;
-      frontCover.receiveShadow = true;
-      bookGroup.add(frontCover);
-
-      // ===== SPINE =====
-      const spineGeometry = new THREE.PlaneGeometry(bookDepth, bookHeight);
-      const spineMaterial = new THREE.MeshStandardMaterial({
-        color: new THREE.Color(card.color).multiplyScalar(0.7),
-        metalness: 0.05,
-        roughness: 0.7,
-      });
-      const spine = new THREE.Mesh(spineGeometry, spineMaterial);
-      spine.position.x = -bookWidth / 2;
-      spine.position.z = 0;
-      spine.rotation.y = Math.PI / 2;
-      spine.castShadow = true;
-      bookGroup.add(spine);
-
-      // ===== BACK COVER =====
-      const backCoverGeometry = new THREE.PlaneGeometry(bookWidth, bookHeight);
-      const backCoverMaterial = new THREE.MeshStandardMaterial({
-        color: new THREE.Color(card.color).multiplyScalar(0.8),
-        metalness: 0.1,
-        roughness: 0.6,
-      });
-      const backCover = new THREE.Mesh(backCoverGeometry, backCoverMaterial);
-      backCover.position.z = -bookDepth / 2;
-      backCover.rotation.y = Math.PI;
-      backCover.castShadow = true;
-      bookGroup.add(backCover);
-
-      // ===== BOOK EDGES =====
-      const edgeGeometry = new THREE.PlaneGeometry(bookWidth, bookDepth);
-      const edgeMaterial = new THREE.MeshStandardMaterial({
-        color: 0x2a2a2a,
-        metalness: 0,
-        roughness: 0.8,
-      });
-      const topEdge = new THREE.Mesh(edgeGeometry, edgeMaterial);
-      topEdge.position.y = bookHeight / 2;
-      topEdge.rotation.x = Math.PI / 2;
-      bookGroup.add(topEdge);
-
-      const bottomEdge = new THREE.Mesh(edgeGeometry, edgeMaterial);
-      bottomEdge.position.y = -bookHeight / 2;
-      bottomEdge.rotation.x = Math.PI / 2;
-      bookGroup.add(bottomEdge);
-
-      sphereGroup.add(bookGroup);
-      bookMeshes.push(bookGroup);
+      sphereGroup.add(titleGroup);
+      textGroups.push(titleGroup);
     });
 
-    booksRef.current = bookMeshes;
+    booksRef.current = textGroups;
 
-    // ============ LENIS SMOOTH SCROLL ============
     const lenis = new Lenis({
       duration: 1.2,
       easing: (t: number) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
@@ -183,166 +113,111 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
       smoothTouch: false,
       touchMultiplier: 2,
     } as any);
-
     lenisRef.current = lenis;
 
-    // ============ MOUSE CONTROLS ============
-    const onMouseDown = (e: MouseEvent) => {
+    const raycaster = new THREE.Raycaster();
+    const mouse = new THREE.Vector2(0, 0);
+    raycasterRef.current = raycaster;
+    mouseVectorRef.current = mouse;
+
+    const onMouseDown = (event: MouseEvent) => {
       dragRef.current.isDragging = true;
-      dragRef.current.startX = e.clientX;
-      dragRef.current.startY = e.clientY;
+      dragRef.current.startX = event.clientX;
+      dragRef.current.startY = event.clientY;
+      renderer.domElement.style.cursor = 'grabbing';
     };
 
-    const onMouseMove = (e: MouseEvent) => {
+    const onMouseMove = (event: MouseEvent) => {
       if (dragRef.current.isDragging) {
-        const deltaX = e.clientX - dragRef.current.startX;
-        const deltaY = e.clientY - dragRef.current.startY;
+        const deltaX = event.clientX - dragRef.current.startX;
+        const deltaY = event.clientY - dragRef.current.startY;
 
         mouseRef.current.targetX += deltaX * 0.005;
         mouseRef.current.targetY += deltaY * 0.005;
-
-        dragRef.current.startX = e.clientX;
-        dragRef.current.startY = e.clientY;
+        dragRef.current.startX = event.clientX;
+        dragRef.current.startY = event.clientY;
       }
 
-      // Update mouse position for hover detection
-      const mouse = mouseVectorRef.current!;
-      mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
-      mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
+      mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
     };
 
     const onMouseUp = () => {
       dragRef.current.isDragging = false;
+      renderer.domElement.style.cursor = 'grab';
     };
 
-    const onMouseWheel = (e: WheelEvent) => {
-      mouseRef.current.targetY += e.deltaY * 0.001;
+    const onMouseLeave = () => {
+      dragRef.current.isDragging = false;
+      renderer.domElement.style.cursor = 'grab';
+      mouse.set(10, 10);
+    };
+
+    const onMouseWheel = (event: WheelEvent) => {
+      mouseRef.current.targetY += event.deltaY * 0.001;
+    };
+
+    const onClickHandler = (event: MouseEvent) => {
+      if (dragRef.current.isDragging) return;
+
+      mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+      raycaster.setFromCamera(mouse, camera);
+
+      const intersects = raycaster.intersectObjects(textGroups, true);
+      if (intersects.length === 0) return;
+
+      let clickedTitle: THREE.Group | null = null;
+      for (let object: THREE.Object3D | null = intersects[0].object; object; object = object.parent) {
+        if (textGroups.includes(object as THREE.Group)) {
+          clickedTitle = object as THREE.Group;
+          break;
+        }
+      }
+
+      if (clickedTitle) {
+        openBookCourseOutline(clickedTitle, onCardClick);
+      }
     };
 
     renderer.domElement.addEventListener('mousedown', onMouseDown);
     renderer.domElement.addEventListener('mousemove', onMouseMove);
     renderer.domElement.addEventListener('mouseup', onMouseUp);
+    renderer.domElement.addEventListener('mouseleave', onMouseLeave);
     renderer.domElement.addEventListener('wheel', onMouseWheel, { passive: true });
-
-    // ============ RAYCASTER FOR CLICK & HOVER DETECTION ============
-    const raycaster = new THREE.Raycaster();
-    const mouse = new THREE.Vector2();
-    raycasterRef.current = raycaster;
-    mouseVectorRef.current = mouse;
-
-    const onClickHandler = (e: MouseEvent) => {
-      if (dragRef.current.isDragging) return;
-
-      mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
-      mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
-
-      raycaster.setFromCamera(mouse, camera);
-      const intersects = raycaster.intersectObjects(bookMeshes, true);
-
-      if (intersects.length > 0) {
-        let clickedBook: THREE.Group | null = null;
-        for (let obj: any = intersects[0].object; obj; obj = obj.parent) {
-          if (bookMeshes.includes(obj)) {
-            clickedBook = obj;
-            break;
-          }
-        }
-
-        if (clickedBook) {
-          // Open the course outline modal immediately. The 3D book remains in
-          // the sphere, so clicking does not move, scale, or open the book.
-          openBookCourseOutline(clickedBook, onCardClick);
-        }
-      }
-    };
-
     renderer.domElement.addEventListener('click', onClickHandler);
 
-    // ============ ANIMATION LOOP ============
-    const animate = () => {
-      requestAnimationFrame(animate);
+    const animate = (time: number) => {
+      animationFrameRef.current = requestAnimationFrame(animate);
 
-      // Smooth rotation with easing
       rotationRef.current.x += (mouseRef.current.targetY - rotationRef.current.x) * 0.1;
       rotationRef.current.y += (mouseRef.current.targetX - rotationRef.current.y) * 0.1;
+      sphereGroup.rotation.x = rotationRef.current.x;
+      sphereGroup.rotation.y = rotationRef.current.y;
 
-      if (sphereGroup) {
-        sphereGroup.rotation.x = rotationRef.current.x;
-        sphereGroup.rotation.y = rotationRef.current.y;
-      }
-
-      // ============ HOVER GLOW EFFECT ============
       raycaster.setFromCamera(mouse, camera);
-      const intersects = raycaster.intersectObjects(bookMeshes, true);
+      const intersects = raycaster.intersectObjects(textGroups, true);
+      const nextHoveredBook = findParentGroup(intersects[0]?.object, textGroups);
 
-      if (hoveredBookRef.current && intersects.length === 0) {
-        const frontCover = hoveredBookRef.current.children[0] as THREE.Mesh;
-        const material = frontCover.material as THREE.MeshStandardMaterial;
-        gsap.to(material, {
-          emissiveIntensity: 0,
-          duration: 0.3,
-        });
-        hoveredBookRef.current = null;
+      if (nextHoveredBook !== hoveredBookRef.current) {
+        if (hoveredBookRef.current) {
+          animateTitleGlow(hoveredBookRef.current, false);
+        }
+        if (nextHoveredBook) {
+          animateTitleGlow(nextHoveredBook, true);
+        }
+        hoveredBookRef.current = nextHoveredBook;
       }
 
-      if (intersects.length > 0) {
-        let hoveredBook: THREE.Group | null = null;
-        for (let obj: any = intersects[0].object; obj; obj = obj.parent) {
-          if (bookMeshes.includes(obj)) {
-            hoveredBook = obj;
-            break;
-          }
-        }
-
-        if (hoveredBook && hoveredBookRef.current !== hoveredBook) {
-          if (hoveredBookRef.current) {
-            const prevFrontCover = hoveredBookRef.current.children[0] as THREE.Mesh;
-            const prevMaterial = prevFrontCover.material as THREE.MeshStandardMaterial;
-            gsap.to(prevMaterial, {
-              emissiveIntensity: 0,
-              duration: 0.3,
-            });
-          }
-
-          hoveredBookRef.current = hoveredBook;
-          const frontCover = hoveredBook.children[0] as THREE.Mesh;
-          const material = frontCover.material as THREE.MeshStandardMaterial;
-          gsap.to(material, {
-            emissiveIntensity: 0.4,
-            duration: 0.3,
-          });
-
-          gsap.to(hoveredBook.scale, {
-            x: 1.15,
-            y: 1.15,
-            z: 1.15,
-            duration: 0.3,
-            ease: 'power2.out',
-          });
-        }
-      } else if (hoveredBookRef.current) {
-        gsap.to(hoveredBookRef.current.scale, {
-          x: 1,
-          y: 1,
-          z: 1,
-          duration: 0.3,
-          ease: 'power2.out',
-        });
-      }
-
-      // Update Lenis
-      lenis.raf(Date.now());
-
+      lenis.raf(time);
       renderer.render(scene, camera);
     };
 
-    animate();
+    animationFrameRef.current = requestAnimationFrame(animate);
 
-    // ============ HANDLE WINDOW RESIZE ============
     const onWindowResize = () => {
       const width = window.innerWidth;
       const height = window.innerHeight;
-
       camera.aspect = width / height;
       camera.updateProjectionMatrix();
       renderer.setSize(width, height);
@@ -350,130 +225,168 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
 
     window.addEventListener('resize', onWindowResize);
 
-    // ============ CLEANUP ============
     return () => {
       window.removeEventListener('resize', onWindowResize);
       renderer.domElement.removeEventListener('mousedown', onMouseDown);
       renderer.domElement.removeEventListener('mousemove', onMouseMove);
       renderer.domElement.removeEventListener('mouseup', onMouseUp);
+      renderer.domElement.removeEventListener('mouseleave', onMouseLeave);
       renderer.domElement.removeEventListener('wheel', onMouseWheel);
       renderer.domElement.removeEventListener('click', onClickHandler);
-      containerRef.current?.removeChild(renderer.domElement);
-      renderer.dispose();
+      if (animationFrameRef.current !== null) {
+        cancelAnimationFrame(animationFrameRef.current);
+      }
       lenis.destroy();
+      renderer.dispose();
+      renderer.domElement.remove();
+      booksRef.current.forEach((group) => {
+        group.children.forEach((child) => {
+          const sprite = child as THREE.Sprite;
+          const material = sprite.material as THREE.SpriteMaterial;
+          material.map?.dispose();
+          material.dispose();
+        });
+      });
     };
   }, [cards, onCardClick]);
 
   return (
     <div
       ref={containerRef}
-      className="w-full h-screen overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950"
+      className="w-full h-screen overflow-hidden bg-gradient-to-b from-slate-950 to-slate-900"
       style={{ cursor: 'grab' }}
     />
   );
 };
 
-// ============ HELPER FUNCTION: CREATE CLASSIC BOOK COVER TEXTURE ============
-function createBookCoverTexture(card: GalleryCard, width: number, height: number): HTMLCanvasElement {
-  const canvas = document.createElement('canvas');
-  canvas.width = width;
-  canvas.height = height;
-  const ctx = canvas.getContext('2d')!;
-
-  // Classic book background with gradient
-  const gradient = ctx.createLinearGradient(0, 0, 0, height);
-  gradient.addColorStop(0, card.color);
-  gradient.addColorStop(1, adjustBrightness(card.color, -30));
-  ctx.fillStyle = gradient;
-  ctx.fillRect(0, 0, width, height);
-
-  // Decorative border
-  ctx.strokeStyle = '#d4af37';
-  ctx.lineWidth = 8;
-  ctx.strokeRect(15, 15, width - 30, height - 30);
-
-  // Inner decorative border
-  ctx.strokeStyle = '#d4af37';
-  ctx.lineWidth = 2;
-  ctx.strokeRect(30, 30, width - 60, height - 60);
-
-  // Decorative corner elements
-  const cornerSize = 30;
-  ctx.fillStyle = '#d4af37';
-  ctx.fillRect(30, 30, cornerSize, 3);
-  ctx.fillRect(30, 30, 3, cornerSize);
-  ctx.fillRect(width - 30 - cornerSize, 30, cornerSize, 3);
-  ctx.fillRect(width - 33, 30, 3, cornerSize);
-  ctx.fillRect(30, height - 33, cornerSize, 3);
-  ctx.fillRect(30, height - 30 - cornerSize, 3, cornerSize);
-  ctx.fillRect(width - 30 - cornerSize, height - 33, cornerSize, 3);
-  ctx.fillRect(width - 33, height - 30 - cornerSize, 3, cornerSize);
-
-  // Title
-  ctx.fillStyle = '#f5f5dc';
-  ctx.font = `bold ${Math.floor(width / 8)}px Georgia, serif`;
-  ctx.textAlign = 'center';
-  ctx.textBaseline = 'middle';
-  
-  // Wrap title
-  const titleWords = card.title.split(' ');
-  let titleLine = '';
-  let titleY = height / 3;
-  
-  for (let word of titleWords) {
-    const testLine = titleLine + word + ' ';
-    const metrics = ctx.measureText(testLine);
-    if (metrics.width > width - 60) {
-      ctx.fillText(titleLine, width / 2, titleY);
-      titleLine = word + ' ';
-      titleY += Math.floor(width / 6);
-    } else {
-      titleLine = testLine;
+function findParentGroup(
+  object: THREE.Object3D | null | undefined,
+  groups: THREE.Group[],
+): THREE.Group | null {
+  for (let current = object; current; current = current.parent) {
+    if (groups.includes(current as THREE.Group)) {
+      return current as THREE.Group;
     }
   }
-  ctx.fillText(titleLine, width / 2, titleY);
-
-  // Decorative line
-  ctx.strokeStyle = '#d4af37';
-  ctx.lineWidth = 2;
-  ctx.beginPath();
-  ctx.moveTo(width / 4, titleY + Math.floor(width / 8));
-  ctx.lineTo((width * 3) / 4, titleY + Math.floor(width / 8));
-  ctx.stroke();
-
-  // Description (smaller text)
-  ctx.font = `italic ${Math.floor(width / 16)}px Georgia, serif`;
-  ctx.fillStyle = '#e8e8d0';
-  const descriptionY = titleY + Math.floor(width / 5);
-  const words = card.description.split(' ');
-  let line = '';
-  let y = descriptionY;
-
-  for (let word of words) {
-    const testLine = line + word + ' ';
-    const metrics = ctx.measureText(testLine);
-    if (metrics.width > width - 80) {
-      ctx.fillText(line, width / 2, y);
-      line = word + ' ';
-      y += Math.floor(width / 20);
-    } else {
-      line = testLine;
-    }
-  }
-  ctx.fillText(line, width / 2, y);
-
-  return canvas;
+  return null;
 }
 
-// ============ HELPER FUNCTION: ADJUST COLOR BRIGHTNESS ============
-function adjustBrightness(color: string, percent: number): string {
-  const num = parseInt(color.replace('#', ''), 16);
-  const amt = Math.round(2.55 * percent);
-  const R = Math.min(255, (num >> 16) + amt);
-  const G = Math.min(255, (num >> 8 & 0x00FF) + amt);
-  const B = Math.min(255, (num & 0x0000FF) + amt);
-  return '#' + (0x1000000 + (R < 255 ? R < 1 ? 0 : R : 255) * 0x10000 +
-    (G < 255 ? G < 1 ? 0 : G : 255) * 0x100 +
-    (B < 255 ? B < 1 ? 0 : B : 255))
-    .toString(16).slice(1);
+function animateTitleGlow(group: THREE.Group, active: boolean) {
+  const glowSprite = group.children[0] as THREE.Sprite;
+  const titleSprite = group.children[1] as THREE.Sprite;
+  const glowMaterial = glowSprite.material as THREE.SpriteMaterial;
+  const titleMaterial = titleSprite.material as THREE.SpriteMaterial;
+
+  gsap.to(glowMaterial, {
+    opacity: active ? 0.95 : 0.42,
+    duration: 0.24,
+    ease: 'power2.out',
+  });
+  gsap.to(titleMaterial, {
+    opacity: active ? 1 : 0.96,
+    duration: 0.24,
+    ease: 'power2.out',
+  });
+  gsap.to(group.scale, {
+    x: active ? 1.12 : 1,
+    y: active ? 1.12 : 1,
+    z: active ? 1.12 : 1,
+    duration: 0.24,
+    ease: 'power2.out',
+  });
+}
+
+function createNeonTitleSprite(card: GalleryCard, glow: boolean): THREE.Sprite {
+  const canvas = document.createElement('canvas');
+  canvas.width = 1200;
+  canvas.height = 360;
+  const context = canvas.getContext('2d');
+  if (!context) {
+    return new THREE.Sprite(new THREE.SpriteMaterial({ transparent: true }));
+  }
+
+  context.clearRect(0, 0, canvas.width, canvas.height);
+  context.textAlign = 'center';
+  context.textBaseline = 'middle';
+  context.font = '700 82px Arial, sans-serif';
+
+  const lines = wrapText(context, card.title, 1040);
+  const lineHeight = 88;
+  const firstLineY = canvas.height / 2 - ((lines.length - 1) * lineHeight) / 2;
+
+  context.shadowColor = card.color;
+  context.shadowBlur = glow ? 56 : 28;
+  context.lineJoin = 'round';
+
+  // A translucent backing keeps the neon title readable when it passes behind
+  // the hero copy or another orbiting title.
+  drawRoundedRect(context, 18, 24, canvas.width - 36, canvas.height - 48, 28);
+  context.fillStyle = glow ? 'rgba(5, 12, 38, 0.32)' : 'rgba(5, 12, 38, 0.74)';
+  context.fill();
+  context.shadowBlur = glow ? 28 : 12;
+  context.strokeStyle = card.color;
+  context.lineWidth = glow ? 14 : 5;
+  context.stroke();
+  context.shadowBlur = glow ? 56 : 28;
+
+  lines.forEach((line, index) => {
+    const y = firstLineY + index * lineHeight;
+    context.lineWidth = glow ? 18 : 8;
+    context.strokeStyle = card.color;
+    context.strokeText(line, canvas.width / 2, y);
+    context.fillStyle = glow ? card.color : '#f5ffff';
+    context.fillText(line, canvas.width / 2, y);
+  });
+
+  const texture = new THREE.CanvasTexture(canvas);
+  texture.colorSpace = THREE.SRGBColorSpace;
+  texture.needsUpdate = true;
+
+  const material = new THREE.SpriteMaterial({
+    map: texture,
+    transparent: true,
+    depthWrite: false,
+    depthTest: true,
+  });
+  return new THREE.Sprite(material);
+}
+
+function drawRoundedRect(
+  context: CanvasRenderingContext2D,
+  x: number,
+  y: number,
+  width: number,
+  height: number,
+  radius: number,
+) {
+  context.beginPath();
+  context.moveTo(x + radius, y);
+  context.lineTo(x + width - radius, y);
+  context.quadraticCurveTo(x + width, y, x + width, y + radius);
+  context.lineTo(x + width, y + height - radius);
+  context.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+  context.lineTo(x + radius, y + height);
+  context.quadraticCurveTo(x, y + height, x, y + height - radius);
+  context.lineTo(x, y + radius);
+  context.quadraticCurveTo(x, y, x + radius, y);
+  context.closePath();
+}
+
+function wrapText(context: CanvasRenderingContext2D, text: string, maxWidth: number): string[] {
+  const words = text.split(' ');
+  const lines: string[] = [];
+  let currentLine = '';
+
+  words.forEach((word) => {
+    const candidate = currentLine ? `${currentLine} ${word}` : word;
+    if (currentLine && context.measureText(candidate).width > maxWidth) {
+      lines.push(currentLine);
+      currentLine = word;
+    } else {
+      currentLine = candidate;
+    }
+  });
+
+  if (currentLine) lines.push(currentLine);
+  return lines.length > 0 ? lines : [text];
 }
