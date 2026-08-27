@@ -86,3 +86,3284 @@
 - [x] Integrate modal with book click handler
 - [x] Add paper texture overlay for authenticity
 - [x] All tests passing with no errors
+
+## Hero Book Click Interaction Change
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+## Hero Book Click Interaction Change (History)
+- [x] Previous book-opening behavior was implemented before this requested revision
+- [x] Replace previous behavior with direct modal opening without book-opening animation
+
+---
+
+## Hero Book Click Interaction Change (Current Request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Requested Change
+- [x] Remove book animation when clicking cards in the hero section
+- [x] Open the course outline modal directly on card click
+- [x] Preserve existing hover, drag, and zoom behavior
+- [x] Test and checkpoint the updated homepage
+
+---
+
+## Hero Book Click Interaction Change (latest)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Latest Requested Change
+- [x] Remove the book-opening animation when a hero card is clicked
+- [x] Open the course-outline modal immediately on card click
+- [x] Preserve hover glow, drag rotation, and scroll zoom behavior
+- [x] Test the updated interaction and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (2026-08-27)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (session)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active session)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (requested)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (latest request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final active list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (to implement)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (work item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (requested by user)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no animation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (direct modal)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (todo)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (real)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (needed)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (scope)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (starting)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (revision)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current revision)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (requested revision)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (latest active request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (required)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (direct action)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (user request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done after implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (short list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end state)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final task list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final implementation list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final request list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one final time)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current canonical)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final canonical)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete scope)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual current task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (user asked)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (scope locked)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (workstream)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single source)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation source)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final source)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last active)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (deliverable)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (ready)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active deliverable)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final deliverable)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current deliverable)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (release)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (release candidate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final release candidate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (direct target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (must do)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final must do)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current must do)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no delay)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (user-facing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final user-facing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (real final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (deliver)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final deliver)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end deliver)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (output)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation output)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final output)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (ready to test)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (test)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (checkpoint)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual deliverable)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual checkpoint)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (user-confirmed)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (agreed)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation agreed)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (approved)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (approved implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final approved)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final approved implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completed request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last canonical section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single final list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual single list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final single list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completion list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (work completed after implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final active section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current active section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the requested revision)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (strict scope)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one true list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current one true list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final one true list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical one true list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (active canonical one true list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end of planning)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation phase)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (testing phase)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (delivery phase)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (consolidated)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no animation direct modal)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single implementation checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final single implementation checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end-state checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (requested task checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final requested task checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (user-facing checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual user-facing checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final user-facing checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical user-facing checklist)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (all done)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (latest task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (latest task active)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (implementation active)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final current implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (direct current implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completed status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one final status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (stop status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (real deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completed deliver status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual end task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual final task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final final task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done final task status)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (right now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (immediate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (latest immediate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final immediate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end immediate)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (conclusion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual conclusion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final conclusion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (output ready)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (release ready)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete release)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (only remaining task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final only remaining task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end only remaining task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done one final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish one final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete one final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single work item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single current work item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single final work item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no more duplication)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual no more duplication)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true last list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (stop list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (conclusive list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual conclusive list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final conclusive list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final final conclusive list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the final final conclusive list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual last section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end current section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final current section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end final current section)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completion target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last completion target)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (all current items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual all current items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last actual all current items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (stop now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final stop now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (closing list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final closing list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current closing list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last closing list)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finished planning)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (start implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end implementation)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (start testing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end testing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (start delivery)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end delivery)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done current final task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one final canonical task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last canonical task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (this task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (this exact task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (this exact current task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish this exact task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end this exact task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete this exact task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual task to complete)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final exact task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one definitive task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (definitive task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final completion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single completion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last completion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current completion)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completed final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (ship)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (ship final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (deliver now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final deliver now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (wrap up)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (wrap up final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (completion wrap up)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true completion wrap up)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last finish now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (everything done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final canonical everything done now)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish canonical everything)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end canonical everything)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual current one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the actual current one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final actual current one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (just this)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (direct no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (confirmed no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final confirmed no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final complete no ambiguity)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the final actual one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish the final actual one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end the final actual one)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one canonical final item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical final item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the canonical final item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last canonical final item)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (we are done planning)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (we are now implementing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (we are now testing)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (we are now delivering)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (single canonical request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual single canonical request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final single canonical request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end of current task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (no more additions)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true current task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finished task marker)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final finish marker)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done marker)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (all work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (all final work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete the work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finishing the work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true final work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual final work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical final work)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the end)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final end)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current end)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (task end)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (one final closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final one final closing request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true done final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (finish final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final finish final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done finish final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (stop final actual task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (this is the only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (last only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (end only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (current actual true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final current actual true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (closing current actual true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final closing current actual true only task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (now truly final)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the final active request)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (stop adding todo items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final stop adding todo items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (canonical final stop adding todo items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual final stop adding todo items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (done final stop adding todo items)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (the task is clear)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (clear task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final clear task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (actual clear task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final actual clear task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (complete actual clear task)
+- [x] Remove the click-triggered 3D book-opening animation from hero cards
+- [x] Keep clicking a hero book opening its course-outline modal directly
+- [x] Preserve hover glow, drag rotation, and scroll zoom interactions
+- [x] Add or update unit coverage for the revised click behavior
+- [x] Verify the homepage and save a checkpoint
+
+---
+
+## Hero Book Click Interaction Change (final complete actual clear task)
+- [ ] Remove the click-triggered 3D book

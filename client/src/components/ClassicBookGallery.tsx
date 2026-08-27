@@ -3,7 +3,7 @@ import * as THREE from 'three';
 import gsap from 'gsap';
 import Lenis from 'lenis';
 
-interface GalleryCard {
+export interface GalleryCard {
   id: string;
   title: string;
   description: string;
@@ -14,6 +14,15 @@ interface GalleryCard {
 interface ClassicBookGalleryProps {
   cards: GalleryCard[];
   onCardClick?: (card: GalleryCard) => void;
+}
+
+export function openBookCourseOutline(
+  book: THREE.Group,
+  onCardClick?: (card: GalleryCard) => void,
+) {
+  if (onCardClick) {
+    onCardClick(book.userData.card as GalleryCard);
+  }
 }
 
 export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, onCardClick }) => {
@@ -32,7 +41,6 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
   const hoveredBookRef = useRef<THREE.Group | null>(null);
   const raycasterRef = useRef<THREE.Raycaster | null>(null);
   const mouseVectorRef = useRef<THREE.Vector2 | null>(null);
-  const openingBookRef = useRef<THREE.Group | null>(null);
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -223,7 +231,7 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
     mouseVectorRef.current = mouse;
 
     const onClickHandler = (e: MouseEvent) => {
-      if (dragRef.current.isDragging || openingBookRef.current) return;
+      if (dragRef.current.isDragging) return;
 
       mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
       mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
@@ -241,52 +249,9 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
         }
 
         if (clickedBook) {
-          openingBookRef.current = clickedBook;
-          const cardData = clickedBook.userData.card as GalleryCard;
-
-          // Animate book to center
-          gsap.to(clickedBook.position, {
-            x: 0,
-            y: 0,
-            z: 0,
-            duration: 0.8,
-            ease: 'power2.inOut',
-          });
-
-          // Rotate book to face camera
-          gsap.to(clickedBook.rotation, {
-            x: 0,
-            y: 0,
-            z: 0,
-            duration: 0.8,
-            ease: 'power2.inOut',
-          });
-
-          // Scale up book
-          gsap.to(clickedBook.scale, {
-            x: 1.5,
-            y: 1.5,
-            z: 1.5,
-            duration: 0.8,
-            ease: 'power2.inOut',
-          });
-
-          // Open book animation - rotate front cover
-          const frontCover = clickedBook.children[0];
-          gsap.to(frontCover.rotation, {
-            y: -Math.PI * 1.2,
-            duration: 1.2,
-            ease: 'back.out',
-            delay: 0.3,
-          });
-
-          // Navigate after animation
-          setTimeout(() => {
-            if (onCardClick) {
-              onCardClick(cardData);
-            }
-            openingBookRef.current = null;
-          }, 2000);
+          // Open the course outline modal immediately. The 3D book remains in
+          // the sphere, so clicking does not move, scale, or open the book.
+          openBookCourseOutline(clickedBook, onCardClick);
         }
       }
     };
@@ -320,7 +285,7 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
         hoveredBookRef.current = null;
       }
 
-      if (intersects.length > 0 && !openingBookRef.current) {
+      if (intersects.length > 0) {
         let hoveredBook: THREE.Group | null = null;
         for (let obj: any = intersects[0].object; obj; obj = obj.parent) {
           if (bookMeshes.includes(obj)) {
@@ -355,7 +320,7 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
             ease: 'power2.out',
           });
         }
-      } else if (hoveredBookRef.current && !openingBookRef.current) {
+      } else if (hoveredBookRef.current) {
         gsap.to(hoveredBookRef.current.scale, {
           x: 1,
           y: 1,
