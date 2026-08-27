@@ -74,28 +74,32 @@ export const ClassicBookGallery: React.FC<ClassicBookGalleryProps> = ({ cards, o
     scene.add(sphereGroup);
 
     const textGroups: THREE.Group[] = [];
-    const sphereRadius = window.innerWidth < 640 ? 3.5 : 3.25;
+    // Keep the center clear for the hero headline. The title halo still rotates
+    // in 3D, but its starting positions live outside the copy's safe zone.
+    const isMobile = window.innerWidth < 640;
+    const haloRadius = isMobile ? 3.4 : 6.4;
+    const haloVerticalScale = isMobile ? 0.92 : 0.7;
     const titleCount = cards.length;
 
     cards.forEach((card, index) => {
-      const phi = Math.acos(-1 + (2 * index) / Math.max(titleCount, 1));
-      const theta = Math.sqrt(Math.max(titleCount, 1) * Math.PI) * phi;
+      const angle = (index / Math.max(titleCount, 1)) * Math.PI * 2 - Math.PI / 2;
+      const depthOffset = ((index % 3) - 1) * 0.42;
 
       const titleGroup = new THREE.Group();
       titleGroup.position.set(
-        sphereRadius * Math.cos(theta) * Math.sin(phi),
-        sphereRadius * Math.sin(theta) * Math.sin(phi),
-        sphereRadius * Math.cos(phi),
+        haloRadius * Math.cos(angle),
+        haloRadius * Math.sin(angle) * haloVerticalScale,
+        depthOffset,
       );
       titleGroup.userData = { card, index };
 
       const glowSprite = createNeonTitleSprite(card, true);
-      glowSprite.scale.set(2.85, 0.92, 1);
+      glowSprite.scale.set(isMobile ? 2.05 : 2.08, isMobile ? 0.7 : 0.72, 1);
       glowSprite.material.opacity = 0.42;
       titleGroup.add(glowSprite);
 
       const titleSprite = createNeonTitleSprite(card, false);
-      titleSprite.scale.set(2.6, 0.78, 1);
+      titleSprite.scale.set(isMobile ? 1.85 : 1.9, isMobile ? 0.59 : 0.6, 1);
       titleSprite.material.opacity = 0.96;
       titleGroup.add(titleSprite);
 

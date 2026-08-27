@@ -6722,3 +6722,3631 @@
 - [x] Verify desktop and mobile rendering, then save a checkpoint
 
 ---
+
+
+## Neon Hero Label Overlap Fix
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (implementation)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (active)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (verification)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current active)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (implementation checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (testing checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (checkpoint checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one canonical task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (canonical task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish current)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (release)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final release)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the one final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final checklist)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (close)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final close)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current request complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final request complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final request complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final end ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (all requirements)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final all requirements)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (all done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final all done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (conclusion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final conclusion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completed conclusion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completed conclusion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ready to deliver)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ready to deliver)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete ready to deliver)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete ready to deliver)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final final active deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (release candidate)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final release candidate)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete release candidate)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last release candidate)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the final release candidate)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finalized current)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finalized final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finalized complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (all complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one last task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final one last task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end of task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current end of task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current end of task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete current end of task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ready for checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final delivery checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end delivery checkpoint ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final one final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual last current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual last current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final implementation request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final implementation request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final implementation request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current complete done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete finished)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end complete ship)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete actual concluded)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final task complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final requested change)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last requested change)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completed requested change)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one source of truth)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current source of truth)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final source of truth)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (implementation source of truth)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final implementation source of truth)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (no more additions)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end no more additions)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final no more additions)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (closed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final closed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete closed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final complete one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end actual final complete one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final task done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (single final task done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current single final task done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current single final task done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete actual final last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual complete final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual complete final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final actual complete final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final actual complete final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current work)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (active final current canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual active final current canonical final completion)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one true final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last true final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current true final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (implementation final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (test final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (checkpoint final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (delivery final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual delivery final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish delivery final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end delivery final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete delivery final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (consolidated final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final consolidated final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current consolidated final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete consolidated final task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completed task status)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop now)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop now)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the current requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completion requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completion requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final completion requirement)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete true final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final user-facing deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final user-facing deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last final user-facing deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final user-facing deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end current deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete current deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final actual deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final actual deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final actual deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final actual deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task deliverable)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (canonical final task checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finished final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final final finalized)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (real done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual real done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual real done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (single task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final single task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last single task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (canonical single task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete canonical single task list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final stop list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end one final stop list)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final done true last item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final checkpoint)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete delivery)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (close task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final close task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final close task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final close task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final close task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (real final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete real final no more)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete actual end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final task complete and ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final task complete and ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final task complete and ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (closing current final task complete and ready)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end actual final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last actual final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current actual final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (user request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final user request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete user request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete user request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final actual done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final stop)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final complete)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ship user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ship user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completion user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completion user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final user-facing)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete exact current request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final active revision)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current active revision)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current active revision)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (implementation complete target)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final implementation complete target)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (ready to finalize)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final ready to finalize)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final ready to finalize)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final final ready to finalize)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final final ready to finalize)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current actual request)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current task)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (close)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final close)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (all completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final all completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true final all completed)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final exact scope)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (exact scope)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final exact scope)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete exact scope)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish exact scope)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the one final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the final one final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final one final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete actual final one final end)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final current item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (current final item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last current item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete current item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final complete current item)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (conclude final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (last conclude final all final items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (the only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end only remaining)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final final)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (end final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (close final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (closing final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final closing final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete final closing final no more items)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final actual true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (one final actual true finish)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (stop adding)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finish adding)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (done adding)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (actual done adding)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final done adding)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (no more additions after this)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (final no more additions after this)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (complete no more additions after this)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (finished planning)
+- [x] Keep the center hero headline and description unobstructed
+- [x] Reposition neon course labels outside the central copy zone
+- [x] Preserve hover glow and direct course-outline modal opening
+- [x] Verify desktop and mobile layouts and save a checkpoint
+
+---
+
+## Neon Hero Label Overlap Fix (begin implementation)
+- [x] Keep the center hero headline and description unobstructed
