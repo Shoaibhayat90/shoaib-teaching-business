@@ -134,8 +134,8 @@ export default function Contact() {
                       Email
                     </h3>
                     <p className="text-foreground/70">
-                      <a href="mailto:info@itinsightacademy.com" className="hover:text-primary transition font-semibold">
-                        info@itinsightacademy.com
+                      <a href="mailto:shoaibhayat@icloud.com" className="hover:text-primary transition font-semibold">
+                        shoaibhayat@icloud.com
                       </a>
                     </p>
                     <p className="text-sm text-foreground/50 mt-2">We'll respond within 24 hours</p>
@@ -361,7 +361,7 @@ export default function Contact() {
               <h4 className="font-bold mb-4">Contact</h4>
               <ul className="space-y-2 text-sm">
                 <li><a href="tel:+15147012500" className="opacity-80 hover:opacity-100 transition">+1 514 701 2500</a></li>
-                <li><a href="mailto:info@itinsightacademy.com" className="opacity-80 hover:opacity-100 transition">info@itinsightacademy.com</a></li>
+                <li><a href="mailto:shoaibhayat@icloud.com" className="opacity-80 hover:opacity-100 transition">shoaibhayat@icloud.com</a></li>
               </ul>
             </div>
             <div>

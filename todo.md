@@ -10350,3 +10350,9 @@
 
 ## Neon Hero Label Overlap Fix (begin implementation)
 - [x] Keep the center hero headline and description unobstructed
+
+
+## Contact Email Update
+- [x] Replace public contact email references with shoaibhayat@icloud.com
+- [x] Preserve the existing form-delivery recipient unless explicitly changed in the backend configuration
+- [x] Run focused type/test checks and save a checkpoint

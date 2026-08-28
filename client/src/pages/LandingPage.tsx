@@ -453,7 +453,7 @@ export default function LandingPage() {
             </div>
             <div>
               <h4 className="font-bold mb-4">Contact</h4>
-              <p className="text-white/70">info@itinsightacademy.com</p>
+              <p className="text-white/70">shoaibhayat@icloud.com</p>
               <p className="text-white/70">+1 514 701 2500</p>
             </div>
             <div>

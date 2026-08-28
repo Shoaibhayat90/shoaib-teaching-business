@@ -95,7 +95,7 @@ describe("LandingPage", () => {
   it("displays footer with contact information", () => {
     render(<LandingPage />);
     
-    expect(screen.getByText("info@itinsightacademy.com")).toBeDefined();
+    expect(screen.getByText("shoaibhayat@icloud.com")).toBeDefined();
     expect(screen.getByText("+1 514 701 2500")).toBeDefined();
   });
 
