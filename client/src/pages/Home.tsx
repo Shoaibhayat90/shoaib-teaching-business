@@ -393,9 +393,9 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div className="flex justify-center">
                 <img
-                  src="/manus-storage/IMG_0190_8664fe11.png"
+                  src="/manus-storage/shoaib-hayat-portrait_ba3d72be.png"
                   alt="Shoaib Hayat"
-                  className="w-full max-w-sm rounded-lg shadow-lg object-cover"
+                  className="w-full max-w-sm aspect-[3/4] rounded-lg shadow-lg object-cover object-top"
                 />
               </div>
 
