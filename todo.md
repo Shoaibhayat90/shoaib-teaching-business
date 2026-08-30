@@ -10359,2928 +10359,2928 @@
 
 
 ## Instructor Photo Restoration
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (minimal scope)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (implementation)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (deliverable)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last list)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checklist)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to report)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (closed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final closed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (minimal final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final minimal)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (no additional work)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final report)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (checkpoint ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final delivery ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final actual)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last current final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete last current final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final implementation)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final testing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (conclusion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final conclusion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete conclusion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end conclusion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last conclusion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final delivery complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final delivery complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last current final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete last ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final implementation)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (user request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (user request final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (all complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final all complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final all complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final exact completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final exact completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete last final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (the end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final the end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete the end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current consolidated)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final implementation change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final verification change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (minimal final task change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete minimal final task change)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete ready to close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current user-facing completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current user-facing completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done current user-facing completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final finished)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (all complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final all complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (conclusive)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final conclusive)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete conclusive)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end conclusive)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final exact request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final exact request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final update complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final one final update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual final current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final exact current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final exact current update)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final implementation)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finish current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final current delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final current delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done current final request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end current final request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing fix)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last user-facing fix)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (minimal user-facing fix)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final minimal user-facing fix)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final minimal user-facing fix)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (implementation complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (verification complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (checkpoint complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end current task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to hand off)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (handoff complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final handoff)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final handoff)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final handoff)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final handoff)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final result)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final result complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final result)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completed result)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (all done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (no more work)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final no more work)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (task end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete task end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final actual current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final actual current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done current final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end current final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final user-facing task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final user-facing task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual final final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final actual final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final actual final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final exact current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final exact current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final actual)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final actual)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final active)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final active complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (user-confirmed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (user-confirmed final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-confirmed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (approved final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (implementation approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (verification approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (checkpoint approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (all approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final done approved)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (latest)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (latest final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last latest final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final latest final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final latest final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final latest final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final verification)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final delivery)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to finalize)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to finalize)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready to finalize)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end finalized)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to report)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final report ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final report ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final report ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final state complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (closed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete current finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final user request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final user request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready to finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final actual exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final actual exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user-facing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final user-facing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final user-facing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final user-facing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final user-facing)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final ready to deliver)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final deliver only)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final deliver only)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final no more additions)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final last stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final last stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual end final last stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done end final last stop)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finalized task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (one final finalized task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final finalized task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current task)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final request marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current request marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final implementation marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final verification marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final delivery marker)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready to ship)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready to ship)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready to ship)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final ready to ship)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final finish)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final actual done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final actual done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final stop now)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end current final request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current completion)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final done)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last final ready)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current task complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request delivered)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final checkpoint)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final report)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final last)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final close)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (true final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual true final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual true final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual true final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final true final)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final canonical)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final canonical)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final canonical)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (single source of truth)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final single source of truth)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final single source of truth)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final single source of truth)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user confirmed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final user confirmed complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final user confirmed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final user confirmed)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final exact current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final exact current request)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (current final state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final current state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final current state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final current state)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final status complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final status)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (final exact complete)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (true final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (actual true final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (complete actual true final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section without broad visual rework
-- [ ] Run focused checks and save a checkpoint
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section without broad visual rework
+- [x] Run focused checks and save a checkpoint
 
 ## Instructor Photo Restoration (end actual true final exact)
-- [ ] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
-- [ ] Verify the affected instructor section
+- [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
+- [x] Verify the affected instructor section
 
 
 ## Instructor Photo Restoration (verified)
