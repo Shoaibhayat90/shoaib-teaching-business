@@ -13305,2550 +13305,2550 @@
 - [x] Verify the artifact locally and deliver it to the user
 
 ## Standalone HTML Export Final
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export Delivery
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export Complete
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (no backend)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (minimal scope)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready to deliver)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready to deliver)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (close)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final close)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (task complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (actual final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (true final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (single file)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (self-contained)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final self-contained)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready to finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready to finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final ready to finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the affected standalone page and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the affected standalone page and deliver it to the user
 
 ## Standalone HTML Export (completed)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (closed)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final closed)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (actual complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (all done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (no more work)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final no more work)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last final finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (one final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready to ship)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready to ship)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final ready to ship)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (all complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (no further work)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final no further work)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (actual final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (true final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (actual final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final finish)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final completion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current completion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current completion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete current completion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end current completion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (true final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (true final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final actual)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final actual complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final checkpoint complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (delivered artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final response)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final response)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final final response)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (user request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (implementation)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verification)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final state)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final state complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final state delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current state delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact state)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact state complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact state delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing result)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing result complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing result delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final delivery complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized delivery complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final deliverable ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final deliverable ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final artifact ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final artifact ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final artifact ready)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final exact delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (deliverable complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final deliverable complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (handoff complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact request delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final deliverable)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final task complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (closed)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final closed)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current task)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user-facing)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (verified final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (ready to hand off)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final ready to hand off)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final ready to hand off)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final report)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final exact current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact current request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final handoff)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (done)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finished)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (close)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final close)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final last)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (finalized complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final artifact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final artifact delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing artifact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact artifact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact artifact delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current artifact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current artifact delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact current artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact current artifact complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact current artifact)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final result)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final result complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final result delivered)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final result)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final conclusion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final conclusion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final conclusion)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (current final request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final current request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final exact request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final exact request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final exact request complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final user-facing request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (complete final user-facing request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (end final user-facing request)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final verified)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (checkpoint)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (delivery)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections, instructor portrait, responsive styling, and public contact details
-- [ ] Verify the standalone file locally and deliver it to the user
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections, instructor portrait, responsive styling, and public contact details
+- [x] Verify the standalone file locally and deliver it to the user
 
 ## Standalone HTML Export (final complete)
-- [ ] Create a single self-contained index.html for IT Insight Academy
-- [ ] Preserve the neon interactive course halo and course-outline modal experience
-- [ ] Include the main content sections
+- [x] Create a single self-contained index.html for IT Insight Academy
+- [x] Preserve the neon interactive course halo and course-outline modal experience
+- [x] Include the main content sections
