@@ -13293,4 +13293,10 @@
 - [x] Inspect the uploaded IT-Insight-Academy.html structure and assets
 - [x] Load the uploaded HTML as the website homepage
 - [x] Verify the homepage renders correctly after import
-- [ ] Save the imported website version
+- [x] Save the imported website version
+
+
+## Smooth Navigation Scrolling
+- [x] Inspect all navigation and CTA links and their target sections
+- [x] Implement smooth scrolling with sticky-header offset and reduced-motion support
+- [ ] Verify navigation scrolling and save the updated website version

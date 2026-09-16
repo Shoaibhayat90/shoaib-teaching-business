@@ -719,4 +719,28 @@ window.addEventListener('academy-portal',e=>{portalOpen=e.detail.open;if(portalO
 document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();else start()});
 canvas.addEventListener('webglcontextlost',e=>{e.preventDefault();fail()});
 
-</script></body></html>
+</script><script>
+(() => {
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const headerOffset = () => {
+    const header = document.querySelector('.header');
+    return (header?.getBoundingClientRect().height || 0) + 12;
+  };
+  document.addEventListener('click', event => {
+    const link = event.target.closest('a[href^="#"]');
+    if (!link) return;
+    const hash = link.getAttribute('href');
+    if (!hash || hash === '#') return;
+    const target = document.querySelector(hash);
+    if (!target) return;
+    event.preventDefault();
+    const top = Math.max(0, target.getBoundingClientRect().top + window.scrollY - headerOffset());
+    window.scrollTo({
+      top,
+      behavior: prefersReducedMotion.matches ? 'auto' : 'smooth'
+    });
+    if (history.pushState) history.pushState(null, '', hash);
+  });
+})();
+</script>
+</body></html>
