@@ -13299,4 +13299,11 @@
 ## Smooth Navigation Scrolling
 - [x] Inspect all navigation and CTA links and their target sections
 - [x] Implement smooth scrolling with sticky-header offset and reduced-motion support
-- [ ] Verify navigation scrolling and save the updated website version
+- [x] Verify navigation scrolling and save the updated website version
+
+
+## SEO Optimization Pass
+- [x] Audit current HTML metadata, headings, content structure, and crawlability
+- [x] Add focused title, description, canonical, social metadata, and relevant structured data
+- [x] Add crawl-support files and strengthen internal course/navigation signals
+- [ ] Verify SEO changes and save the optimized website version
