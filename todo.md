@@ -13287,3 +13287,10 @@
 - [x] Restore Shoaib Hayat’s missing instructor photo using the existing project asset/reference
 - [x] Verify the affected instructor section without broad visual rework
 - [x] Run focused checks and save a checkpoint
+
+
+## Uploaded HTML Import
+- [x] Inspect the uploaded IT-Insight-Academy.html structure and assets
+- [x] Load the uploaded HTML as the website homepage
+- [x] Verify the homepage renders correctly after import
+- [ ] Save the imported website version
