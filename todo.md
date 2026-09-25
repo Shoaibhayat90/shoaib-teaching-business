@@ -13306,4 +13306,11 @@
 - [x] Audit current HTML metadata, headings, content structure, and crawlability
 - [x] Add focused title, description, canonical, social metadata, and relevant structured data
 - [x] Add crawl-support files and strengthen internal course/navigation signals
-- [ ] Verify SEO changes and save the optimized website version
+- [x] Verify SEO changes and save the optimized website version
+
+
+## Google Search Console Setup
+- [ ] Inspect available Google/Search Console connection options
+- [ ] Verify ownership of itinsightacademy.com
+- [ ] Submit https://itinsightacademy.com/sitemap.xml
+- [ ] Confirm the submission status and report the outcome
