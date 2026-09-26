@@ -36,4 +36,13 @@ describe("homepage interaction enhancements", () => {
     expect(source).toContain("googletagmanager.com/gtag/js");
     expect(source).toContain("window.gtag('event'");
   });
+
+  it("includes Calgary-focused SEO signals and matching visible content", () => {
+    expect(homepage).toContain("Technology Courses in Calgary");
+    expect(homepage).toContain('id="calgary"');
+    expect(homepage).toContain('id="calgary-faq"');
+    expect(homepage).toContain('"@type":"EducationalOrganization"');
+    expect(homepage).toContain('"@type":"FAQPage"');
+    expect(homepage).toContain('"name":"Calgary"');
+  });
 });
