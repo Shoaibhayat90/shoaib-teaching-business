@@ -68,7 +68,7 @@ async function startServer() {
       res.json({ success: true, reference: `ITA-${Date.now().toString(36).toUpperCase()}` });
     } catch (error) {
       console.error("[Inquiry] Failed to submit form:", error);
-      res.status(500).json({ error: "We could not send your request right now. Please email shoaibhayat@icloud.com." });
+      res.status(500).json({ error: "We could not send your request right now. Please email shoaib.hayyat@gmail.com." });
     }
   });
   // tRPC API

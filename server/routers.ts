@@ -43,7 +43,7 @@ export const appRouter = router({
             message: input.message,
           });
 
-          // Send email to shoaibhayat@icloud.com
+          // Send email to shoaib.hayyat@gmail.com
           const emailSent = await sendContactFormEmail({
             name: input.name,
             email: input.email,

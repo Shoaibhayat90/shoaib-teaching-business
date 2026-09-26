@@ -472,8 +472,8 @@ export default function Home() {
               <ul className="space-y-2 text-sm">
                 <li className="flex items-center gap-2">
                   <Mail className="w-4 h-4" />
-                  <a href="mailto:shoaibhayat@icloud.com" className="hover:text-primary transition-colors">
-                    shoaibhayat@icloud.com
+                  <a href="mailto:shoaib.hayyat@gmail.com" className="hover:text-primary transition-colors">
+                    shoaib.hayyat@gmail.com
                   </a>
                 </li>
                 <li className="flex items-center gap-2">
