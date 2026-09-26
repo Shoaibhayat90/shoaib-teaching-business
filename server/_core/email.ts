@@ -117,7 +117,7 @@ ${message}
   `.trim();
 
   return sendEmail({
-    to: 'info@itinsightacademy.com',
+    to: 'shoaibhayat@icloud.com',
     subject: `New Contact: ${subject}`,
     html,
     text,
