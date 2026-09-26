@@ -17,14 +17,23 @@ describe("homepage interaction enhancements", () => {
 
   it("includes compact responsive mobile navigation styles", () => {
     expect(homepage).toContain('id="navigation-polish"');
+    expect(homepage).toContain('id="mobile-menu-motion"');
     expect(homepage).toContain("header nav.open>a");
-    expect(homepage).toContain("min-height:44px");
+    expect(homepage).toContain("translateY(-12px)");
+    expect(homepage).toContain("prefers-reduced-motion:reduce");
   });
 
-  it("tracks certification-resource clicks without requiring an analytics vendor", () => {
+  it("highlights the active hero journey step", () => {
+    expect(homepage).toContain('id="hero-navigation-polish"');
+    expect(homepage).toContain('.journey-steps button[aria-current="step"]');
+  });
+
+  it("tracks certification-resource clicks and forwards them to GA4 when configured", () => {
     expect(homepage).toContain("cert-resource-link");
     expect(homepage).toContain("academy-resource-click");
     expect(homepage).toContain("window.dataLayer=window.dataLayer||[]");
-    expect(homepage).toContain("window.gtag");
+    expect(source).toContain("GA4_MEASUREMENT_ID");
+    expect(source).toContain("googletagmanager.com/gtag/js");
+    expect(source).toContain("window.gtag('event'");
   });
 });
