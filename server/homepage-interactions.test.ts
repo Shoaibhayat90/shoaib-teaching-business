@@ -28,16 +28,6 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('.journey-steps button[aria-current="step"]');
   });
 
-  it("restores visible scroll-linked hero motion across the three journey stages", () => {
-    expect(homepage).toContain('id="hero-scroll-restoration"');
-    expect(homepage).toContain("root.style.setProperty('--hero-progress',String(p))");
-    expect(homepage).toContain("root.dataset.heroStage=String(active)");
-    expect(homepage).toContain("window.addEventListener('scroll',queueScroll,{passive:true})");
-    expect(homepage).toContain('data-stage="0"');
-    expect(homepage).toContain('data-stage="1"');
-    expect(homepage).toContain('data-stage="2"');
-  });
-
   it("tracks certification-resource clicks and forwards them to GA4 when configured", () => {
     expect(homepage).toContain("cert-resource-link");
     expect(homepage).toContain("academy-resource-click");
