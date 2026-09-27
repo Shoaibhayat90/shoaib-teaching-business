@@ -28,6 +28,15 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('.journey-steps button[aria-current="step"]');
   });
 
+  it("keeps all three hero texts scroll-linked and visibly animated", () => {
+    expect(homepage).toContain('id="hero-scroll-fix"');
+    expect(homepage).toContain('.experience{height:210svh;min-height:1550px');
+    expect(homepage).toContain('root.style.setProperty(\'--hero-progress\',String(p))');
+    expect(homepage).toContain('root.dataset.heroStage=String(active)');
+    expect(homepage).toContain("window.addEventListener('scroll',queueScroll,{passive:true})");
+    expect(homepage.match(/class="story-slide/g)?.length).toBe(3);
+  });
+
   it("tracks certification-resource clicks and forwards them to GA4 when configured", () => {
     expect(homepage).toContain("cert-resource-link");
     expect(homepage).toContain("academy-resource-click");
