@@ -35,6 +35,10 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('root.dataset.heroStage=String(active)');
     expect(homepage).toContain("window.addEventListener('scroll',queueScroll,{passive:true})");
     expect(homepage.match(/class="story-slide/g)?.length).toBe(3);
+    expect(homepage).toContain('id="hero-scroll-handoff"');
+    expect(homepage).toContain("window.addEventListener('wheel'");
+    expect(homepage).toContain("window.addEventListener('touchmove'");
+    expect(homepage).toContain("academy-direct-scroll");
   });
 
   it("tracks certification-resource clicks and forwards them to GA4 when configured", () => {
