@@ -39,6 +39,11 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain("window.addEventListener('wheel'");
     expect(homepage).toContain("window.addEventListener('touchmove'");
     expect(homepage).toContain("academy-direct-scroll");
+    expect(homepage).toContain('const current=Number(window.academyManualProgress??0)');
+    expect(homepage).toContain('window.academyManualProgress=p');
+    expect(homepage).toContain('id="hero-gap-fix"');
+    expect(homepage).toContain('.experience{height:calc(100svh + 2px)!important;min-height:0!important}');
+    expect(homepage).toContain('if(span<200){manualProgress=n/2;paintStory(manualProgress);return}');
   });
 
   it("tracks certification-resource clicks and forwards them to GA4 when configured", () => {
