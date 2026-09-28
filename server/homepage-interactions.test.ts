@@ -70,4 +70,9 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('href="https://raniaiservices.com"');
     expect(homepage).toContain("Rani AI Services");
   });
+
+  it("adds breathing room before the Find your path section", () => {
+    expect(homepage).toContain('id="courses-spacing-refinement"');
+    expect(homepage).toContain('#courses{padding-top:clamp(96px,9vw,132px)!important}');
+  });
 });
