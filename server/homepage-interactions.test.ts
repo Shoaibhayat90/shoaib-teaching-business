@@ -63,4 +63,11 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('"@type":"FAQPage"');
     expect(homepage).toContain('"name":"Calgary"');
   });
+
+  it("includes the requested Rani AI Services footer credit", () => {
+    expect(homepage).toContain("homepage-footer");
+    expect(homepage).toContain("Powered by");
+    expect(homepage).toContain('href="https://raniaiservices.com"');
+    expect(homepage).toContain("Rani AI Services");
+  });
 });
