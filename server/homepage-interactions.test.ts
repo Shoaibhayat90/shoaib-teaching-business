@@ -75,4 +75,17 @@ describe("homepage interaction enhancements", () => {
     expect(homepage).toContain('id="courses-spacing-refinement"');
     expect(homepage).toContain('#courses{padding-top:clamp(96px,9vw,132px)!important}');
   });
+
+  it("meets the strict root-page SEO keyword and heading limits", () => {
+    const outerHead = source.slice(0, source.indexOf("</head>") + 7);
+    const keywords = outerHead.match(/<meta name="keywords" content="([^"]+)"/i)?.[1]?.split(",").map(value => value.trim()) ?? [];
+    expect(keywords.length).toBeGreaterThanOrEqual(3);
+    expect(keywords.length).toBeLessThanOrEqual(8);
+    const h1s = [...source.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/gi)];
+    const h2s = [...source.matchAll(/<h2\b[^>]*>([\s\S]*?)<\/h2>/gi)];
+    expect(h1s).toHaveLength(1);
+    expect(h2s).toHaveLength(1);
+    expect(h1s[0][1].replace(/<[^>]+>/g, "").trim().length).toBeLessThanOrEqual(80);
+    expect(h2s[0][1].replace(/<[^>]+>/g, "").trim().length).toBeLessThanOrEqual(80);
+  });
 });
