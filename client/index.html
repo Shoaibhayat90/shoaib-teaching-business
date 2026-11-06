@@ -373,6 +373,7 @@
       .inst-main.profile-trigger { cursor: pointer; transition: transform 0.2s ease, box-shadow 0.2s ease; }
       .inst-main.profile-trigger:hover, .inst-main.profile-trigger:focus-visible { box-shadow: 0 32px 64px rgba(27, 26, 23, 0.42); outline: none; }
       .inst-main.profile-trigger:focus-visible { outline: 2px solid #e08a64; outline-offset: 4px; }
+      .instructor-card-photo { width: 76px; height: 76px; border-radius: 50%; object-fit: cover; object-position: center 28%; border: 2px solid rgba(224, 138, 100, 0.8); margin-bottom: 18px; }
       .inst-kicker { font-size: 12.5px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #e08a64; margin-bottom: 14px; }
       .inst-name { font-family: var(--serif); font-size: clamp(44px, 4.6vw, 58px); font-weight: 500; line-height: 1.05; letter-spacing: -0.015em; }
       .inst-name em { font-style: italic; color: #e08a64; }
@@ -477,6 +478,9 @@
       .modal-foot { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 30px; padding-top: 24px; border-top: 1px solid var(--line); }
       .modal-foot .price strong { font-size: 34px; }
       .profile-modal { max-width: 760px; }
+      .profile-heading { display: flex; align-items: center; gap: 18px; padding-right: 44px; }
+      .profile-heading h3 { padding-right: 0; }
+      .profile-popup-photo { width: 88px; height: 88px; flex: 0 0 88px; border-radius: 50%; object-fit: cover; object-position: center 28%; border: 2px solid var(--clay); }
       .profile-intro { margin-top: 14px; color: var(--ink-soft); font-size: 16px; line-height: 1.6; }
       .profile-list { margin: 0; padding-left: 20px; list-style: disc; color: var(--ink-soft); }
       .profile-list li { padding: 6px 0; font-size: 15.5px; line-height: 1.5; }
@@ -615,6 +619,9 @@
         .footer-bottom { flex-direction: column; gap: 4px; }
       }
       @media (max-width: 400px) {
+        .profile-heading { align-items: flex-start; gap: 12px; }
+        .profile-popup-photo { width: 68px; height: 68px; flex-basis: 68px; }
+        .profile-heading h3 { font-size: 25px; }
         .wordmark { font-size: 19px; }
         .hero h1 { font-size: 37px; line-height: 1.08; }
         .hero-sub { font-size: 16.5px; }
@@ -892,6 +899,7 @@
             <div class="stack">
               <div class="inst-frame" data-parallax="0.04" aria-hidden="true"></div>
               <div class="inst-main profile-trigger" data-parallax="0.06" role="button" tabindex="0" aria-haspopup="dialog" aria-controls="instructorModal" aria-label="Open Shoaib Hayat’s professional profile">
+                <img class="instructor-card-photo" src="/manus-storage/pasted_file_dKGuU7_image_5cb797c3.png" alt="Shoaib Hayat, Founder and Lead Instructor" />
                 <p class="inst-kicker">Your instructor</p>
                 <p class="inst-name">Shoaib<em>.</em></p>
                 <p class="inst-role">One instructor for the whole bootcamp — every course, every class, taught live and in person in Calgary.</p>
@@ -1055,7 +1063,10 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
         </button>
         <p class="course-cat">Professional profile</p>
-        <h3 id="instructorModalTitle">Shoaib Hayat — Founder &amp; Lead Instructor</h3>
+        <div class="profile-heading">
+          <img class="profile-popup-photo" src="/manus-storage/pasted_file_dKGuU7_image_5cb797c3.png" alt="Shoaib Hayat" />
+          <h3 id="instructorModalTitle">Shoaib Hayat — Founder &amp; Lead Instructor</h3>
+        </div>
         <p class="profile-intro">Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and System Quality Engineer — every Academy course is taught live by him, in person, from first class to final project.</p>
         <h4>Experience</h4>
         <ul class="profile-list">

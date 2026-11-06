@@ -71,6 +71,16 @@ describe("cream homepage", () => {
     expect(homepage).toContain("closeInstructorProfile");
   });
 
+  it("uses the supplied portrait on the card and beside the profile heading", () => {
+    const portrait = "/manus-storage/pasted_file_dKGuU7_image_5cb797c3.png";
+    expect(homepage.match(new RegExp(portrait.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&"), "g")) || []).toHaveLength(2);
+    expect(homepage).toContain('class="instructor-card-photo"');
+    expect(homepage).toContain('class="profile-popup-photo"');
+    expect(homepage).toContain("object-fit: cover");
+    expect(homepage).toContain("object-position: center 28%");
+    expect(homepage).toContain('alt="Shoaib Hayat, Founder and Lead Instructor"');
+  });
+
   it("includes reduced-motion handling and the powered-by credit", () => {
     expect(homepage).toContain("prefers-reduced-motion");
     expect(homepage).toContain("Powered by Rani AI Services");
