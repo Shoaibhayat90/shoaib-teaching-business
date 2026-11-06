@@ -61,7 +61,7 @@ describe("cream homepage", () => {
     expect(homepage).toContain("Shoaib Hayat — Founder &amp; Lead Instructor");
     expect(homepage).toContain("Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and System Quality Engineer");
     expect(homepage).toContain("Founder — Rani AI Services (websites, AI &amp; automation) and IT Insight Academy");
-    expect(homepage).toContain("IT Instructor — and subject matter expert for multiple education sectors (2022–present)");
+    expect(homepage).toContain("Educator — IT instructor, Soft Skills and Career Coach, and subject matter expert for multiple education sectors (2022–present)");
     expect(homepage).toContain("QA Analyst — PTW, Montreal");
     expect(homepage).toContain("M.Eng, Quality Systems Engineering — Concordia University");
     expect(homepage).toContain("Artificial Intelligence for Beginners — Simplilearn");
