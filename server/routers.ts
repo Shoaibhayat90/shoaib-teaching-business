@@ -43,7 +43,7 @@ export const appRouter = router({
             message: input.message,
           });
 
-          // Send email to shoaib.hayyat@gmail.com
+          // Send email to the academy inbox.
           const emailSent = await sendContactFormEmail({
             name: input.name,
             email: input.email,

@@ -43,6 +43,7 @@ async function startServer() {
     const body = req.body ?? {};
     const name = typeof body.name === "string" ? body.name.trim() : "";
     const email = typeof body.email === "string" ? body.email.trim() : "";
+    const phone = typeof body.phone === "string" ? body.phone.trim() : "";
     const course = typeof body.course === "string" ? body.course.trim() : "Course inquiry";
     const availability = typeof body.availability === "string" ? body.availability.trim() : "Flexible";
     const message = typeof body.message === "string" ? body.message.trim() : "";
@@ -58,8 +59,8 @@ async function startServer() {
     const subject = `Enrollment request: ${course}`;
     const fullMessage = `Course: ${course}\nPreferred schedule: ${availability}\n\nGoals or questions:\n${message || "Not provided"}`;
     try {
-      await createContactSubmission({ name, email, phone: null, subject, message: fullMessage });
-      const emailSent = await sendContactFormEmail({ name, email, phone: null, subject, message: fullMessage });
+      await createContactSubmission({ name, email, phone: phone || null, subject, message: fullMessage });
+      const emailSent = await sendContactFormEmail({ name, email, phone: phone || null, subject, message: fullMessage });
       await notifyOwner({
         title: `New enrollment request from ${name}`,
         content: `Email: ${email}\nCourse: ${course}\nPreferred schedule: ${availability}\n\n${fullMessage}`,
@@ -68,7 +69,7 @@ async function startServer() {
       res.json({ success: true, reference: `ITA-${Date.now().toString(36).toUpperCase()}` });
     } catch (error) {
       console.error("[Inquiry] Failed to submit form:", error);
-      res.status(500).json({ error: "We could not send your request right now. Please email shoaib.hayyat@gmail.com." });
+      res.status(500).json({ error: "We could not send your request right now. Please email info@itinsightacademy.com." });
     }
   });
   // tRPC API
