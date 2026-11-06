@@ -59,7 +59,7 @@ describe("cream homepage", () => {
     expect(homepage).toContain('role="button" tabindex="0"');
     expect(homepage).toContain('id="instructorModal"');
     expect(homepage).toContain("Shoaib Hayat — Founder &amp; Lead Instructor");
-    expect(homepage).toContain("Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and System Quality Engineer");
+    expect(homepage).toContain("Founder of IT Insight Academy. Shoaib is a Calgary-based entrepreneur, IT instructor and System Quality Engineer");
     expect(homepage).toContain("Founder — Rani AI Services (websites, AI &amp; automation) and IT Insight Academy");
     expect(homepage).toContain("Educator — IT instructor, Soft Skills and Career Coach, and subject matter expert for multiple education sectors (2022–present)");
     expect(homepage).toContain("QA Analyst — PTW, Montreal");
