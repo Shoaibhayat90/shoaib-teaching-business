@@ -84,6 +84,9 @@
       .btn-ghost-light:hover { border-color: var(--cream-on-black); }
       .btn-clay { background: var(--clay); color: #fff; }
       .btn-clay:hover { background: var(--clay-deep); }
+      .btn:disabled { cursor: wait; opacity: 0.72; }
+      .submit-spinner { width: 15px; height: 15px; border: 2px solid rgba(255,255,255,0.45); border-top-color: #fff; border-radius: 50%; animation: submit-spin 0.7s linear infinite; }
+      @keyframes submit-spin { to { transform: rotate(360deg); } }
       .btn-outline { background: transparent; color: var(--ink); border-color: var(--line-dark); }
       .btn-outline:hover { border-color: var(--ink); }
       .topbar .btn { padding: 9px 20px; }
@@ -423,6 +426,7 @@
       .form-sent { display: none; background: #2a2e22; border: 1px solid #4c5537; color: #dfe8c8; border-radius: 10px; padding: 14px 16px; font-size: 15px; }
       .form-consent { display: flex; align-items: flex-start; gap: 9px; color: var(--muted-on-black); font-size: 13.5px; line-height: 1.45; }
       .form-consent input { width: 18px; height: 18px; margin: 1px 0 0; accent-color: var(--clay); flex: 0 0 auto; }
+      .form-sent.success { display: block; background: #2a2e22; border-color: #70874e; color: #e7f2d2; }
       .form-sent.error { display: block; background: #4a2922; border-color: #a45742; color: #ffe6dc; }
 
       /* ---------- footer ---------- */
@@ -670,7 +674,7 @@
         <div class="hero-spot" aria-hidden="true"></div>
         <div class="wrap hero-grid">
           <div class="hero-copy">
-            <p class="hero-tag">Calgary · IT BOOTCAM · Open to everyone</p>
+            <p class="hero-tag">Calgary · IT BOOTCAMP · Open to everyone</p>
             <h1>Break into tech, <em>step by step</em> — a bootcamp built for everyone.</h1>
             <p class="hero-sub">IT Insight Academy is a practical IT bootcamp in Calgary for students, complete beginners, and career changers — anyone who wants real tech skills. Train live and in person, build a real project, and finish with a completion certificate.</p>
             <div class="hero-ctas">
@@ -971,7 +975,7 @@
                 <textarea id="fMsg" name="message" rows="3" placeholder="Your experience level, your goal, questions…"></textarea>
               </div>
               <label class="form-consent"><input id="fConsent" name="consent" type="checkbox" required /> <span>I agree to be contacted about this enrollment request.</span></label>
-              <button type="submit" class="btn btn-clay" style="padding: 14px 22px;">Send enrollment request</button>
+              <button type="submit" class="btn btn-clay" style="padding: 14px 22px;"><span class="submit-label">Send enrollment request</span><span class="submit-spinner" hidden aria-hidden="true"></span></button>
               <p class="form-note">Your request is sent securely to the academy. We will reply about availability and next steps.</p>
               <div class="form-sent" id="formSent" role="status" aria-live="polite"></div>
             </form>
@@ -986,7 +990,7 @@
           <div>
             <span class="wordmark">IT Insight <em>Academy</em></span>
             <p class="footer-about">A practical, in-person IT bootcamp in Calgary — for students, complete beginners, career changers, and anyone starting in tech.</p>
-            <p class="footer-about">IT Insight Academy is operated by Rani AI Services, a registered proprietorship based in Calgary, Alberta, Canada.</p>
+            <p class="footer-about">IT Insight Academy is operated by <a href="https://raniaiservices.com/" target="_blank" rel="noopener noreferrer">Rani AI Services</a>, a registered proprietorship based in Calgary, Alberta, Canada.</p>
           </div>
           <div>
             <h4>Courses</h4>
@@ -1290,6 +1294,8 @@
         e.preventDefault();
         var form = e.currentTarget;
         var submit = form.querySelector('button[type="submit"]');
+        var submitLabel = submit.querySelector('.submit-label');
+        var submitSpinner = submit.querySelector('.submit-spinner');
         var sent = document.getElementById("formSent");
         var payload = {
           name: document.getElementById("fName").value.trim(),
@@ -1300,9 +1306,11 @@
           consent: document.getElementById("fConsent").checked
         };
         sent.classList.remove("error");
+        sent.classList.remove("success");
         sent.style.display = "none";
         submit.disabled = true;
-        submit.textContent = "Sending…";
+        submitLabel.textContent = "Sending…";
+        submitSpinner.hidden = false;
         try {
           var response = await fetch("/api/inquiries", {
             method: "POST",
@@ -1311,7 +1319,8 @@
           });
           var result = await response.json().catch(function () { return {}; });
           if (!response.ok || !result.success) throw new Error(result.error || "The request could not be sent.");
-          sent.textContent = "Thanks — your enrollment request was sent. We’ll contact you soon about availability and next steps.";
+          sent.textContent = "Success — your enrollment request was sent. We’ll contact you soon about availability and next steps.";
+          sent.classList.add("success");
           sent.style.display = "block";
           form.reset();
         } catch (error) {
@@ -1320,7 +1329,8 @@
           sent.style.display = "block";
         } finally {
           submit.disabled = false;
-          submit.textContent = "Send enrollment request";
+          submitLabel.textContent = "Send enrollment request";
+          submitSpinner.hidden = true;
         }
       });
 

@@ -38,6 +38,22 @@ describe("cream homepage", () => {
     expect(homepage).not.toContain("shoaib.hayyat@gmail.com");
   });
 
+  it("includes the requested footer link and corrected hero label", () => {
+    expect(homepage).toContain("Calgary · IT BOOTCAMP · Open to everyone");
+    expect(homepage).not.toContain("Calgary · IT BOOTCAM · Open to everyone");
+    expect(homepage).toContain('href="https://raniaiservices.com/"');
+    expect(homepage).toContain('target="_blank"');
+    expect(homepage).toContain("IT Insight Academy is operated by <a");
+  });
+
+  it("shows an accessible loading spinner and clear success state after submission", () => {
+    expect(homepage).toContain('class="submit-spinner" hidden aria-hidden="true"');
+    expect(homepage).toContain('sent.classList.add("success")');
+    expect(homepage).toContain("Success — your enrollment request was sent.");
+    expect(homepage).toContain('submitSpinner.hidden = false');
+    expect(homepage).toContain('submitSpinner.hidden = true');
+  });
+
   it("includes reduced-motion handling and the powered-by credit", () => {
     expect(homepage).toContain("prefers-reduced-motion");
     expect(homepage).toContain("Powered by Rani AI Services");
