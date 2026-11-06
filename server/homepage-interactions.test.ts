@@ -54,6 +54,23 @@ describe("cream homepage", () => {
     expect(homepage).toContain('submitSpinner.hidden = true');
   });
 
+  it("provides Shoaib’s clickable professional profile modal", () => {
+    expect(homepage).toContain('class="inst-main profile-trigger"');
+    expect(homepage).toContain('role="button" tabindex="0"');
+    expect(homepage).toContain('id="instructorModal"');
+    expect(homepage).toContain("Shoaib Hayat — Founder &amp; Lead Instructor");
+    expect(homepage).toContain("Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and quality engineer");
+    expect(homepage).toContain("Founder — Rani AI Services (websites, AI &amp; automation) and IT Insight Academy");
+    expect(homepage).toContain("IT Instructor — and subject matter expert for multiple education sectors (2022–present)");
+    expect(homepage).toContain("QA Analyst — PTW, Montreal");
+    expect(homepage).toContain("M.Eng, Quality Systems Engineering — Concordia University");
+    expect(homepage).toContain("Artificial Intelligence for Beginners — Simplilearn");
+    expect(homepage).not.toContain("IT Instructor — CDI College &amp; Reeves College (2022–present)");
+    expect(homepage).toContain("instructorModalClose");
+    expect(homepage).toContain("instructorModal.addEventListener(\"click\"");
+    expect(homepage).toContain("closeInstructorProfile");
+  });
+
   it("includes reduced-motion handling and the powered-by credit", () => {
     expect(homepage).toContain("prefers-reduced-motion");
     expect(homepage).toContain("Powered by Rani AI Services");
