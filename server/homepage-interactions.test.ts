@@ -81,6 +81,25 @@ describe("cream homepage", () => {
     expect(homepage).toContain('alt="Shoaib Hayat, Founder and Lead Instructor"');
   });
 
+  it("presents all delivery modes and class formats consistently", () => {
+    expect(homepage).toContain('content="IT Insight Academy offers practical technology courses — in person in Calgary, live online, or self-paced, one-on-one or in a group."');
+    expect(homepage).toContain("Learn in person in Calgary, live online from anywhere, or self-paced with recorded lessons and materials");
+    expect(homepage).toContain('id="waysToLearnTitle"');
+    expect(homepage).toContain("Live classes in Calgary.");
+    expect(homepage).toContain("Live classes by video, from anywhere.");
+    expect(homepage).toContain("Self-paced: recorded lessons and materials you work through on your own schedule.");
+    expect(homepage).toContain("Private instruction, at your pace.");
+    expect(homepage).toContain("Scheduled classes with other students.");
+    expect(homepage).toContain("Learn your way, finish with a project");
+    expect(homepage).toContain("3 ways</strong><span>to learn · 1-on-1 or group");
+    expect(homepage).toContain("In person in Calgary, live online, or self-paced</strong> — one-on-one or in a group");
+    expect(homepage).not.toContain("Live, in-person teaching");
+    expect(homepage).not.toContain("Live in-person instruction");
+    expect(homepage).not.toContain("Classes run in person</strong> in Calgary");
+    expect(homepage).not.toContain("Learn in person, finish with a project");
+    expect(homepage).not.toContain("Practise in the room");
+  });
+
   it("includes reduced-motion handling and the powered-by credit", () => {
     expect(homepage).toContain("prefers-reduced-motion");
     expect(homepage).toContain("Powered by Rani AI Services");

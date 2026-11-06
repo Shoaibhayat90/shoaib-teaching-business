@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light" />
-    <meta name="description" content="IT Insight Academy in Calgary offers practical, in-person technology courses for beginners, students, adults, and career changers." />
+    <meta name="description" content="IT Insight Academy offers practical technology courses — in person in Calgary, live online, or self-paced, one-on-one or in a group." />
     <meta name="keywords" content="Calgary technology courses, Calgary computer classes, Microsoft Office training Calgary, cybersecurity training Calgary, beginner IT courses, AI tools training" />
     <link rel="canonical" href="https://itinsightacademy.com/" />
     <link rel="icon" href="data:," />
@@ -251,6 +251,13 @@
       }
       .inc strong { display: block; font-size: 15.5px; font-weight: 600; line-height: 1.35; }
       .inc p { font-size: 14px; color: var(--muted); line-height: 1.5; margin-top: 2px; }
+      .ways-learn { padding: 42px 0 8px; background: var(--cream); }
+      .ways-head { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; margin-bottom: 20px; }
+      .ways-head h2 { margin: 0; font-size: clamp(26px, 3vw, 38px); }
+      .ways-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
+      .ways-grid > div { padding: 18px; background: var(--paper); border: 1px solid var(--line); border-radius: 14px; }
+      .ways-grid strong { display: block; font-size: 16px; }
+      .ways-grid p { margin-top: 6px; color: var(--muted); font-size: 14px; line-height: 1.45; }
 
       /* ---------- sections ---------- */
       .section { padding: 84px 0; }
@@ -530,6 +537,8 @@
         .inst-card { position: relative; left: 0; bottom: auto; max-width: none; margin-top: 14px; --rot: 0deg; }
         .inst-stat { padding-right: 16px; margin-right: 16px; }
         .included-in { grid-template-columns: 1fr; gap: 20px; padding: 28px 24px; }
+        .ways-grid { grid-template-columns: repeat(2, 1fr); }
+        .ways-head { display: block; }
         .section { padding: 60px 0; }
         .form-row { grid-template-columns: 1fr; }
         .footer-in { grid-template-columns: 1fr; gap: 32px; }
@@ -691,7 +700,7 @@
           <div class="hero-copy">
             <p class="hero-tag">Calgary · IT BOOTCAMP · Open to everyone</p>
             <h1>Break into tech, <em>step by step</em> — a bootcamp built for everyone.</h1>
-            <p class="hero-sub">IT Insight Academy is a practical IT bootcamp in Calgary for students, complete beginners, and career changers — anyone who wants real tech skills. Train live and in person, build a real project, and finish with a completion certificate.</p>
+            <p class="hero-sub">IT Insight Academy is a practical IT bootcamp for students, complete beginners, and career changers — anyone who wants real tech skills. Learn in person in Calgary, live online from anywhere, or self-paced with recorded lessons and materials; build a real project and finish with a completion certificate.</p>
             <div class="hero-ctas">
               <a class="btn btn-cream" href="#courses">Browse the 7 courses</a>
               <a class="btn btn-ghost-light" href="#enroll">Ask a question first</a>
@@ -752,7 +761,7 @@
         <div class="wrap included-in">
           <div class="inc">
             <span class="inc-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
-            <div><strong>Live, in-person teaching</strong><p>A real instructor in the room — ask questions as you go.</p></div>
+            <div><strong>Live or self-paced learning</strong><p>Choose in-person or online live teaching, or work through recorded lessons on your own schedule.</p></div>
           </div>
           <div class="inc">
             <span class="inc-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
@@ -769,6 +778,22 @@
         </div>
       </div>
 
+      <!-- WAYS TO LEARN -->
+      <section class="ways-learn" aria-labelledby="waysToLearnTitle">
+        <div class="wrap">
+          <div class="ways-head">
+            <p class="sec-kicker">Ways to learn</p>
+            <h2 id="waysToLearnTitle">Choose the format that <em>fits you</em></h2>
+          </div>
+          <div class="ways-grid">
+            <div><strong>In person</strong><p>Live classes in Calgary.</p></div>
+            <div><strong>Online</strong><p>Live classes by video, from anywhere.</p></div>
+            <div><strong>Asynchronous</strong><p>Self-paced: recorded lessons and materials you work through on your own schedule.</p></div>
+            <div><strong>One-on-one</strong><p>Private instruction, at your pace.</p></div>
+            <div><strong>Group</strong><p>Scheduled classes with other students.</p></div>
+          </div>
+        </div>
+      </section>
       <!-- COURSES -->
       <section class="section layered" id="courses">
         <div class="watermark" data-parallax="0.06" aria-hidden="true" style="top: 26px; right: -30px;">learn</div>
@@ -776,7 +801,7 @@
           <div class="sec-head">
             <p class="sec-kicker">Courses &amp; tuition</p>
             <h2>Seven courses, <em>one clear price</em> each</h2>
-            <p>Pick where you are today. Every course includes live instruction, materials, a practical project, and a completion certificate.</p>
+            <p>Pick where you are today. Every course includes instruction, materials, a practical project, and a completion certificate — with delivery and class format options to suit you.</p>
           </div>
           <div class="course-grid" id="courseGrid"></div>
           <p class="tuition-note">Tuition is in Canadian dollars and shown as an estimate. Certification exam fees, where a course leads to an external exam, are not included.</p>
@@ -803,7 +828,7 @@
             <aside class="aside-card">
               <h3>Every tuition includes</h3>
               <ul>
-                <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Live, in-person instruction</span></li>
+                <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>In-person, online, or self-paced learning</span></li>
                 <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>All learning materials</span></li>
                 <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>A practical project</span></li>
                 <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Academy completion certificate</span></li>
@@ -825,8 +850,8 @@
                 <p class="sheet-kicker">Your bootcamp path</p>
                 <ul class="sheet-list">
                   <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Choose your starting point</span></li>
-                  <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Learn live, in person</span></li>
-                  <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Practise on real tasks, in the room</span></li>
+                  <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Learn in person, online, or self-paced</span></li>
+                  <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Practise with live guidance or self-paced tasks</span></li>
                   <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Build your final project</span></li>
                   <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span>Earn your completion certificate</span></li>
                 </ul>
@@ -853,7 +878,7 @@
                 </div>
                 <div class="step">
                   <span class="step-num">3</span>
-                  <div><h3>Learn in person, finish with a project</h3><p>Attend live classes in Calgary, build your practical project as you learn, and leave with your completion certificate.</p></div>
+                  <div><h3>Learn your way, finish with a project</h3><p>Learn in person in Calgary, live online from anywhere, or self-paced with recorded lessons and materials; build your practical project and earn your completion certificate.</p></div>
                 </div>
               </div>
             </div>
@@ -864,8 +889,8 @@
               <p>Technical words are explained the moment they appear — no jargon left hanging, no question too basic to ask.</p>
             </div>
             <div class="principle">
-              <h3>Practise in the room</h3>
-              <p>Lessons are hands-on. You work on a computer during class, with the instructor there while you try things — not after.</p>
+              <h3>Practise with support</h3>
+              <p>Choose live guidance in person or online, or work through recorded lessons and materials at your own pace.</p>
             </div>
             <div class="principle">
               <h3>Small steps, steady pace</h3>
@@ -888,11 +913,11 @@
                 <p class="sec-kicker">Your instructor</p>
                 <h2>One teacher, <em>start to finish</em></h2>
               </div>
-              <p>Every bootcamp course is taught live by Shoaib — the same person from your first class to your final project. Lessons move step by step, in plain language, with time to practise in the room rather than homework you face alone.</p>
+              <p>Every bootcamp course is taught by Shoaib across the academy’s three delivery modes — in person, live online, or self-paced. Choose one-on-one or group learning, with step-by-step lessons in plain language and time to practise at your own pace.</p>
               <p>The bootcamp is open to everyone, whatever your starting point: students exploring tech, people opening a laptop for the first time, newcomers building Canadian workplace skills, and career changers moving toward IT support, QA, and security roles. If you're starting out, you belong here.</p>
               <ul class="know-list">
                 <li><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span><strong>No experience needed</strong> for the foundation courses</span></li>
-                <li><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span><strong>Classes run in person</strong> in Calgary</span></li>
+                <li><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span><strong>In person in Calgary, live online, or self-paced</strong> — one-on-one or in a group</span></li>
                 <li><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg><span><strong>Questions answered live,</strong> not left in a forum</span></li>
               </ul>
             </div>
@@ -902,11 +927,11 @@
                 <img class="instructor-card-photo" src="/manus-storage/pasted_file_dKGuU7_image_5cb797c3.png" alt="Shoaib Hayat, Founder and Lead Instructor" />
                 <p class="inst-kicker">Your instructor</p>
                 <p class="inst-name">Shoaib<em>.</em></p>
-                <p class="inst-role">One instructor for the whole bootcamp — every course, every class, taught live and in person in Calgary.</p>
+                <p class="inst-role">One instructor for the whole bootcamp — every course available in person, live online, or self-paced, one-on-one or in a group.</p>
                 <div class="inst-stats">
                   <div class="inst-stat"><strong>7</strong><span>courses taught</span></div>
                   <div class="inst-stat"><strong>3–8 wks</strong><span>per course</span></div>
-                  <div class="inst-stat"><strong>100%</strong><span>live &amp; in person</span></div>
+                  <div class="inst-stat"><strong>3 ways</strong><span>to learn · 1-on-1 or group</span></div>
                 </div>
               </div>
               <div class="inst-card" data-parallax="0.11">
@@ -933,11 +958,11 @@
             </div>
             <div class="faq">
               <button type="button" aria-expanded="false">I've never used a computer. Where do I start?<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></button>
-              <div class="faq-body"><p>Start with Computer Basics (4 weeks, $200) or Internet Usage (3 weeks, $249). Both assume nothing — you'll learn the parts of a computer, files and folders, email, and staying safe online, in person and at an easy pace.</p></div>
+              <div class="faq-body"><p>Start with Computer Basics (4 weeks, $200) or Internet Usage (3 weeks, $249). Both assume nothing — you'll learn the parts of a computer, files and folders, email, and staying safe online in person, live online, or self-paced at an easy pace.</p></div>
             </div>
             <div class="faq">
               <button type="button" aria-expanded="false">What's included in the tuition?<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></button>
-              <div class="faq-body"><p>Every course includes live in-person instruction, all learning materials, a practical project you complete during the course, and an academy certificate of completion. Tuition is quoted in Canadian dollars.</p></div>
+              <div class="faq-body"><p>Every course includes instruction in your chosen delivery mode, all learning materials, a practical project, and an academy certificate of completion. Choose one-on-one or group learning. Tuition is quoted in Canadian dollars.</p></div>
             </div>
             <div class="faq">
               <button type="button" aria-expanded="false">Are certification exam fees included?<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></button>
@@ -1005,7 +1030,7 @@
         <div class="footer-in">
           <div>
             <span class="wordmark">IT Insight <em>Academy</em></span>
-            <p class="footer-about">A practical, in-person IT bootcamp in Calgary — for students, complete beginners, career changers, and anyone starting in tech.</p>
+            <p class="footer-about">A practical IT bootcamp with in-person classes in Calgary, live online teaching, and self-paced learning — for students, complete beginners, career changers, and anyone starting in tech.</p>
             <p class="footer-about">IT Insight Academy is operated by <a href="https://raniaiservices.com/" target="_blank" rel="noopener noreferrer">Rani AI Services</a>, a registered proprietorship based in Calgary, Alberta, Canada.</p>
           </div>
           <div>
@@ -1047,7 +1072,7 @@
         <ul class="modal-topics" id="modalTopics"></ul>
         <h4>Every course includes</h4>
         <div class="modal-includes" id="modalIncludes">
-          <span>Live in-person instruction</span><span>Materials</span><span>Practical project</span><span>Completion certificate</span>
+          <span>In-person, online, or self-paced learning</span><span>Materials</span><span>Practical project</span><span>Completion certificate</span>
         </div>
         <div class="modal-foot">
           <div class="price"><strong id="modalPrice"></strong><span>CAD · exam fees not included</span></div>
@@ -1067,7 +1092,7 @@
           <img class="profile-popup-photo" src="/manus-storage/pasted_file_dKGuU7_image_5cb797c3.png" alt="Shoaib Hayat" />
           <h3 id="instructorModalTitle">Shoaib Hayat — Founder &amp; Lead Instructor</h3>
         </div>
-        <p class="profile-intro">Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and System Quality Engineer — every Academy course is taught live by him, in person, from first class to final project.</p>
+        <p class="profile-intro">Founder of IT Insight Academy. Shoaib is a Calgary-based IT instructor and System Quality Engineer — every Academy course is taught by him in person, live online, or through self-paced materials, from first lesson to final project.</p>
         <h4>Experience</h4>
         <ul class="profile-list">
           <li>Founder — Rani AI Services (websites, AI &amp; automation) and IT Insight Academy</li>
@@ -1251,10 +1276,10 @@
         document.getElementById("modalCat").textContent = c.cat;
         document.getElementById("modalTitle").textContent = c.name;
         document.getElementById("modalMeta").innerHTML =
-          "<span>" + clockSvg + " " + c.weeks + " weeks</span><span>" + c.level + "</span><span>Live, in person · Calgary</span>";
+          "<span>" + clockSvg + " " + c.weeks + " weeks</span><span>" + c.level + "</span><span>In person · live online · self-paced</span>";
         var modalCert = document.getElementById("modalCert");
         var modalIncludes = document.getElementById("modalIncludes");
-        modalIncludes.innerHTML = "<span>Live in-person instruction</span><span>Materials</span><span>Practical project</span><span>Completion certificate</span>" + (c.cert ? "<span>" + c.cert + "</span>" : "");
+        modalIncludes.innerHTML = "<span>In-person, online, or self-paced learning</span><span>Materials</span><span>Practical project</span><span>Completion certificate</span>" + (c.cert ? "<span>" + c.cert + "</span>" : "");
         if (c.cert) {
           document.getElementById("modalCertTitle").textContent = "Includes " + c.cert;
           modalCert.classList.add("show");
